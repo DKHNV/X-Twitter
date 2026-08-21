@@ -1,0 +1,30 @@
+name: DNS maintenance v1
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Run checks only; do not modify or commit managed X/Twitter DNS state"
+        required: false
+        default: true
+        type: boolean
+
+  schedule:
+    - cron: "1 3,9,15,21 * * *"
+      timezone: "Europe/Helsinki"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dns-maintenance-x-twitter-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  maintain:
+    uses: DKHNV/DNS-Maintenance/.github/workflows/reusable-maintenance.yml@d2b7dffa3e79269e6f63ffb243ebf2abbfeae3eb
+    with:
+      config_path: dns-maintenance-v1.json
+      collection: x-twitter
+      dry_run: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run }}
+      engine_ref: d2b7dffa3e79269e6f63ffb243ebf2abbfeae3eb
