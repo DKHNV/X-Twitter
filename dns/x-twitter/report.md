@@ -1,13 +1,13 @@
 # X-Twitter DNS Maintenance Report
 
-Generated: `2026-08-21T09:44:03Z`
+Generated: `2026-08-21T12:31:52Z`
 
 ## DNS lifecycle
 
 | State | Hosts |
 |---|---:|
-| Active | 28 |
-| Pending | 134 |
+| Active | 30 |
+| Pending | 280 |
 | Suspect | 0 |
 | Quarantine | 0 |
 | Expired | 0 |
@@ -17,7 +17,7 @@ Generated: `2026-08-21T09:44:03Z`
 | State | Hosts |
 |---|---:|
 | Alive | 24 |
-| Unknown | 4 |
+| Unknown | 6 |
 | Suspect | 0 |
 | Dead | 0 |
 
@@ -25,28 +25,30 @@ Generated: `2026-08-21T09:44:03Z`
 
 The score is based on measured HTTPS/TLS checks within the configured calendar-day window. SKIPPED observations are excluded.
 
-Measured hosts: **28**
-Average stability: **85.7%**
+Measured hosts: **30**
+Average stability: **80.0%**
 
 ## Current HTTPS/TLS failures
 
 | Type | Hosts |
 |---|---:|
-| TIMEOUT | 3 |
+| TIMEOUT | 5 |
 | TLS_ERROR | 1 |
 
 ### Failure details
 
 | Hostname | State | Since | Observations | Last error | IPv4 | Stability | Samples |
 |---|---|---|---:|---|---|---:|---:|
-| `r.twimg.com` | unknown | `2026-08-21T09:44:03Z` | 1 | TIMEOUT | 104.244.42.137, 104.244.42.9 | 0.0 | 1 |
-| `syndication-o.twimg.com` | unknown | `2026-08-21T09:44:03Z` | 1 | TIMEOUT | 104.244.42.137, 104.244.42.201, 104.244.42.73 | 0.0 | 1 |
-| `syndication.twimg.com` | unknown | `2026-08-21T09:44:03Z` | 1 | TIMEOUT | 104.244.42.136, 104.244.42.72, 104.244.42.8 | 0.0 | 1 |
-| `www.t.co` | unknown | `2026-08-21T09:44:03Z` | 1 | TLS_ERROR | 162.159.140.229, 172.66.0.227 | 0.0 | 1 |
+| `mx3.twitter.com` | unknown | `2026-08-21T12:31:52Z` | 1 | TIMEOUT | 199.59.148.207 | 0.0 | 1 |
+| `mx4.twitter.com` | unknown | `2026-08-21T12:31:52Z` | 1 | TIMEOUT | 199.16.156.115 | 0.0 | 1 |
+| `r.twimg.com` | unknown | `2026-08-21T09:44:03Z` | 2 | TIMEOUT | 104.244.42.137, 104.244.42.201, 104.244.42.73 | 0.0 | 2 |
+| `syndication-o.twimg.com` | unknown | `2026-08-21T09:44:03Z` | 2 | TIMEOUT | 104.244.42.137, 104.244.42.201, 104.244.42.73 | 0.0 | 2 |
+| `syndication.twimg.com` | unknown | `2026-08-21T09:44:03Z` | 2 | TIMEOUT | 104.244.42.136, 104.244.42.200, 104.244.42.72 | 0.0 | 2 |
+| `www.t.co` | unknown | `2026-08-21T09:44:03Z` | 2 | TLS_ERROR | 162.159.140.229, 172.66.0.227 | 0.0 | 2 |
 
 ## Discovery
 
-Discovery state updated: `2026-08-21T09:44:03Z`
+Discovery state updated: `2026-08-21T12:31:52Z`
 
 ## Notes
 

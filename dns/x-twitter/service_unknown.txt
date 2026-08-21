@@ -1,3 +1,5 @@
+mx3.twitter.com
+mx4.twitter.com
 r.twimg.com
 syndication-o.twimg.com
 syndication.twimg.com
