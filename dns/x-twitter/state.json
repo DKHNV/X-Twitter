@@ -1,0 +1,270 @@
+{
+  "hosts": {
+    "abs.twimg.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 0,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T09:36:50Z",
+      "hostname": "abs.twimg.com",
+      "ipv4": [],
+      "last_check": null,
+      "last_negative": null,
+      "last_result": "UNTESTED",
+      "last_success": null,
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {},
+      "safety_reason": null,
+      "sources": [
+        "bootstrap_seed"
+      ],
+      "status": "pending"
+    },
+    "api.twitter.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 0,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T09:36:50Z",
+      "hostname": "api.twitter.com",
+      "ipv4": [],
+      "last_check": null,
+      "last_negative": null,
+      "last_result": "UNTESTED",
+      "last_success": null,
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {},
+      "safety_reason": null,
+      "sources": [
+        "bootstrap_seed"
+      ],
+      "status": "pending"
+    },
+    "api.x.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 0,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T09:36:50Z",
+      "hostname": "api.x.com",
+      "ipv4": [],
+      "last_check": null,
+      "last_negative": null,
+      "last_result": "UNTESTED",
+      "last_success": null,
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {},
+      "safety_reason": null,
+      "sources": [
+        "bootstrap_seed"
+      ],
+      "status": "pending"
+    },
+    "pbs.twimg.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 0,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T09:36:50Z",
+      "hostname": "pbs.twimg.com",
+      "ipv4": [],
+      "last_check": null,
+      "last_negative": null,
+      "last_result": "UNTESTED",
+      "last_success": null,
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {},
+      "safety_reason": null,
+      "sources": [
+        "bootstrap_seed"
+      ],
+      "status": "pending"
+    },
+    "publish.x.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 0,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T09:36:50Z",
+      "hostname": "publish.x.com",
+      "ipv4": [],
+      "last_check": null,
+      "last_negative": null,
+      "last_result": "UNTESTED",
+      "last_success": null,
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {},
+      "safety_reason": null,
+      "sources": [
+        "bootstrap_seed"
+      ],
+      "status": "pending"
+    },
+    "t.co": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 0,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T09:36:50Z",
+      "hostname": "t.co",
+      "ipv4": [],
+      "last_check": null,
+      "last_negative": null,
+      "last_result": "UNTESTED",
+      "last_success": null,
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {},
+      "safety_reason": null,
+      "sources": [
+        "bootstrap_seed"
+      ],
+      "status": "pending"
+    },
+    "twitter.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 0,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T09:36:50Z",
+      "hostname": "twitter.com",
+      "ipv4": [],
+      "last_check": null,
+      "last_negative": null,
+      "last_result": "UNTESTED",
+      "last_success": null,
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {},
+      "safety_reason": null,
+      "sources": [
+        "bootstrap_seed"
+      ],
+      "status": "pending"
+    },
+    "upload.twitter.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 0,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T09:36:50Z",
+      "hostname": "upload.twitter.com",
+      "ipv4": [],
+      "last_check": null,
+      "last_negative": null,
+      "last_result": "UNTESTED",
+      "last_success": null,
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {},
+      "safety_reason": null,
+      "sources": [
+        "bootstrap_seed"
+      ],
+      "status": "pending"
+    },
+    "video.twimg.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 0,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T09:36:50Z",
+      "hostname": "video.twimg.com",
+      "ipv4": [],
+      "last_check": null,
+      "last_negative": null,
+      "last_result": "UNTESTED",
+      "last_success": null,
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {},
+      "safety_reason": null,
+      "sources": [
+        "bootstrap_seed"
+      ],
+      "status": "pending"
+    },
+    "www.twitter.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 0,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T09:36:50Z",
+      "hostname": "www.twitter.com",
+      "ipv4": [],
+      "last_check": null,
+      "last_negative": null,
+      "last_result": "UNTESTED",
+      "last_success": null,
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {},
+      "safety_reason": null,
+      "sources": [
+        "bootstrap_seed"
+      ],
+      "status": "pending"
+    },
+    "www.x.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 0,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T09:36:50Z",
+      "hostname": "www.x.com",
+      "ipv4": [],
+      "last_check": null,
+      "last_negative": null,
+      "last_result": "UNTESTED",
+      "last_success": null,
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {},
+      "safety_reason": null,
+      "sources": [
+        "bootstrap_seed"
+      ],
+      "status": "pending"
+    },
+    "x.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 0,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T09:36:50Z",
+      "hostname": "x.com",
+      "ipv4": [],
+      "last_check": null,
+      "last_negative": null,
+      "last_result": "UNTESTED",
+      "last_success": null,
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {},
+      "safety_reason": null,
+      "sources": [
+        "bootstrap_seed"
+      ],
+      "status": "pending"
+    }
+  },
+  "updated_at": null,
+  "version": 2
+}
