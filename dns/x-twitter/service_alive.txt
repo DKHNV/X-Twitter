@@ -7,9 +7,6 @@ mobile.twitter.com
 pbs.twimg.com
 pro.twitter.com
 publish.x.com
-r.twimg.com
-syndication-o.twimg.com
-syndication.twimg.com
 syndication.twitter.com
 t.co
 td.twitter.com
@@ -22,7 +19,6 @@ upload.twitter.com
 video-cf.twimg.com
 video-s.twimg.com
 video.twimg.com
-www.t.co
 www.twitter.com
 www.x.com
 x.com

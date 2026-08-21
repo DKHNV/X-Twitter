@@ -1,0 +1,4 @@
+r.twimg.com
+syndication-o.twimg.com
+syndication.twimg.com
+www.t.co
