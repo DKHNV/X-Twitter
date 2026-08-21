@@ -5,6 +5,7 @@ cdn.syndication.twimg.com
 cdn.syndication.twitter.com
 mobile.twitter.com
 pbs.twimg.com
+platform.twitter.com
 pro.twitter.com
 publish.x.com
 syndication.twitter.com
