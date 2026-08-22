@@ -1,6 +1,7 @@
 abs.twimg.com
 api.twitter.com
 api.x.com
+canary.twitter.com
 cdn.syndication.twimg.com
 cdn.syndication.twitter.com
 mobile.twitter.com
