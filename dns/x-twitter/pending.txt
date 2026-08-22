@@ -109,8 +109,12 @@ dnsmgr.atls.twitter.com
 dnsmgr.local.twitter.com
 dnsmgr.pdxa.twitter.com
 dnsmgr.pdxs.twitter.com
+docker-local.artifactory.local.twitter.com
+docker-public.artifactory.local.twitter.com
+docker-releases-local.artifactory.local.twitter.com
 docker-test.atla.twitter.com
 docker-test.pdxa.twitter.com
+docker-virtual.artifactory.local.twitter.com
 docker.atla.twitter.com
 docker.pdxa.twitter.com
 git.atla.twitter.com
@@ -223,6 +227,12 @@ neteng.pdxa.twitter.com
 neteng.pdxc.twitter.com
 neteng.sfo2.twitter.com
 new.wilson-stats.memy.twitter.com
+o2-staging.atla.twitter.com
+o2-staging.local.twitter.com
+o2-staging.pdxa.twitter.com
+o2.atla.twitter.com
+o2.local.twitter.com
+o2.pdxa.twitter.com
 pdx1.twitter.com
 postmaster.local.twitter.com
 puppetserver.atla.twitter.com
