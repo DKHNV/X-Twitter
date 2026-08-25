@@ -3,6 +3,7 @@
 add list=x address=104.18.36.0/23 comment=x
 add list=x address=104.18.39.0/24 comment=x
 add list=x address=104.244.42.0/24 comment=x
+add list=x address=151.101.2.0/24 comment=x
 add list=x address=162.159.140.0/24 comment=x
 add list=x address=172.64.148.0/24 comment=x
 add list=x address=172.64.150.0/23 comment=x
