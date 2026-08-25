@@ -1,11 +1,1 @@
-docker-local.artifactory.local.twitter.com
-docker-public.artifactory.local.twitter.com
-docker-releases-local.artifactory.local.twitter.com
-docker-virtual.artifactory.local.twitter.com
-o2-staging.atla.twitter.com
-o2-staging.local.twitter.com
-o2-staging.pdxa.twitter.com
-o2.atla.twitter.com
-o2.local.twitter.com
-o2.pdxa.twitter.com
 sai.twitter.com
