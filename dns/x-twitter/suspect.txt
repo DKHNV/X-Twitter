@@ -303,6 +303,7 @@ rogit.local.twitter.com
 rogit.pdxa.twitter.com
 rogit.qus1.twitter.com
 rogit.smf1.twitter.com
+sai.twitter.com
 science-binaries.local.twitter.com
 service-proxy.qua2.twitter.com
 service-proxy.qud1.twitter.com
