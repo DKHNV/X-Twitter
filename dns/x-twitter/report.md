@@ -1,6 +1,6 @@
 # X-Twitter DNS Maintenance Report
 
-Generated: `2026-08-25T00:51:50Z`
+Generated: `2026-08-25T06:33:35Z`
 
 ## DNS lifecycle
 
@@ -39,16 +39,16 @@ Average stability: **81.2%**
 
 | Hostname | State | Since | Observations | Last error | IPv4 | Stability | Samples |
 |---|---|---|---:|---|---|---:|---:|
-| `mx3.twitter.com` | suspect | `2026-08-21T12:31:52Z` | 15 | TIMEOUT | 199.59.148.207 | 0.0 | 15 |
-| `mx4.twitter.com` | suspect | `2026-08-21T12:31:52Z` | 15 | TIMEOUT | 199.16.156.115 | 0.0 | 15 |
-| `r.twimg.com` | suspect | `2026-08-21T09:44:03Z` | 16 | TIMEOUT | 104.244.42.137, 104.244.42.201, 104.244.42.73 | 0.0 | 16 |
-| `syndication-o.twimg.com` | suspect | `2026-08-21T09:44:03Z` | 16 | TIMEOUT | 104.244.42.137, 104.244.42.201, 104.244.42.73 | 0.0 | 16 |
-| `syndication.twimg.com` | suspect | `2026-08-21T09:44:03Z` | 16 | TIMEOUT | 104.244.42.200, 104.244.42.8 | 0.0 | 16 |
-| `www.t.co` | suspect | `2026-08-21T09:44:03Z` | 16 | TLS_ERROR | 162.159.140.229, 172.66.0.227 | 0.0 | 16 |
+| `mx3.twitter.com` | suspect | `2026-08-21T12:31:52Z` | 16 | TIMEOUT | 199.59.148.207 | 0.0 | 16 |
+| `mx4.twitter.com` | suspect | `2026-08-21T12:31:52Z` | 16 | TIMEOUT | 199.16.156.115 | 0.0 | 16 |
+| `r.twimg.com` | suspect | `2026-08-21T09:44:03Z` | 17 | TIMEOUT | 104.244.42.137, 104.244.42.201, 104.244.42.73 | 0.0 | 17 |
+| `syndication-o.twimg.com` | suspect | `2026-08-21T09:44:03Z` | 17 | TIMEOUT | 104.244.42.137, 104.244.42.201, 104.244.42.73 | 0.0 | 17 |
+| `syndication.twimg.com` | suspect | `2026-08-21T09:44:03Z` | 17 | TIMEOUT | 104.244.42.136, 104.244.42.200, 104.244.42.72 | 0.0 | 17 |
+| `www.t.co` | suspect | `2026-08-21T09:44:03Z` | 17 | TLS_ERROR | 162.159.140.229, 172.66.0.227 | 0.0 | 17 |
 
 ## Discovery
 
-Discovery state updated: `2026-08-25T00:51:50Z`
+Discovery state updated: `2026-08-25T06:33:35Z`
 
 ## Notes
 
