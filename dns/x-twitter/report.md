@@ -1,6 +1,6 @@
 # X-Twitter DNS Maintenance Report
 
-Generated: `2026-09-02T15:44:51Z`
+Generated: `2026-09-02T16:25:58Z`
 
 ## DNS lifecycle
 
@@ -10,6 +10,7 @@ Generated: `2026-09-02T15:44:51Z`
 | Pending | 0 |
 | Suspect | 0 |
 | Quarantine | 408 |
+| Excluded | 0 |
 | Expired | 0 |
 
 ## HTTPS/TLS observation
@@ -39,19 +40,20 @@ Average stability: **81.2%**
 
 | Hostname | State | Since | Observations | Last error | IPv4 | Stability | Samples |
 |---|---|---|---:|---|---|---:|---:|
-| `mx3.twitter.com` | dead | `2026-08-21T12:31:52Z` | 43 | TIMEOUT | 199.59.148.207 | 0.0 | 43 |
-| `mx4.twitter.com` | dead | `2026-08-21T12:31:52Z` | 43 | TIMEOUT | 199.16.156.115 | 0.0 | 43 |
-| `r.twimg.com` | dead | `2026-08-21T09:44:03Z` | 44 | TIMEOUT | 104.244.42.137, 104.244.42.201, 104.244.42.73 | 0.0 | 44 |
-| `syndication-o.twimg.com` | dead | `2026-08-21T09:44:03Z` | 44 | TIMEOUT | 104.244.42.137, 104.244.42.201, 104.244.42.73 | 0.0 | 44 |
-| `syndication.twimg.com` | dead | `2026-08-21T09:44:03Z` | 44 | TIMEOUT | 104.244.42.136, 104.244.42.200, 104.244.42.72 | 0.0 | 44 |
-| `www.t.co` | dead | `2026-08-21T09:44:03Z` | 44 | TLS_ERROR | 172.66.0.227 | 0.0 | 44 |
+| `mx3.twitter.com` | dead | `2026-08-21T12:31:52Z` | 44 | TIMEOUT | 199.59.148.207 | 0.0 | 44 |
+| `mx4.twitter.com` | dead | `2026-08-21T12:31:52Z` | 44 | TIMEOUT | 199.16.156.115 | 0.0 | 44 |
+| `r.twimg.com` | dead | `2026-08-21T09:44:03Z` | 45 | TIMEOUT | 104.244.42.137, 104.244.42.201, 104.244.42.73 | 0.0 | 45 |
+| `syndication-o.twimg.com` | dead | `2026-08-21T09:44:03Z` | 45 | TIMEOUT | 104.244.42.137, 104.244.42.201, 104.244.42.73 | 0.0 | 45 |
+| `syndication.twimg.com` | dead | `2026-08-21T09:44:03Z` | 45 | TIMEOUT | 104.244.42.136, 104.244.42.200, 104.244.42.72 | 0.0 | 45 |
+| `www.t.co` | dead | `2026-08-21T09:44:03Z` | 45 | TLS_ERROR | 162.159.140.229, 172.66.0.227 | 0.0 | 45 |
 
 ## Discovery
 
-Discovery state updated: `2026-09-02T15:44:51Z`
+Discovery state updated: `2026-09-02T16:25:58Z`
 
 ## Notes
 
 - Public active DNS file: `X-Twitter_DNS`.
 - DNS lifecycle is time-based and does not depend on how many times per day the workflow runs.
+- Hostname policy exclusions are semantic decisions and are tracked separately from DNS quarantine.
 - HTTPS/TLS health is observational and never removes a hostname from the public DNS file.
