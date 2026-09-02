@@ -41,6 +41,17 @@
       "name": "x-twitter",
       "active_file": "X-Twitter_DNS",
       "data_dir": "dns/x-twitter",
+      "runtime_candidate": {
+        "enabled": true,
+        "classification": {
+          "enabled": true,
+          "candidate_eligibility": {
+            "enabled": true,
+            "min_seen_days": 2,
+            "min_observation_count": 2
+          }
+        }
+      },
       "discovery": {
         "enabled": true,
         "sources": [
