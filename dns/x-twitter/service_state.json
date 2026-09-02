@@ -384,21 +384,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-02T17:35:01Z",
+          "http_status": 400,
+          "ip": "104.18.39.59",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 46,
-      "history_successes": 46,
+      "history_samples": 47,
+      "history_successes": 47,
       "hostname": "abs.twimg.com",
-      "last_check": "2026-09-02T16:36:18Z",
+      "last_check": "2026-09-02T17:35:01Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.39.59",
-        "172.64.148.197",
-        "199.232.64.159"
+        "146.75.92.159",
+        "172.64.148.197"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-02T16:36:18Z",
+      "last_success": "2026-09-02T17:35:01Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -786,20 +794,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-02T17:35:01Z",
+          "http_status": 404,
+          "ip": "162.159.140.229",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 46,
-      "history_successes": 46,
+      "history_samples": 47,
+      "history_successes": 47,
       "hostname": "api.twitter.com",
-      "last_check": "2026-09-02T16:36:18Z",
+      "last_check": "2026-09-02T17:35:01Z",
       "last_failure": null,
       "last_ipv4": [
         "162.159.140.229",
         "172.66.0.227"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-02T16:36:18Z",
+      "last_success": "2026-09-02T17:35:01Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1187,20 +1203,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-02T17:35:01Z",
+          "http_status": 404,
+          "ip": "162.159.140.229",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 46,
-      "history_successes": 46,
+      "history_samples": 47,
+      "history_successes": 47,
       "hostname": "api.x.com",
-      "last_check": "2026-09-02T16:36:18Z",
+      "last_check": "2026-09-02T17:35:01Z",
       "last_failure": null,
       "last_ipv4": [
         "162.159.140.229",
         "172.66.0.227"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-02T16:36:18Z",
+      "last_success": "2026-09-02T17:35:01Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1548,20 +1572,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-02T17:35:01Z",
+          "http_status": 404,
+          "ip": "162.159.140.229",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 41,
-      "history_successes": 41,
+      "history_samples": 42,
+      "history_successes": 42,
       "hostname": "canary.twitter.com",
-      "last_check": "2026-09-02T16:36:18Z",
+      "last_check": "2026-09-02T17:35:01Z",
       "last_failure": null,
       "last_ipv4": [
         "162.159.140.229",
         "172.66.0.227"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-02T16:36:18Z",
+      "last_success": "2026-09-02T17:35:01Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1570,7 +1602,7 @@
         {
           "cipher": "TLS_AES_128_GCM_SHA256",
           "http_status": 404,
-          "ip": "146.75.104.159",
+          "ip": "146.75.92.159",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -1949,21 +1981,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-02T17:35:01Z",
+          "http_status": 404,
+          "ip": "146.75.92.159",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 46,
-      "history_successes": 46,
+      "history_samples": 47,
+      "history_successes": 47,
       "hostname": "cdn.syndication.twimg.com",
-      "last_check": "2026-09-02T16:36:18Z",
+      "last_check": "2026-09-02T17:35:01Z",
       "last_failure": null,
       "last_ipv4": [
-        "146.75.104.159",
-        "146.75.80.159",
-        "199.232.64.159"
+        "146.75.92.159",
+        "151.101.196.159",
+        "151.101.40.159"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-02T16:36:18Z",
+      "last_success": "2026-09-02T17:35:01Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2351,20 +2391,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-02T17:35:01Z",
+          "http_status": 404,
+          "ip": "162.159.140.229",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 46,
-      "history_successes": 46,
+      "history_samples": 47,
+      "history_successes": 47,
       "hostname": "cdn.syndication.twitter.com",
-      "last_check": "2026-09-02T16:36:18Z",
+      "last_check": "2026-09-02T17:35:01Z",
       "last_failure": null,
       "last_ipv4": [
         "162.159.140.229",
         "172.66.0.227"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-02T16:36:18Z",
+      "last_success": "2026-09-02T17:35:01Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2752,20 +2800,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-02T17:35:01Z",
+          "http_status": 403,
+          "ip": "162.159.140.229",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 46,
-      "history_successes": 46,
+      "history_samples": 47,
+      "history_successes": 47,
       "hostname": "mobile.twitter.com",
-      "last_check": "2026-09-02T16:36:18Z",
+      "last_check": "2026-09-02T17:35:01Z",
       "last_failure": null,
       "last_ipv4": [
         "162.159.140.229",
         "172.66.0.227"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-02T16:36:18Z",
+      "last_success": "2026-09-02T17:35:01Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2778,9 +2834,9 @@
           "status": "TIMEOUT"
         }
       ],
-      "consecutive_failures": 45,
+      "consecutive_failures": 46,
       "ever_alive": false,
-      "failure_observations": 45,
+      "failure_observations": 46,
       "failure_since": "2026-08-21T12:31:52Z",
       "first_seen": "2026-08-21T12:31:52Z",
       "history": [
@@ -3143,15 +3199,23 @@
             "TIMEOUT"
           ],
           "type": "TIMEOUT"
+        },
+        {
+          "at": "2026-09-02T17:35:01Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
         }
       ],
-      "history_failures": 45,
-      "history_samples": 45,
+      "history_failures": 46,
+      "history_samples": 46,
       "history_successes": 0,
       "hostname": "mx3.twitter.com",
-      "last_check": "2026-09-02T16:36:18Z",
+      "last_check": "2026-09-02T17:35:01Z",
       "last_failure": {
-        "at": "2026-09-02T16:36:18Z",
+        "at": "2026-09-02T17:35:01Z",
         "attempts": [
           {
             "detail": "timed out",
@@ -3182,9 +3246,9 @@
           "status": "TIMEOUT"
         }
       ],
-      "consecutive_failures": 45,
+      "consecutive_failures": 46,
       "ever_alive": false,
-      "failure_observations": 45,
+      "failure_observations": 46,
       "failure_since": "2026-08-21T12:31:52Z",
       "first_seen": "2026-08-21T12:31:52Z",
       "history": [
@@ -3547,15 +3611,23 @@
             "TIMEOUT"
           ],
           "type": "TIMEOUT"
+        },
+        {
+          "at": "2026-09-02T17:35:01Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
         }
       ],
-      "history_failures": 45,
-      "history_samples": 45,
+      "history_failures": 46,
+      "history_samples": 46,
       "history_successes": 0,
       "hostname": "mx4.twitter.com",
-      "last_check": "2026-09-02T16:36:18Z",
+      "last_check": "2026-09-02T17:35:01Z",
       "last_failure": {
-        "at": "2026-09-02T16:36:18Z",
+        "at": "2026-09-02T17:35:01Z",
         "attempts": [
           {
             "detail": "timed out",
@@ -3580,9 +3652,9 @@
     "pbs.twimg.com": {
       "attempts": [
         {
-          "cipher": "TLS_AES_256_GCM_SHA384",
+          "cipher": "TLS_AES_128_GCM_SHA256",
           "http_status": 400,
-          "ip": "104.18.37.127",
+          "ip": "146.75.92.159",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -3961,21 +4033,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-02T17:35:01Z",
+          "http_status": 400,
+          "ip": "146.75.92.159",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 46,
-      "history_successes": 46,
+      "history_samples": 47,
+      "history_successes": 47,
       "hostname": "pbs.twimg.com",
-      "last_check": "2026-09-02T16:36:18Z",
+      "last_check": "2026-09-02T17:35:01Z",
       "last_failure": null,
       "last_ipv4": [
-        "104.18.37.127",
-        "172.64.150.129",
-        "199.232.64.159"
+        "146.75.92.159",
+        "151.101.196.159",
+        "151.101.40.159"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-02T16:36:18Z",
+      "last_success": "2026-09-02T17:35:01Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -3984,7 +4064,7 @@
         {
           "cipher": "TLS_AES_128_GCM_SHA256",
           "http_status": 403,
-          "ip": "146.75.104.157",
+          "ip": "146.75.92.157",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -4347,21 +4427,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-02T17:35:01Z",
+          "http_status": 403,
+          "ip": "146.75.92.157",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 44,
-      "history_successes": 44,
+      "history_samples": 45,
+      "history_successes": 45,
       "hostname": "platform.twitter.com",
-      "last_check": "2026-09-02T16:36:18Z",
+      "last_check": "2026-09-02T17:35:01Z",
       "last_failure": null,
       "last_ipv4": [
-        "146.75.104.157",
-        "146.75.76.157",
-        "199.232.64.157"
+        "146.75.92.157",
+        "151.101.196.157",
+        "151.101.40.157"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-02T16:36:18Z",
+      "last_success": "2026-09-02T17:35:01Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -4749,20 +4837,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-02T17:35:01Z",
+          "http_status": 403,
+          "ip": "162.159.140.229",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 46,
-      "history_successes": 46,
+      "history_samples": 47,
+      "history_successes": 47,
       "hostname": "pro.twitter.com",
-      "last_check": "2026-09-02T16:36:18Z",
+      "last_check": "2026-09-02T17:35:01Z",
       "last_failure": null,
       "last_ipv4": [
         "162.159.140.229",
         "172.66.0.227"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-02T16:36:18Z",
+      "last_success": "2026-09-02T17:35:01Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -5150,20 +5246,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-02T17:35:01Z",
+          "http_status": 405,
+          "ip": "162.159.140.229",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 46,
-      "history_successes": 46,
+      "history_samples": 47,
+      "history_successes": 47,
       "hostname": "publish.x.com",
-      "last_check": "2026-09-02T16:36:18Z",
+      "last_check": "2026-09-02T17:35:01Z",
       "last_failure": null,
       "last_ipv4": [
         "162.159.140.229",
         "172.66.0.227"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-02T16:36:18Z",
+      "last_success": "2026-09-02T17:35:01Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -5188,9 +5292,9 @@
           "status": "TIMEOUT"
         }
       ],
-      "consecutive_failures": 46,
+      "consecutive_failures": 47,
       "ever_alive": false,
-      "failure_observations": 46,
+      "failure_observations": 47,
       "failure_since": "2026-08-21T09:44:03Z",
       "first_seen": "2026-08-21T09:44:03Z",
       "history": [
@@ -5561,15 +5665,23 @@
             "TIMEOUT"
           ],
           "type": "TIMEOUT"
+        },
+        {
+          "at": "2026-09-02T17:35:01Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
         }
       ],
-      "history_failures": 46,
-      "history_samples": 46,
+      "history_failures": 47,
+      "history_samples": 47,
       "history_successes": 0,
       "hostname": "r.twimg.com",
-      "last_check": "2026-09-02T16:36:18Z",
+      "last_check": "2026-09-02T17:35:01Z",
       "last_failure": {
-        "at": "2026-09-02T16:36:18Z",
+        "at": "2026-09-02T17:35:01Z",
         "attempts": [
           {
             "detail": "timed out",
@@ -5626,9 +5738,9 @@
           "status": "TIMEOUT"
         }
       ],
-      "consecutive_failures": 46,
+      "consecutive_failures": 47,
       "ever_alive": false,
-      "failure_observations": 46,
+      "failure_observations": 47,
       "failure_since": "2026-08-21T09:44:03Z",
       "first_seen": "2026-08-21T09:44:03Z",
       "history": [
@@ -5999,15 +6111,23 @@
             "TIMEOUT"
           ],
           "type": "TIMEOUT"
+        },
+        {
+          "at": "2026-09-02T17:35:01Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
         }
       ],
-      "history_failures": 46,
-      "history_samples": 46,
+      "history_failures": 47,
+      "history_samples": 47,
       "history_successes": 0,
       "hostname": "syndication-o.twimg.com",
-      "last_check": "2026-09-02T16:36:18Z",
+      "last_check": "2026-09-02T17:35:01Z",
       "last_failure": {
-        "at": "2026-09-02T16:36:18Z",
+        "at": "2026-09-02T17:35:01Z",
         "attempts": [
           {
             "detail": "timed out",
@@ -6056,17 +6176,11 @@
           "ip": "104.244.42.200",
           "port": 443,
           "status": "TIMEOUT"
-        },
-        {
-          "detail": "timed out",
-          "ip": "104.244.42.72",
-          "port": 443,
-          "status": "TIMEOUT"
         }
       ],
-      "consecutive_failures": 46,
+      "consecutive_failures": 47,
       "ever_alive": false,
-      "failure_observations": 46,
+      "failure_observations": 47,
       "failure_since": "2026-08-21T09:44:03Z",
       "first_seen": "2026-08-21T09:44:03Z",
       "history": [
@@ -6437,15 +6551,23 @@
             "TIMEOUT"
           ],
           "type": "TIMEOUT"
+        },
+        {
+          "at": "2026-09-02T17:35:01Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
         }
       ],
-      "history_failures": 46,
-      "history_samples": 46,
+      "history_failures": 47,
+      "history_samples": 47,
       "history_successes": 0,
       "hostname": "syndication.twimg.com",
-      "last_check": "2026-09-02T16:36:18Z",
+      "last_check": "2026-09-02T17:35:01Z",
       "last_failure": {
-        "at": "2026-09-02T16:36:18Z",
+        "at": "2026-09-02T17:35:01Z",
         "attempts": [
           {
             "detail": "timed out",
@@ -6458,12 +6580,6 @@
             "ip": "104.244.42.200",
             "port": 443,
             "status": "TIMEOUT"
-          },
-          {
-            "detail": "timed out",
-            "ip": "104.244.42.72",
-            "port": 443,
-            "status": "TIMEOUT"
           }
         ],
         "statuses": [
@@ -6473,8 +6589,7 @@
       },
       "last_ipv4": [
         "104.244.42.136",
-        "104.244.42.200",
-        "104.244.42.72"
+        "104.244.42.200"
       ],
       "last_result": "FAILURE",
       "last_success": null,
@@ -6865,20 +6980,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-02T17:35:01Z",
+          "http_status": 404,
+          "ip": "162.159.140.229",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 46,
-      "history_successes": 46,
+      "history_samples": 47,
+      "history_successes": 47,
       "hostname": "syndication.twitter.com",
-      "last_check": "2026-09-02T16:36:18Z",
+      "last_check": "2026-09-02T17:35:01Z",
       "last_failure": null,
       "last_ipv4": [
         "162.159.140.229",
         "172.66.0.227"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-02T16:36:18Z",
+      "last_success": "2026-09-02T17:35:01Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -7266,20 +7389,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-02T17:35:01Z",
+          "http_status": 200,
+          "ip": "162.159.140.229",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 46,
-      "history_successes": 46,
+      "history_samples": 47,
+      "history_successes": 47,
       "hostname": "t.co",
-      "last_check": "2026-09-02T16:36:18Z",
+      "last_check": "2026-09-02T17:35:01Z",
       "last_failure": null,
       "last_ipv4": [
         "162.159.140.229",
         "172.66.0.227"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-02T16:36:18Z",
+      "last_success": "2026-09-02T17:35:01Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -7667,20 +7798,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-02T17:35:01Z",
+          "http_status": 301,
+          "ip": "162.159.140.229",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 46,
-      "history_successes": 46,
+      "history_samples": 47,
+      "history_successes": 47,
       "hostname": "td.twitter.com",
-      "last_check": "2026-09-02T16:36:18Z",
+      "last_check": "2026-09-02T17:35:01Z",
       "last_failure": null,
       "last_ipv4": [
         "162.159.140.229",
         "172.66.0.227"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-02T16:36:18Z",
+      "last_success": "2026-09-02T17:35:01Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -8068,20 +8207,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-02T17:35:01Z",
+          "http_status": 301,
+          "ip": "162.159.140.229",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 46,
-      "history_successes": 46,
+      "history_samples": 47,
+      "history_successes": 47,
       "hostname": "tdapi.twitter.com",
-      "last_check": "2026-09-02T16:36:18Z",
+      "last_check": "2026-09-02T17:35:01Z",
       "last_failure": null,
       "last_ipv4": [
         "162.159.140.229",
         "172.66.0.227"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-02T16:36:18Z",
+      "last_success": "2026-09-02T17:35:01Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -8469,20 +8616,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-02T17:35:01Z",
+          "http_status": 301,
+          "ip": "162.159.140.229",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 46,
-      "history_successes": 46,
+      "history_samples": 47,
+      "history_successes": 47,
       "hostname": "tdweb.twitter.com",
-      "last_check": "2026-09-02T16:36:18Z",
+      "last_check": "2026-09-02T17:35:01Z",
       "last_failure": null,
       "last_ipv4": [
         "162.159.140.229",
         "172.66.0.227"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-02T16:36:18Z",
+      "last_success": "2026-09-02T17:35:01Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -8870,19 +9025,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-02T17:35:01Z",
+          "http_status": 400,
+          "ip": "172.66.0.227",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 46,
-      "history_successes": 46,
+      "history_samples": 47,
+      "history_successes": 47,
       "hostname": "ton.twitter.com",
-      "last_check": "2026-09-02T16:36:18Z",
+      "last_check": "2026-09-02T17:35:01Z",
       "last_failure": null,
       "last_ipv4": [
         "172.66.0.227"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-02T16:36:18Z",
+      "last_success": "2026-09-02T17:35:01Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -9270,20 +9433,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-02T17:35:01Z",
+          "http_status": 301,
+          "ip": "162.159.140.229",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 46,
-      "history_successes": 46,
+      "history_samples": 47,
+      "history_successes": 47,
       "hostname": "tweetdeck.twitter.com",
-      "last_check": "2026-09-02T16:36:18Z",
+      "last_check": "2026-09-02T17:35:01Z",
       "last_failure": null,
       "last_ipv4": [
         "162.159.140.229",
         "172.66.0.227"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-02T16:36:18Z",
+      "last_success": "2026-09-02T17:35:01Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -9671,20 +9842,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-02T17:35:01Z",
+          "http_status": 200,
+          "ip": "162.159.140.229",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 46,
-      "history_successes": 46,
+      "history_samples": 47,
+      "history_successes": 47,
       "hostname": "twitter.com",
-      "last_check": "2026-09-02T16:36:18Z",
+      "last_check": "2026-09-02T17:35:01Z",
       "last_failure": null,
       "last_ipv4": [
         "162.159.140.229",
         "172.66.0.227"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-02T16:36:18Z",
+      "last_success": "2026-09-02T17:35:01Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -10072,20 +10251,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-02T17:35:01Z",
+          "http_status": 410,
+          "ip": "162.159.140.229",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 46,
-      "history_successes": 46,
+      "history_samples": 47,
+      "history_successes": 47,
       "hostname": "upload.twitter.com",
-      "last_check": "2026-09-02T16:36:18Z",
+      "last_check": "2026-09-02T17:35:01Z",
       "last_failure": null,
       "last_ipv4": [
         "162.159.140.229",
         "172.66.0.227"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-02T16:36:18Z",
+      "last_success": "2026-09-02T17:35:01Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -10473,20 +10660,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-02T17:35:01Z",
+          "http_status": 400,
+          "ip": "104.18.36.146",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 46,
-      "history_successes": 46,
+      "history_samples": 47,
+      "history_successes": 47,
       "hostname": "video-cf.twimg.com",
-      "last_check": "2026-09-02T16:36:18Z",
+      "last_check": "2026-09-02T17:35:01Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.36.146",
         "172.64.151.110"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-02T16:36:18Z",
+      "last_success": "2026-09-02T17:35:01Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -10874,21 +11069,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-02T17:35:01Z",
+          "http_status": 400,
+          "ip": "104.18.36.146",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 46,
-      "history_successes": 46,
+      "history_samples": 47,
+      "history_successes": 47,
       "hostname": "video-s.twimg.com",
-      "last_check": "2026-09-02T16:36:18Z",
+      "last_check": "2026-09-02T17:35:01Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.36.146",
-        "172.64.151.110",
-        "199.232.64.158"
+        "146.75.92.158",
+        "151.101.40.158"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-02T16:36:18Z",
+      "last_success": "2026-09-02T17:35:01Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -11276,21 +11479,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-02T17:35:01Z",
+          "http_status": 400,
+          "ip": "104.18.36.146",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 46,
-      "history_successes": 46,
+      "history_samples": 47,
+      "history_successes": 47,
       "hostname": "video.twimg.com",
-      "last_check": "2026-09-02T16:36:18Z",
+      "last_check": "2026-09-02T17:35:01Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.36.146",
-        "146.75.104.158",
-        "172.64.151.110"
+        "151.101.196.158",
+        "151.101.40.158"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-02T16:36:18Z",
+      "last_success": "2026-09-02T17:35:01Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -11298,14 +11509,20 @@
       "attempts": [
         {
           "detail": "[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1032)",
+          "ip": "162.159.140.229",
+          "port": 443,
+          "status": "TLS_ERROR"
+        },
+        {
+          "detail": "[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1032)",
           "ip": "172.66.0.227",
           "port": 443,
           "status": "TLS_ERROR"
         }
       ],
-      "consecutive_failures": 46,
+      "consecutive_failures": 47,
       "ever_alive": false,
-      "failure_observations": 46,
+      "failure_observations": 47,
       "failure_since": "2026-08-21T09:44:03Z",
       "first_seen": "2026-08-21T09:44:03Z",
       "history": [
@@ -11678,16 +11895,30 @@
             "TLS_ERROR"
           ],
           "type": "TLS_ERROR"
+        },
+        {
+          "at": "2026-09-02T17:35:01Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TLS_ERROR"
+          ],
+          "type": "TLS_ERROR"
         }
       ],
-      "history_failures": 46,
-      "history_samples": 46,
+      "history_failures": 47,
+      "history_samples": 47,
       "history_successes": 0,
       "hostname": "www.t.co",
-      "last_check": "2026-09-02T16:36:18Z",
+      "last_check": "2026-09-02T17:35:01Z",
       "last_failure": {
-        "at": "2026-09-02T16:36:18Z",
+        "at": "2026-09-02T17:35:01Z",
         "attempts": [
+          {
+            "detail": "[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1032)",
+            "ip": "162.159.140.229",
+            "port": 443,
+            "status": "TLS_ERROR"
+          },
           {
             "detail": "[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1032)",
             "ip": "172.66.0.227",
@@ -11701,6 +11932,7 @@
         "type": "TLS_ERROR"
       },
       "last_ipv4": [
+        "162.159.140.229",
         "172.66.0.227"
       ],
       "last_result": "FAILURE",
@@ -11713,7 +11945,7 @@
         {
           "cipher": "TLS_AES_128_GCM_SHA256",
           "http_status": 301,
-          "ip": "151.101.2.146",
+          "ip": "151.101.66.146",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -12092,21 +12324,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-02T17:35:01Z",
+          "http_status": 301,
+          "ip": "151.101.66.146",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 46,
-      "history_successes": 46,
+      "history_samples": 47,
+      "history_successes": 47,
       "hostname": "www.twitter.com",
-      "last_check": "2026-09-02T16:36:18Z",
+      "last_check": "2026-09-02T17:35:01Z",
       "last_failure": null,
       "last_ipv4": [
-        "151.101.2.146",
-        "162.159.140.229",
+        "151.101.66.146",
         "172.66.0.227"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-02T16:36:18Z",
+      "last_success": "2026-09-02T17:35:01Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -12494,20 +12733,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-02T17:35:01Z",
+          "http_status": 301,
+          "ip": "162.159.140.229",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 46,
-      "history_successes": 46,
+      "history_samples": 47,
+      "history_successes": 47,
       "hostname": "www.x.com",
-      "last_check": "2026-09-02T16:36:18Z",
+      "last_check": "2026-09-02T17:35:01Z",
       "last_failure": null,
       "last_ipv4": [
         "162.159.140.229",
         "172.66.0.227"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-02T16:36:18Z",
+      "last_success": "2026-09-02T17:35:01Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -12895,24 +13142,32 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-02T17:35:01Z",
+          "http_status": 200,
+          "ip": "162.159.140.229",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 46,
-      "history_successes": 46,
+      "history_samples": 47,
+      "history_successes": 47,
       "hostname": "x.com",
-      "last_check": "2026-09-02T16:36:18Z",
+      "last_check": "2026-09-02T17:35:01Z",
       "last_failure": null,
       "last_ipv4": [
         "162.159.140.229",
         "172.66.0.227"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-02T16:36:18Z",
+      "last_success": "2026-09-02T17:35:01Z",
       "stability_score": 100.0,
       "status": "alive"
     }
   },
-  "updated_at": "2026-09-02T16:36:18Z",
+  "updated_at": "2026-09-02T17:35:01Z",
   "version": 3
 }
