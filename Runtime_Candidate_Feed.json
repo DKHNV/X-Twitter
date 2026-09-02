@@ -1,0 +1,106 @@
+{
+  "candidates": [
+    {
+      "active_cycles": 1,
+      "candidate_id": "0b63c16ae3b65bdfaba90b38782fe07fbf945abeec5fa911585d4dcd63f30fba",
+      "current_presence": true,
+      "current_routing_status": "active",
+      "first_observed": "2026-09-02T16:50:32Z",
+      "hostname": "api.twitter.com",
+      "id_version": 1,
+      "last_external_at": "2026-09-02T16:41:12Z",
+      "last_observed": "2026-09-02T16:50:32Z",
+      "observation_count": 1,
+      "presence_cycles": 1,
+      "reactivation_count": 0,
+      "seen_dates": [
+        "2026-09-02"
+      ],
+      "state": "observed",
+      "suffix": "twitter.com"
+    },
+    {
+      "active_cycles": 1,
+      "candidate_id": "4e45da71c83bc649cc1199e850110eb65fc777d2ae06118ad0b9b1c4c06a4c20",
+      "current_presence": true,
+      "current_routing_status": "active",
+      "first_observed": "2026-09-02T16:50:32Z",
+      "hostname": "api.x.com",
+      "id_version": 1,
+      "last_external_at": "2026-09-02T16:41:11Z",
+      "last_observed": "2026-09-02T16:50:32Z",
+      "observation_count": 1,
+      "presence_cycles": 1,
+      "reactivation_count": 0,
+      "seen_dates": [
+        "2026-09-02"
+      ],
+      "state": "observed",
+      "suffix": "x.com"
+    },
+    {
+      "active_cycles": 1,
+      "candidate_id": "c1f69557963d6d4d78466c07e53b20719a8935fdf875e52347a9a558899eb2a8",
+      "current_presence": true,
+      "current_routing_status": "active",
+      "first_observed": "2026-09-02T16:50:32Z",
+      "hostname": "pbs.twimg.com",
+      "id_version": 1,
+      "last_external_at": "2026-09-02T16:47:31Z",
+      "last_observed": "2026-09-02T16:50:32Z",
+      "observation_count": 1,
+      "presence_cycles": 1,
+      "reactivation_count": 0,
+      "seen_dates": [
+        "2026-09-02"
+      ],
+      "state": "observed",
+      "suffix": "twimg.com"
+    },
+    {
+      "active_cycles": 1,
+      "candidate_id": "3dc934e29a4e96027760be4da3a63e59ff76b4286c3d5c15d5f2e81ed19ef246",
+      "current_presence": true,
+      "current_routing_status": "active",
+      "first_observed": "2026-09-02T16:50:32Z",
+      "hostname": "www.t.co",
+      "id_version": 1,
+      "last_external_at": "2026-09-02T16:45:40Z",
+      "last_observed": "2026-09-02T16:50:32Z",
+      "observation_count": 1,
+      "presence_cycles": 1,
+      "reactivation_count": 0,
+      "seen_dates": [
+        "2026-09-02"
+      ],
+      "state": "observed",
+      "suffix": "t.co"
+    },
+    {
+      "active_cycles": 1,
+      "candidate_id": "869f2f70efd41e00283ecc2a73b11cf52c2af61468e9dabdfc4754a141d8fc19",
+      "current_presence": true,
+      "current_routing_status": "active",
+      "first_observed": "2026-09-02T16:50:32Z",
+      "hostname": "www.x.com",
+      "id_version": 1,
+      "last_external_at": "2026-09-02T16:43:15Z",
+      "last_observed": "2026-09-02T16:50:32Z",
+      "observation_count": 1,
+      "presence_cycles": 1,
+      "reactivation_count": 0,
+      "seen_dates": [
+        "2026-09-02"
+      ],
+      "state": "observed",
+      "suffix": "x.com"
+    }
+  ],
+  "content_hash": "beb23d0c50d5072dee72c3b9277c54aa2bd1430f3192cbe936aadfb0d722d6d3",
+  "generated_at": "2026-09-02T16:50:32Z",
+  "hash_algorithm": "sha256",
+  "history_scope": "since_analytics_start",
+  "observer_id": "76e41c45-c36a-471f-9aa1-7db362959514",
+  "schema_version": 1,
+  "service": "x"
+}
