@@ -1,17 +1,17 @@
 {
   "candidates": [
     {
-      "active_cycles": 2,
-      "candidate_id": "0b63c16ae3b65bdfaba90b38782fe07fbf945abeec5fa911585d4dcd63f30fba",
+      "active_cycles": 3,
+      "candidate_id": "5eb24a0f1c2e8245b441a13d48e8f6edb9762e24b452a4488a6d2abda94a4b98",
       "current_presence": true,
-      "current_routing_status": "active",
+      "current_routing_status": "grace",
       "first_observed": "2026-09-02T16:50:32Z",
       "hostname": "api.twitter.com",
       "id_version": 1,
       "last_external_at": "2026-09-02T16:41:13Z",
       "last_observed": "2026-09-02T16:51:35Z",
       "observation_count": 2,
-      "presence_cycles": 2,
+      "presence_cycles": 9,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-02"
@@ -20,17 +20,17 @@
       "suffix": "twitter.com"
     },
     {
-      "active_cycles": 2,
-      "candidate_id": "4e45da71c83bc649cc1199e850110eb65fc777d2ae06118ad0b9b1c4c06a4c20",
+      "active_cycles": 3,
+      "candidate_id": "f2d81f8d63040e89ab261e81a3d966752c68bc7d158cd113af81589449495110",
       "current_presence": true,
-      "current_routing_status": "active",
+      "current_routing_status": "grace",
       "first_observed": "2026-09-02T16:50:32Z",
       "hostname": "api.x.com",
       "id_version": 1,
       "last_external_at": "2026-09-02T16:41:12Z",
       "last_observed": "2026-09-02T16:51:35Z",
       "observation_count": 2,
-      "presence_cycles": 2,
+      "presence_cycles": 9,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-02"
@@ -39,17 +39,17 @@
       "suffix": "x.com"
     },
     {
-      "active_cycles": 2,
-      "candidate_id": "c1f69557963d6d4d78466c07e53b20719a8935fdf875e52347a9a558899eb2a8",
+      "active_cycles": 4,
+      "candidate_id": "93551fae5cafd85cf4ac90c19c450214bea3d2be39d06e415b8194b957380fbd",
       "current_presence": true,
-      "current_routing_status": "active",
+      "current_routing_status": "grace",
       "first_observed": "2026-09-02T16:50:32Z",
       "hostname": "pbs.twimg.com",
       "id_version": 1,
       "last_external_at": "2026-09-02T16:47:31Z",
       "last_observed": "2026-09-02T16:50:32Z",
       "observation_count": 1,
-      "presence_cycles": 2,
+      "presence_cycles": 9,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-02"
@@ -58,8 +58,8 @@
       "suffix": "twimg.com"
     },
     {
-      "active_cycles": 2,
-      "candidate_id": "3dc934e29a4e96027760be4da3a63e59ff76b4286c3d5c15d5f2e81ed19ef246",
+      "active_cycles": 5,
+      "candidate_id": "2832b0e75c419ad7155e0b6bc28b7a8122855d3bcfa496fc03c597c0b6f21c18",
       "current_presence": true,
       "current_routing_status": "active",
       "first_observed": "2026-09-02T16:50:32Z",
@@ -68,7 +68,7 @@
       "last_external_at": "2026-09-02T16:45:41Z",
       "last_observed": "2026-09-02T16:51:35Z",
       "observation_count": 2,
-      "presence_cycles": 2,
+      "presence_cycles": 9,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-02"
@@ -77,17 +77,17 @@
       "suffix": "t.co"
     },
     {
-      "active_cycles": 2,
-      "candidate_id": "869f2f70efd41e00283ecc2a73b11cf52c2af61468e9dabdfc4754a141d8fc19",
+      "active_cycles": 6,
+      "candidate_id": "572e720da7fa733bf6b21076d481e502a1b7d110138a55fbe839ac04a9d3f09b",
       "current_presence": true,
-      "current_routing_status": "active",
+      "current_routing_status": "grace",
       "first_observed": "2026-09-02T16:50:32Z",
       "hostname": "www.x.com",
       "id_version": 1,
-      "last_external_at": "2026-09-02T16:43:16Z",
-      "last_observed": "2026-09-02T16:51:35Z",
-      "observation_count": 2,
-      "presence_cycles": 2,
+      "last_external_at": "2026-09-02T17:03:14Z",
+      "last_observed": "2026-09-02T17:06:39Z",
+      "observation_count": 3,
+      "presence_cycles": 9,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-02"
@@ -96,11 +96,11 @@
       "suffix": "x.com"
     }
   ],
-  "content_hash": "a46e1253918a63abebd50d9264402c10f543c01fa5cc516f5d7671faa09f07e1",
-  "generated_at": "2026-09-02T16:51:35Z",
+  "content_hash": "ba41dedc998286271d7e2b348f8f4e73a4389bf673ce9534a9d3b21868a52580",
+  "generated_at": "2026-09-02T17:23:00Z",
   "hash_algorithm": "sha256",
   "history_scope": "since_analytics_start",
   "observer_id": "76e41c45-c36a-471f-9aa1-7db362959514",
   "schema_version": 1,
-  "service": "x"
+  "service": "x-twitter"
 }
