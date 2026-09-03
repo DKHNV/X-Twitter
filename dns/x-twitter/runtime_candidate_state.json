@@ -10,10 +10,10 @@
       "first_observed": "2026-09-02T16:50:32Z",
       "hostname": "www.t.co",
       "last_external_at": "2026-09-02T16:45:41Z",
-      "last_intake_at": "2026-09-03T02:24:19Z",
+      "last_intake_at": "2026-09-03T10:29:46Z",
       "last_observed": "2026-09-02T16:51:35Z",
       "observation_count": 2,
-      "presence_cycles": 52,
+      "presence_cycles": 194,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-02"
@@ -31,10 +31,10 @@
       "first_observed": "2026-09-02T16:50:32Z",
       "hostname": "www.x.com",
       "last_external_at": "2026-09-02T17:03:14Z",
-      "last_intake_at": "2026-09-03T02:24:19Z",
+      "last_intake_at": "2026-09-03T10:29:46Z",
       "last_observed": "2026-09-02T17:06:39Z",
       "observation_count": 3,
-      "presence_cycles": 52,
+      "presence_cycles": 194,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-02"
@@ -52,10 +52,10 @@
       "first_observed": "2026-09-02T16:50:32Z",
       "hostname": "api.twitter.com",
       "last_external_at": "2026-09-02T16:41:13Z",
-      "last_intake_at": "2026-09-03T02:24:19Z",
+      "last_intake_at": "2026-09-03T10:29:46Z",
       "last_observed": "2026-09-02T16:51:35Z",
       "observation_count": 2,
-      "presence_cycles": 52,
+      "presence_cycles": 194,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-02"
@@ -73,10 +73,10 @@
       "first_observed": "2026-09-02T16:50:32Z",
       "hostname": "pbs.twimg.com",
       "last_external_at": "2026-09-02T16:47:32Z",
-      "last_intake_at": "2026-09-03T02:24:19Z",
+      "last_intake_at": "2026-09-03T10:29:46Z",
       "last_observed": "2026-09-02T17:37:00Z",
       "observation_count": 2,
-      "presence_cycles": 52,
+      "presence_cycles": 194,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-02"
@@ -85,7 +85,7 @@
       "suffix": "twimg.com"
     },
     "f2d81f8d63040e89ab261e81a3d966752c68bc7d158cd113af81589449495110": {
-      "active_cycles": 3,
+      "active_cycles": 4,
       "candidate_id": "f2d81f8d63040e89ab261e81a3d966752c68bc7d158cd113af81589449495110",
       "current_presence": true,
       "current_routing_status": "expired",
@@ -94,10 +94,10 @@
       "first_observed": "2026-09-02T16:50:32Z",
       "hostname": "api.x.com",
       "last_external_at": "2026-09-02T16:41:12Z",
-      "last_intake_at": "2026-09-03T02:24:19Z",
+      "last_intake_at": "2026-09-03T10:29:46Z",
       "last_observed": "2026-09-02T16:51:35Z",
       "observation_count": 2,
-      "presence_cycles": 52,
+      "presence_cycles": 194,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-02"
@@ -106,11 +106,11 @@
       "suffix": "x.com"
     }
   },
-  "last_intake_at": "2026-09-03T02:24:19Z",
+  "last_intake_at": "2026-09-03T10:29:46Z",
   "last_intake_status": "ok",
   "observer_id": "76e41c45-c36a-471f-9aa1-7db362959514",
   "schema_version": 1,
   "service": "x-twitter",
-  "source_content_hash": "bb1b7b08d50f7e0e7e15b974ffcf3c583d3116e4e93f1f53bb0af80508b6d0ab",
-  "source_generated_at": "2026-09-02T20:58:53Z"
+  "source_content_hash": "d0a1cde99c507bf5d181296fe48e7f7e1e320c4e138984782eb4069fbfb63dbb",
+  "source_generated_at": "2026-09-03T08:55:30Z"
 }
