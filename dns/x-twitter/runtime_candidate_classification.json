@@ -1,7 +1,7 @@
 {
   "candidates": {
     "2832b0e75c419ad7155e0b6bc28b7a8122855d3bcfa496fc03c597c0b6f21c18": {
-      "classified_at": "2026-09-04T15:32:49Z",
+      "classified_at": "2026-09-04T20:07:33Z",
       "decision": "observe_only",
       "evidence": {
         "active_cycles": 6,
@@ -23,7 +23,7 @@
       "version": 1
     },
     "572e720da7fa733bf6b21076d481e502a1b7d110138a55fbe839ac04a9d3f09b": {
-      "classified_at": "2026-09-04T15:32:49Z",
+      "classified_at": "2026-09-04T20:07:33Z",
       "decision": "observe_only",
       "evidence": {
         "active_cycles": 7,
@@ -45,7 +45,7 @@
       "version": 1
     },
     "5eb24a0f1c2e8245b441a13d48e8f6edb9762e24b452a4488a6d2abda94a4b98": {
-      "classified_at": "2026-09-04T15:32:49Z",
+      "classified_at": "2026-09-04T20:07:33Z",
       "decision": "observe_only",
       "evidence": {
         "active_cycles": 3,
@@ -67,7 +67,7 @@
       "version": 1
     },
     "93551fae5cafd85cf4ac90c19c450214bea3d2be39d06e415b8194b957380fbd": {
-      "classified_at": "2026-09-04T15:32:49Z",
+      "classified_at": "2026-09-04T20:07:33Z",
       "decision": "observe_only",
       "evidence": {
         "active_cycles": 5,
@@ -89,7 +89,7 @@
       "version": 1
     },
     "f2d81f8d63040e89ab261e81a3d966752c68bc7d158cd113af81589449495110": {
-      "classified_at": "2026-09-04T15:32:49Z",
+      "classified_at": "2026-09-04T20:07:33Z",
       "decision": "observe_only",
       "evidence": {
         "active_cycles": 4,
@@ -111,7 +111,7 @@
       "version": 1
     }
   },
-  "classified_at": "2026-09-04T15:32:49Z",
+  "classified_at": "2026-09-04T20:07:33Z",
   "counts": {
     "candidate": 0,
     "observe_only": 5,
@@ -122,6 +122,6 @@
   "service": "x-twitter",
   "source_content_hash": "d0826e56ea3161053584d644de650a3dd7ac9e8cc0a906204231f49f2be7feb9",
   "source_generated_at": "2026-09-04T14:56:06Z",
-  "source_last_intake_at": "2026-09-04T15:32:49Z",
+  "source_last_intake_at": "2026-09-04T20:07:33Z",
   "version": 1
 }
