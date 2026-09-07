@@ -11,7 +11,7 @@
       "last_external_at": "2026-09-02T16:41:13Z",
       "last_observed": "2026-09-02T16:51:35Z",
       "observation_count": 2,
-      "presence_cycles": 1194,
+      "presence_cycles": 1265,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-02"
@@ -30,7 +30,7 @@
       "last_external_at": "2026-09-02T16:41:12Z",
       "last_observed": "2026-09-02T16:51:35Z",
       "observation_count": 2,
-      "presence_cycles": 1194,
+      "presence_cycles": 1265,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-02"
@@ -49,7 +49,7 @@
       "last_external_at": "2026-09-02T16:47:32Z",
       "last_observed": "2026-09-02T17:37:00Z",
       "observation_count": 2,
-      "presence_cycles": 1194,
+      "presence_cycles": 1265,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-02"
@@ -68,7 +68,7 @@
       "last_external_at": "2026-09-02T16:45:41Z",
       "last_observed": "2026-09-02T16:51:35Z",
       "observation_count": 2,
-      "presence_cycles": 1194,
+      "presence_cycles": 1265,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-02"
@@ -87,7 +87,7 @@
       "last_external_at": "2026-09-02T17:03:14Z",
       "last_observed": "2026-09-02T17:06:39Z",
       "observation_count": 3,
-      "presence_cycles": 1194,
+      "presence_cycles": 1265,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-02"
@@ -96,8 +96,8 @@
       "suffix": "x.com"
     }
   ],
-  "content_hash": "97e287864c2323e9da5941d8ef5de71ff1cee60fc69846c4a85e7fae8e363a8c",
-  "generated_at": "2026-09-06T20:58:05Z",
+  "content_hash": "8e575913f82179c0887353c46e6d97d187ae3003fb816d32d36ea1dc71e8b93f",
+  "generated_at": "2026-09-07T02:56:13Z",
   "hash_algorithm": "sha256",
   "history_scope": "since_analytics_start",
   "observer_id": "76e41c45-c36a-471f-9aa1-7db362959514",
