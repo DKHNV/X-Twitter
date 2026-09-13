@@ -11,7 +11,7 @@
       "last_external_at": "2026-09-02T16:41:13Z",
       "last_observed": "2026-09-02T16:51:35Z",
       "observation_count": 2,
-      "presence_cycles": 3050,
+      "presence_cycles": 3121,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-02"
@@ -30,7 +30,7 @@
       "last_external_at": "2026-09-02T16:41:12Z",
       "last_observed": "2026-09-02T16:51:35Z",
       "observation_count": 2,
-      "presence_cycles": 3050,
+      "presence_cycles": 3121,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-02"
@@ -49,7 +49,7 @@
       "last_external_at": "2026-09-02T16:47:32Z",
       "last_observed": "2026-09-02T17:37:00Z",
       "observation_count": 2,
-      "presence_cycles": 3050,
+      "presence_cycles": 3121,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-02"
@@ -58,7 +58,7 @@
       "suffix": "twimg.com"
     },
     {
-      "active_cycles": 6,
+      "active_cycles": 7,
       "candidate_id": "2832b0e75c419ad7155e0b6bc28b7a8122855d3bcfa496fc03c597c0b6f21c18",
       "current_presence": true,
       "current_routing_status": "expired",
@@ -68,7 +68,7 @@
       "last_external_at": "2026-09-02T16:45:41Z",
       "last_observed": "2026-09-02T16:51:35Z",
       "observation_count": 2,
-      "presence_cycles": 3050,
+      "presence_cycles": 3121,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-02"
@@ -87,7 +87,7 @@
       "last_external_at": "2026-09-02T17:03:14Z",
       "last_observed": "2026-09-02T17:06:39Z",
       "observation_count": 3,
-      "presence_cycles": 3050,
+      "presence_cycles": 3121,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-02"
@@ -96,8 +96,8 @@
       "suffix": "x.com"
     }
   ],
-  "content_hash": "a7e95d5e95a44ec361bad9f22f12129ead98c39fdae3baedd63baa4aec3a21c2",
-  "generated_at": "2026-09-13T08:59:10Z",
+  "content_hash": "3cee31b26b6615366397153af2b70e55f3e25c8f58234bb11289549d2910cf0f",
+  "generated_at": "2026-09-13T14:56:48Z",
   "hash_algorithm": "sha256",
   "history_scope": "since_analytics_start",
   "observer_id": "76e41c45-c36a-471f-9aa1-7db362959514",
