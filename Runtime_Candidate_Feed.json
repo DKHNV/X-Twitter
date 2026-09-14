@@ -3,15 +3,15 @@
     {
       "active_cycles": 3,
       "candidate_id": "5eb24a0f1c2e8245b441a13d48e8f6edb9762e24b452a4488a6d2abda94a4b98",
-      "current_presence": true,
-      "current_routing_status": "expired",
+      "current_presence": false,
+      "current_routing_status": "absent",
       "first_observed": "2026-09-02T16:50:32Z",
       "hostname": "api.twitter.com",
       "id_version": 1,
       "last_external_at": "2026-09-02T16:41:13Z",
       "last_observed": "2026-09-02T16:51:35Z",
       "observation_count": 2,
-      "presence_cycles": 3264,
+      "presence_cycles": 3293,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-02"
@@ -22,15 +22,15 @@
     {
       "active_cycles": 4,
       "candidate_id": "f2d81f8d63040e89ab261e81a3d966752c68bc7d158cd113af81589449495110",
-      "current_presence": true,
-      "current_routing_status": "expired",
+      "current_presence": false,
+      "current_routing_status": "absent",
       "first_observed": "2026-09-02T16:50:32Z",
       "hostname": "api.x.com",
       "id_version": 1,
       "last_external_at": "2026-09-02T16:41:12Z",
       "last_observed": "2026-09-02T16:51:35Z",
       "observation_count": 2,
-      "presence_cycles": 3264,
+      "presence_cycles": 3293,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-02"
@@ -41,15 +41,15 @@
     {
       "active_cycles": 5,
       "candidate_id": "93551fae5cafd85cf4ac90c19c450214bea3d2be39d06e415b8194b957380fbd",
-      "current_presence": true,
-      "current_routing_status": "expired",
+      "current_presence": false,
+      "current_routing_status": "absent",
       "first_observed": "2026-09-02T16:50:32Z",
       "hostname": "pbs.twimg.com",
       "id_version": 1,
       "last_external_at": "2026-09-02T16:47:32Z",
       "last_observed": "2026-09-02T17:37:00Z",
       "observation_count": 2,
-      "presence_cycles": 3264,
+      "presence_cycles": 3293,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-02"
@@ -60,7 +60,7 @@
     {
       "active_cycles": 7,
       "candidate_id": "2832b0e75c419ad7155e0b6bc28b7a8122855d3bcfa496fc03c597c0b6f21c18",
-      "current_presence": true,
+      "current_presence": false,
       "current_routing_status": "expired",
       "first_observed": "2026-09-02T16:50:32Z",
       "hostname": "www.t.co",
@@ -68,7 +68,7 @@
       "last_external_at": "2026-09-02T16:45:41Z",
       "last_observed": "2026-09-02T16:51:35Z",
       "observation_count": 2,
-      "presence_cycles": 3264,
+      "presence_cycles": 3293,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-02"
@@ -79,15 +79,15 @@
     {
       "active_cycles": 7,
       "candidate_id": "572e720da7fa733bf6b21076d481e502a1b7d110138a55fbe839ac04a9d3f09b",
-      "current_presence": true,
-      "current_routing_status": "expired",
+      "current_presence": false,
+      "current_routing_status": "absent",
       "first_observed": "2026-09-02T16:50:32Z",
       "hostname": "www.x.com",
       "id_version": 1,
       "last_external_at": "2026-09-02T17:03:14Z",
       "last_observed": "2026-09-02T17:06:39Z",
       "observation_count": 3,
-      "presence_cycles": 3264,
+      "presence_cycles": 3293,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-02"
@@ -96,8 +96,8 @@
       "suffix": "x.com"
     }
   ],
-  "content_hash": "ffbe887b270424ce840a9c317ea04d256b81fcf9fa128ae16117b4279e392f8c",
-  "generated_at": "2026-09-14T02:57:48Z",
+  "content_hash": "9eccd53af54fe975e7d0d2550b1e2ce62a92d9c290e596490251da9e736df5a2",
+  "generated_at": "2026-09-14T08:56:23Z",
   "hash_algorithm": "sha256",
   "history_scope": "since_analytics_start",
   "observer_id": "76e41c45-c36a-471f-9aa1-7db362959514",
