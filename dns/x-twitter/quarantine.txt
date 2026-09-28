@@ -2,4 +2,3 @@ bootserv.local.twitter.com
 bootserv.memx.twitter.com
 bootserv.memy.twitter.com
 bootserv.memz.twitter.com
-sai.twitter.com
