@@ -73,10 +73,7 @@ audubon.syd2.twitter.com
 audubon.tyo1.twitter.com
 audubon.tyo3.twitter.com
 baremetal-console.atla.twitter.com
-baremetal-console.local.twitter.com
 baremetal-console.memx.twitter.com
-baremetal-console.memy.twitter.com
-baremetal-console.pdxa.twitter.com
 baremetal-tenancy-broker.local.twitter.com
 baremetal-tenancy-broker.memx.twitter.com
 baremetal-tenancy-broker.memy.twitter.com
