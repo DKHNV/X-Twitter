@@ -70,7 +70,6 @@ audubon.syd1.twitter.com
 audubon.syd2.twitter.com
 audubon.tyo1.twitter.com
 audubon.tyo3.twitter.com
-baremetal-console.memx.twitter.com
 baremetal-tenancy-broker.local.twitter.com
 baremetal-tenancy-broker.memx.twitter.com
 baremetal-tenancy-broker.memy.twitter.com
@@ -320,7 +319,6 @@ stats.wilson.pdxv.twitter.com
 stats.wilson.pdxx.twitter.com
 stats.wilson.sfo2.twitter.com
 supermon.atla.twitter.com
-supermon.memx.twitter.com
 supermon.memy.twitter.com
 svn.atla.twitter.com
 svn.local.twitter.com
