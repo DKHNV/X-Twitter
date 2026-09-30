@@ -363,7 +363,6 @@ xai-ndb.memx.twitter.com
 xai-rds.memx.twitter.com
 xai-repairhub.memx.twitter.com
 xai-twippy.memx.twitter.com
-xai-wilson.memx.twitter.com
 xai-wilson.memy.twitter.com
 xai-wlm.memx.twitter.com
 xray-staging.local.twitter.com
