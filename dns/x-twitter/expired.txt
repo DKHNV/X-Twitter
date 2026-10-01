@@ -2,7 +2,6 @@ api.wilson.atla.twitter.com
 api.wilson.atlc.twitter.com
 api.wilson.atls.twitter.com
 api.wilson.atlv.twitter.com
-api.wilson.local.twitter.com
 api.wilson.memx.twitter.com
 api.wilson.memy.twitter.com
 api.wilson.pdxa.twitter.com
@@ -11,10 +10,6 @@ api.wilson.pdxs.twitter.com
 api.wilson.pdxv.twitter.com
 api.wilson.pdxx.twitter.com
 api.wilson.sfo2.twitter.com
-artifactory-ci-krb.local.twitter.com
-artifactory-ci.local.twitter.com
-artifactory-krb.local.twitter.com
-artifactory.local.twitter.com
 atl1.twitter.com
 audubon.ams1.twitter.com
 audubon.atl2.twitter.com
@@ -54,7 +49,6 @@ audubon.pao1.twitter.com
 audubon.par1.twitter.com
 audubon.pdxa.twitter.com
 audubon.pdxc.twitter.com
-audubon.pdxm.twitter.com
 audubon.pdxs.twitter.com
 audubon.pdxv.twitter.com
 audubon.pdxx.twitter.com
@@ -158,7 +152,6 @@ ipmi.wilson.atla.twitter.com
 ipmi.wilson.atlc.twitter.com
 ipmi.wilson.atls.twitter.com
 ipmi.wilson.atlv.twitter.com
-ipmi.wilson.local.twitter.com
 ipmi.wilson.memx.twitter.com
 ipmi.wilson.memy.twitter.com
 ipmi.wilson.pdxa.twitter.com
@@ -196,7 +189,6 @@ neteng.atla.twitter.com
 neteng.atlc.twitter.com
 neteng.local.twitter.com
 neteng.memx.twitter.com
-neteng.pdxa.twitter.com
 neteng.pdxc.twitter.com
 neteng.sfo2.twitter.com
 new.wilson-stats.memy.twitter.com
@@ -308,7 +300,6 @@ stats.wilson.atla.twitter.com
 stats.wilson.atlc.twitter.com
 stats.wilson.atls.twitter.com
 stats.wilson.atlv.twitter.com
-stats.wilson.local.twitter.com
 stats.wilson.memx.twitter.com
 stats.wilson.memy.twitter.com
 stats.wilson.pdxa.twitter.com
