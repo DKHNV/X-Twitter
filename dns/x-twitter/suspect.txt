@@ -1,3 +1,5 @@
+artifactory-staging-krb.local.twitter.com
+artifactory-staging.local.twitter.com
 audubon.atla.twitter.com
 audubon.local.twitter.com
 audubon.memo.twitter.com
