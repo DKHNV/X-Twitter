@@ -8,10 +8,7 @@ artifactory.local.twitter.com
 audubon.atlm.twitter.com
 audubon.pdxm.twitter.com
 baremetal-console.atla.twitter.com
-baremetal-console.local.twitter.com
 baremetal-console.memx.twitter.com
-baremetal-console.memy.twitter.com
-baremetal-console.pdxa.twitter.com
 bootserv.atla.twitter.com
 bootserv.pdxa.twitter.com
 bootserv.pdxx.twitter.com
