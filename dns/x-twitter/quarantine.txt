@@ -1,3 +1,6 @@
+audubon.memo.twitter.com
+audubon.memp.twitter.com
+audubon.memw.twitter.com
 bootserv.local.twitter.com
 bootserv.memx.twitter.com
 bootserv.memy.twitter.com
