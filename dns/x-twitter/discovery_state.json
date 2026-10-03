@@ -2,27 +2,27 @@
   "sources": {
     "certspotter": {
       "t.co": {
-        "after": 17432017679,
-        "caught_up": true,
-        "last_poll": "2026-10-03T15:31:07Z"
+        "after": 17566119236,
+        "caught_up": false,
+        "last_poll": "2026-10-03T20:25:56Z"
       },
       "twimg.com": {
         "after": 17496034061,
         "caught_up": true,
-        "last_poll": "2026-10-03T15:31:07Z"
+        "last_poll": "2026-10-03T20:25:56Z"
       },
       "twitter.com": {
-        "after": 17551732142,
-        "caught_up": true,
-        "last_poll": "2026-10-03T15:31:07Z"
+        "after": 17565788823,
+        "caught_up": false,
+        "last_poll": "2026-10-03T20:25:56Z"
       },
       "x.com": {
         "after": null,
         "caught_up": false,
-        "last_poll": "2026-10-03T15:31:07Z"
+        "last_poll": "2026-10-03T20:25:56Z"
       }
     }
   },
-  "updated_at": "2026-10-03T15:31:07Z",
+  "updated_at": "2026-10-03T20:25:56Z",
   "version": 2
 }
