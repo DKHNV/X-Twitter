@@ -27,6 +27,7 @@ gitsprimary.local.twitter.com
 gitsreplica.local.twitter.com
 gitssecondary.local.twitter.com
 ipmi.wilson.local.twitter.com
+isolation.atla.twitter.com
 neteng.pdxa.twitter.com
 rogit.atla.twitter.com
 rogit.local.twitter.com

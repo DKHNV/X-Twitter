@@ -138,7 +138,6 @@ ipmi.wilson.pdxs.twitter.com
 ipmi.wilson.pdxv.twitter.com
 ipmi.wilson.pdxx.twitter.com
 ipmi.wilson.sfo2.twitter.com
-isolation.atla.twitter.com
 kf.qus1.twitter.com
 ldap.atla.twitter.com
 ldap.atlc.twitter.com
