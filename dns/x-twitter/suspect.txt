@@ -1,11 +1,16 @@
 artifactory-staging-krb.local.twitter.com
 artifactory-staging.local.twitter.com
 audubon.atla.twitter.com
+audubon.atlm.twitter.com
 audubon.local.twitter.com
 baremetal-console.atla.twitter.com
 baremetal-console.local.twitter.com
+baremetal-console.memx.twitter.com
 baremetal-console.memy.twitter.com
 baremetal-console.pdxa.twitter.com
+bootserv.atla.twitter.com
+bootserv.pdxa.twitter.com
+bootserv.pdxx.twitter.com
 compute-ipam-test.pdxa.twitter.com
 compute-ipam.pdxa.twitter.com
 compute-prod-admiral.smf1.twitter.com
@@ -25,4 +30,5 @@ nauth2.atlc.twitter.com
 nauth2.smfc.twitter.com
 registry-test.pdxa.twitter.com
 registry.pdxa.twitter.com
+supermon.memx.twitter.com
 xai-wilson.memx.twitter.com
