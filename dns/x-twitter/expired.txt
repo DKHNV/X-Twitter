@@ -308,14 +308,11 @@ wlm.atla.twitter.com
 wlm.atlc.twitter.com
 wlm.atls.twitter.com
 wlm.atlv.twitter.com
-wlm.local.twitter.com
 wlm.memx.twitter.com
 wlm.memy.twitter.com
-wlm.pdxa.twitter.com
 wlm.pdxc.twitter.com
 wlm.pdxs.twitter.com
 wlm.pdxv.twitter.com
-wlm.pdxx.twitter.com
 wlm.sfo2.twitter.com
 xai-audubon.memx.twitter.com
 xai-audubon.memy.twitter.com
