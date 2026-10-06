@@ -267,7 +267,6 @@ trivy.atla.twitter.com
 trivy.local.twitter.com
 trivy.pdxa.twitter.com
 uauth.ise.twitter.com
-victoriametrics-a.memy.twitter.com
 wekas3.atla.twitter.com
 wilson-stats.memy.twitter.com
 wilson.local.twitter.com
