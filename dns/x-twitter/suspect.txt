@@ -2,8 +2,6 @@ api.wilson.local.twitter.com
 artifactory-ci-krb.local.twitter.com
 artifactory-ci.local.twitter.com
 artifactory-krb.local.twitter.com
-artifactory-staging-krb.local.twitter.com
-artifactory-staging.local.twitter.com
 artifactory.local.twitter.com
 audubon.atlm.twitter.com
 audubon.pdxm.twitter.com
