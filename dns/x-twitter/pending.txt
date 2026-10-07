@@ -2,14 +2,15 @@ api.wilson.pdxa.twitter.com
 api.wilson.pdxc.twitter.com
 api.wilson.pdxx.twitter.com
 audubon.pdxa.twitter.com
+ddns3.atla.twitter.com
 docker-local.artifactory.local.twitter.com
 docker-public.artifactory.local.twitter.com
 docker-releases-local.artifactory.local.twitter.com
 docker-virtual.artifactory.local.twitter.com
+hadoop-mltst.qus1.twitter.com
 ipmi.wilson.pdxa.twitter.com
 ipmi.wilson.pdxc.twitter.com
 ipmi.wilson.pdxx.twitter.com
-isolation.atla.twitter.com
 redfish-proxy.local.twitter.com
 redfish-proxy.pdxa.twitter.com
 stardock-canary.atla.twitter.com

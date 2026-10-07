@@ -5,10 +5,6 @@ artifactory-krb.local.twitter.com
 artifactory.local.twitter.com
 audubon.atlm.twitter.com
 audubon.pdxm.twitter.com
-baremetal-console.memx.twitter.com
-bootserv.atla.twitter.com
-bootserv.pdxa.twitter.com
-bootserv.pdxx.twitter.com
 git.atla.twitter.com
 git.local.twitter.com
 git.pdxa.twitter.com
@@ -32,6 +28,7 @@ gitsprimary.local.twitter.com
 gitsreplica.local.twitter.com
 gitssecondary.local.twitter.com
 ipmi.wilson.local.twitter.com
+isolation.atla.twitter.com
 neteng.pdxa.twitter.com
 rogit.atla.twitter.com
 rogit.local.twitter.com
@@ -39,4 +36,3 @@ rogit.pdxa.twitter.com
 rogit.qus1.twitter.com
 rogit.smf1.twitter.com
 stats.wilson.local.twitter.com
-supermon.memx.twitter.com

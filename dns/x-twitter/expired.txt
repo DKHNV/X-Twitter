@@ -73,7 +73,6 @@ compute.atla.twitter.com
 compute.qua2.twitter.com
 compute.qud1.twitter.com
 configbus.local.twitter.com
-ddns3.atla.twitter.com
 dev.cftls.t.co
 dnsmgr.atla.twitter.com
 dnsmgr.atls.twitter.com
@@ -89,7 +88,6 @@ hadoop-bluebirdtst.qus1.twitter.com
 hadoop-dw3-nn.pdxa.twitter.com
 hadoop-dw3-rm.pdxa.twitter.com
 hadoop-ie.qus1.twitter.com
-hadoop-mltst.qus1.twitter.com
 hadoop-pc-nn.atla.twitter.com
 hadoop-pc-rm.atla.twitter.com
 hadoop-proc-nn.atla.twitter.com
