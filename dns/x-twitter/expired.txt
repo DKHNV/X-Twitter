@@ -44,7 +44,6 @@ audubon.nyc1.twitter.com
 audubon.nyc2.twitter.com
 audubon.pao1.twitter.com
 audubon.par1.twitter.com
-audubon.pdxa.twitter.com
 audubon.pdxc.twitter.com
 audubon.pdxs.twitter.com
 audubon.pdxv.twitter.com
@@ -253,7 +252,6 @@ stats.wilson.memy.twitter.com
 stats.wilson.pdxs.twitter.com
 stats.wilson.pdxv.twitter.com
 stats.wilson.sfo2.twitter.com
-supermon.atla.twitter.com
 supermon.memy.twitter.com
 svn.atla.twitter.com
 svn.local.twitter.com

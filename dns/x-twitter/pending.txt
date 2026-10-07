@@ -1,6 +1,7 @@
 api.wilson.pdxa.twitter.com
 api.wilson.pdxc.twitter.com
 api.wilson.pdxx.twitter.com
+audubon.pdxa.twitter.com
 docker-local.artifactory.local.twitter.com
 docker-public.artifactory.local.twitter.com
 docker-releases-local.artifactory.local.twitter.com
@@ -26,6 +27,7 @@ stardock.pdxx.twitter.com
 stats.wilson.pdxa.twitter.com
 stats.wilson.pdxc.twitter.com
 stats.wilson.pdxx.twitter.com
+supermon.atla.twitter.com
 syndication-o.twitter.com
 tw-ton.twitter.com
 twimg.com
