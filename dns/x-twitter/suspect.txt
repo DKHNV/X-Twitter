@@ -40,4 +40,3 @@ rogit.qus1.twitter.com
 rogit.smf1.twitter.com
 stats.wilson.local.twitter.com
 supermon.memx.twitter.com
-xai-wilson.memx.twitter.com

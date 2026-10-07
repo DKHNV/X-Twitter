@@ -32,3 +32,4 @@ nauth2.atlc.twitter.com
 nauth2.smfc.twitter.com
 registry-test.pdxa.twitter.com
 registry.pdxa.twitter.com
+xai-wilson.memx.twitter.com
