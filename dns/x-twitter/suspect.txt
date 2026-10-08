@@ -1,9 +1,3 @@
-api.wilson.local.twitter.com
-artifactory-ci-krb.local.twitter.com
-artifactory-ci.local.twitter.com
-artifactory-krb.local.twitter.com
-artifactory.local.twitter.com
-audubon.pdxm.twitter.com
 git.atla.twitter.com
 git.local.twitter.com
 git.pdxa.twitter.com
@@ -26,15 +20,12 @@ gitsprimary-basic.local.twitter.com
 gitsprimary.local.twitter.com
 gitsreplica.local.twitter.com
 gitssecondary.local.twitter.com
-ipmi.wilson.local.twitter.com
 isolation.atla.twitter.com
-neteng.pdxa.twitter.com
 rogit.atla.twitter.com
 rogit.local.twitter.com
 rogit.pdxa.twitter.com
 rogit.qus1.twitter.com
 rogit.smf1.twitter.com
-stats.wilson.local.twitter.com
 wlm.local.twitter.com
 wlm.pdxa.twitter.com
 wlm.pdxx.twitter.com
