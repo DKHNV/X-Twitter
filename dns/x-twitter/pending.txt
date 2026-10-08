@@ -36,6 +36,3 @@ victoriametrics-a.memy.twitter.com
 victoriametrics-b.memy.twitter.com
 victoriametrics-c.memy.twitter.com
 victoriametrics-d.memy.twitter.com
-wlm.local.twitter.com
-wlm.pdxa.twitter.com
-wlm.pdxx.twitter.com

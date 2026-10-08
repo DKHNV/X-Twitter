@@ -3,7 +3,6 @@ artifactory-ci-krb.local.twitter.com
 artifactory-ci.local.twitter.com
 artifactory-krb.local.twitter.com
 artifactory.local.twitter.com
-audubon.atlm.twitter.com
 audubon.pdxm.twitter.com
 git.atla.twitter.com
 git.local.twitter.com
@@ -36,3 +35,6 @@ rogit.pdxa.twitter.com
 rogit.qus1.twitter.com
 rogit.smf1.twitter.com
 stats.wilson.local.twitter.com
+wlm.local.twitter.com
+wlm.pdxa.twitter.com
+wlm.pdxx.twitter.com
