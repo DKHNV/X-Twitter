@@ -10,5 +10,4 @@ pxe.memy.twitter.com
 redfish-proxy.memy.twitter.com
 stats.wilson.memy.twitter.com
 supermon.atla.twitter.com
-victoriametrics-a.memy.twitter.com
 xai-wilson.memy.twitter.com
