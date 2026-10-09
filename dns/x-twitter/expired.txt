@@ -60,7 +60,6 @@ audubon.tyo3.twitter.com
 baremetal-tenancy-broker.local.twitter.com
 baremetal-tenancy-broker.memx.twitter.com
 baremetal-tenancy-broker.memy.twitter.com
-binaries.local.twitter.com
 cgit.atla.twitter.com
 cgit.local.twitter.com
 cgit.pdxa.twitter.com
@@ -217,7 +216,6 @@ registry-rw.pdxa.twitter.com
 registry-test.atla.twitter.com
 registry.atla.twitter.com
 sai.twitter.com
-science-binaries.local.twitter.com
 service-proxy.qua2.twitter.com
 service-proxy.qud1.twitter.com
 service-proxy.qus1.twitter.com
@@ -263,7 +261,6 @@ wlm.atlc.twitter.com
 wlm.atls.twitter.com
 wlm.atlv.twitter.com
 wlm.memx.twitter.com
-wlm.memy.twitter.com
 wlm.pdxc.twitter.com
 wlm.pdxs.twitter.com
 wlm.pdxv.twitter.com
@@ -281,9 +278,7 @@ xray.local.twitter.com
 xray.pdxa.twitter.com
 yum.atla.twitter.com
 yum.atlc.twitter.com
-yum.local.twitter.com
 yum.memx.twitter.com
-yum.memy.twitter.com
 yum.pdxa.twitter.com
 yum.pdxc.twitter.com
 yum.pdxx.twitter.com
