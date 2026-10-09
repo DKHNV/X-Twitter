@@ -3,7 +3,6 @@ api.wilson.atlc.twitter.com
 api.wilson.atls.twitter.com
 api.wilson.atlv.twitter.com
 api.wilson.memx.twitter.com
-api.wilson.memy.twitter.com
 api.wilson.pdxs.twitter.com
 api.wilson.pdxv.twitter.com
 api.wilson.sfo2.twitter.com
@@ -12,7 +11,6 @@ audubon.ams1.twitter.com
 audubon.atl2.twitter.com
 audubon.atl4.twitter.com
 audubon.atlb.twitter.com
-audubon.atlc.twitter.com
 audubon.atls.twitter.com
 audubon.atlv.twitter.com
 audubon.chi1.twitter.com
@@ -120,7 +118,6 @@ ipmi.wilson.atlc.twitter.com
 ipmi.wilson.atls.twitter.com
 ipmi.wilson.atlv.twitter.com
 ipmi.wilson.memx.twitter.com
-ipmi.wilson.memy.twitter.com
 ipmi.wilson.pdxs.twitter.com
 ipmi.wilson.pdxv.twitter.com
 ipmi.wilson.sfo2.twitter.com
@@ -206,15 +203,12 @@ puppetserver3.syd2.twitter.com
 puppetserver3.tyo3.twitter.com
 pxe.atla.twitter.com
 pxe.atlc.twitter.com
-pxe.local.twitter.com
 pxe.memx.twitter.com
-pxe.memy.twitter.com
 pxe.pdxa.twitter.com
 pxe.pdxc.twitter.com
 pxe.pdxx.twitter.com
 pxe.sfo2.twitter.com
 redfish-proxy.memx.twitter.com
-redfish-proxy.memy.twitter.com
 redfish-proxy.pdxx.twitter.com
 registry-rw-test.atla.twitter.com
 registry-rw-test.pdxa.twitter.com
@@ -245,7 +239,6 @@ stats.wilson.atlc.twitter.com
 stats.wilson.atls.twitter.com
 stats.wilson.atlv.twitter.com
 stats.wilson.memx.twitter.com
-stats.wilson.memy.twitter.com
 stats.wilson.pdxs.twitter.com
 stats.wilson.pdxv.twitter.com
 stats.wilson.sfo2.twitter.com
@@ -281,7 +274,6 @@ xai-ndb.memx.twitter.com
 xai-rds.memx.twitter.com
 xai-repairhub.memx.twitter.com
 xai-twippy.memx.twitter.com
-xai-wilson.memy.twitter.com
 xai-wlm.memx.twitter.com
 xray-staging.local.twitter.com
 xray.atla.twitter.com
