@@ -10,7 +10,6 @@ atl1.twitter.com
 audubon.ams1.twitter.com
 audubon.atl2.twitter.com
 audubon.atl4.twitter.com
-audubon.atlb.twitter.com
 audubon.atls.twitter.com
 audubon.atlv.twitter.com
 audubon.chi1.twitter.com

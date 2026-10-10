@@ -1,22 +1,20 @@
 {
   "hosts": {
     "abs.twimg.com": {
-      "canonical_name": "abs.twimg.com.cdn.cloudflare.net",
+      "canonical_name": "twimg.twitter.map.fastly.net",
       "consecutive_negative_checks": 0,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-21T09:36:50Z",
       "hostname": "abs.twimg.com",
       "ipv4": [
-        "104.18.39.59",
         "146.75.40.159",
-        "151.101.20.159",
-        "172.64.148.197"
+        "151.101.20.159"
       ],
-      "last_check": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-09T22:05:00Z",
+      "last_success": "2026-10-10T03:43:01Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -36,10 +34,9 @@
           "status": "OK"
         },
         "9.9.9.9": {
-          "canonical_name": "abs.twimg.com.cdn.cloudflare.net",
+          "canonical_name": "twimg.twitter.map.fastly.net",
           "ipv4": [
-            "104.18.39.59",
-            "172.64.148.197"
+            "146.75.40.159"
           ],
           "status": "OK"
         }
@@ -62,10 +59,10 @@
         "162.159.140.229",
         "172.66.0.227"
       ],
-      "last_check": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-09T22:05:00Z",
+      "last_success": "2026-10-10T03:43:01Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -248,18 +245,18 @@
     },
     "api.wilson.local.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 28,
+      "consecutive_negative_checks": 29,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "api.wilson.local.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 28,
+      "negative_observations": 29,
       "negative_since": "2026-10-01T22:12:08Z",
       "quarantined_at": "2026-10-08T22:43:02Z",
       "resolver_results": {
@@ -269,7 +266,7 @@
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "9.9.9.9": {
           "ipv4": [],
@@ -320,18 +317,18 @@
     },
     "api.wilson.memy.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 3,
+      "consecutive_negative_checks": 4,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "api.wilson.memy.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 3,
+      "negative_observations": 4,
       "negative_since": "2026-10-09T03:58:05Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -341,7 +338,7 @@
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "9.9.9.9": {
           "ipv4": [],
@@ -356,18 +353,18 @@
     },
     "api.wilson.pdxa.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 13,
+      "consecutive_negative_checks": 14,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "api.wilson.pdxa.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 13,
+      "negative_observations": 14,
       "negative_since": "2026-10-05T23:32:48Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -377,7 +374,7 @@
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "9.9.9.9": {
           "ipv4": [],
@@ -392,18 +389,18 @@
     },
     "api.wilson.pdxc.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 13,
+      "consecutive_negative_checks": 14,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "api.wilson.pdxc.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 13,
+      "negative_observations": 14,
       "negative_since": "2026-10-05T23:32:48Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -413,11 +410,11 @@
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
@@ -500,18 +497,18 @@
     },
     "api.wilson.pdxx.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 13,
+      "consecutive_negative_checks": 14,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T12:31:52Z",
       "hostname": "api.wilson.pdxx.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 13,
+      "negative_observations": 14,
       "negative_since": "2026-10-05T23:32:48Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -581,10 +578,10 @@
         "162.159.140.229",
         "172.66.0.227"
       ],
-      "last_check": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-09T22:05:00Z",
+      "last_success": "2026-10-10T03:43:01Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -622,18 +619,18 @@
     },
     "artifactory-ci-krb.local.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 28,
+      "consecutive_negative_checks": 29,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "artifactory-ci-krb.local.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 28,
+      "negative_observations": 29,
       "negative_since": "2026-10-01T22:12:08Z",
       "quarantined_at": "2026-10-08T22:43:02Z",
       "resolver_results": {
@@ -643,7 +640,7 @@
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "9.9.9.9": {
           "ipv4": [],
@@ -658,18 +655,18 @@
     },
     "artifactory-ci.local.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 28,
+      "consecutive_negative_checks": 29,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "artifactory-ci.local.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 28,
+      "negative_observations": 29,
       "negative_since": "2026-10-01T22:12:08Z",
       "quarantined_at": "2026-10-08T22:43:02Z",
       "resolver_results": {
@@ -694,18 +691,18 @@
     },
     "artifactory-krb.local.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 28,
+      "consecutive_negative_checks": 29,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "artifactory-krb.local.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 28,
+      "negative_observations": 29,
       "negative_since": "2026-10-01T22:12:08Z",
       "quarantined_at": "2026-10-08T22:43:02Z",
       "resolver_results": {
@@ -730,18 +727,18 @@
     },
     "artifactory-staging-krb.local.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 37,
+      "consecutive_negative_checks": 38,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "artifactory-staging-krb.local.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 37,
+      "negative_observations": 38,
       "negative_since": "2026-09-29T11:54:36Z",
       "quarantined_at": "2026-10-06T12:32:35Z",
       "resolver_results": {
@@ -755,7 +752,7 @@
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
@@ -766,32 +763,32 @@
     },
     "artifactory-staging.local.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 37,
+      "consecutive_negative_checks": 38,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "artifactory-staging.local.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 37,
+      "negative_observations": 38,
       "negative_since": "2026-09-29T11:54:36Z",
       "quarantined_at": "2026-10-06T12:32:35Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
@@ -802,28 +799,28 @@
     },
     "artifactory.local.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 28,
+      "consecutive_negative_checks": 29,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "artifactory.local.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 28,
+      "negative_observations": 29,
       "negative_since": "2026-10-01T22:12:08Z",
       "quarantined_at": "2026-10-08T22:43:02Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "9.9.9.9": {
           "ipv4": [],
@@ -982,28 +979,28 @@
     },
     "audubon.atla.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 39,
+      "consecutive_negative_checks": 40,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "audubon.atla.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 39,
+      "negative_observations": 40,
       "negative_since": "2026-09-28T22:49:40Z",
       "quarantined_at": "2026-10-05T23:32:48Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "9.9.9.9": {
           "ipv4": [],
@@ -1018,20 +1015,20 @@
     },
     "audubon.atlb.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 150,
+      "consecutive_negative_checks": 1,
       "ever_validated": false,
-      "expired_at": "2026-09-28T02:55:30Z",
+      "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "audubon.atlb.twitter.com",
       "ipv4": [],
-      "last_check": "2026-09-28T02:55:30Z",
-      "last_failure": "2026-09-28T02:55:30Z",
-      "last_negative": "2026-09-28T02:55:30Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 150,
-      "negative_since": "2026-08-21T09:44:03Z",
-      "quarantined_at": "2026-08-28T21:37:31Z",
+      "negative_observations": 1,
+      "negative_since": "2026-10-10T03:43:01Z",
+      "quarantined_at": null,
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
@@ -1050,22 +1047,22 @@
       "sources": [
         "twitter-core:twitter.com"
       ],
-      "status": "expired"
+      "status": "pending"
     },
     "audubon.atlc.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 3,
+      "consecutive_negative_checks": 4,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "audubon.atlc.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 3,
+      "negative_observations": 4,
       "negative_since": "2026-10-09T03:58:05Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -1075,11 +1072,11 @@
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         }
       },
       "safety_reason": null,
@@ -1090,18 +1087,18 @@
     },
     "audubon.atlm.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 30,
+      "consecutive_negative_checks": 31,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "audubon.atlm.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 30,
+      "negative_observations": 31,
       "negative_since": "2026-10-01T03:28:01Z",
       "quarantined_at": "2026-10-08T03:52:43Z",
       "resolver_results": {
@@ -1111,7 +1108,7 @@
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "9.9.9.9": {
           "ipv4": [],
@@ -1702,18 +1699,18 @@
     },
     "audubon.local.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 39,
+      "consecutive_negative_checks": 40,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "audubon.local.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 39,
+      "negative_observations": 40,
       "negative_since": "2026-09-28T22:49:40Z",
       "quarantined_at": "2026-10-05T23:32:48Z",
       "resolver_results": {
@@ -1723,11 +1720,11 @@
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
@@ -1918,24 +1915,24 @@
     },
     "audubon.memo.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 49,
+      "consecutive_negative_checks": 50,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-09-26T02:53:42Z",
       "hostname": "audubon.memo.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 49,
+      "negative_observations": 50,
       "negative_since": "2026-09-26T02:53:42Z",
       "quarantined_at": "2026-10-03T03:12:21Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "8.8.8.8": {
           "ipv4": [],
@@ -1954,28 +1951,28 @@
     },
     "audubon.memp.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 49,
+      "consecutive_negative_checks": 50,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-09-26T02:53:42Z",
       "hostname": "audubon.memp.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 49,
+      "negative_observations": 50,
       "negative_since": "2026-09-26T02:53:42Z",
       "quarantined_at": "2026-10-03T03:12:21Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "9.9.9.9": {
           "ipv4": [],
@@ -1990,18 +1987,18 @@
     },
     "audubon.memw.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 49,
+      "consecutive_negative_checks": 50,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-09-26T02:53:42Z",
       "hostname": "audubon.memw.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 49,
+      "negative_observations": 50,
       "negative_since": "2026-09-26T02:53:42Z",
       "quarantined_at": "2026-10-03T03:12:21Z",
       "resolver_results": {
@@ -2015,7 +2012,7 @@
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
@@ -2386,32 +2383,32 @@
     },
     "audubon.pdxa.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 8,
+      "consecutive_negative_checks": 9,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "audubon.pdxa.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 8,
+      "negative_observations": 9,
       "negative_since": "2026-10-07T12:25:34Z",
       "quarantined_at": null,
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
@@ -2458,18 +2455,18 @@
     },
     "audubon.pdxm.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 28,
+      "consecutive_negative_checks": 29,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "audubon.pdxm.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 28,
+      "negative_observations": 29,
       "negative_since": "2026-10-01T22:12:08Z",
       "quarantined_at": "2026-10-08T22:43:02Z",
       "resolver_results": {
@@ -2483,7 +2480,7 @@
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
@@ -2998,18 +2995,18 @@
     },
     "baremetal-console.atla.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 35,
+      "consecutive_negative_checks": 36,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "baremetal-console.atla.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 35,
+      "negative_observations": 36,
       "negative_since": "2026-09-29T21:43:35Z",
       "quarantined_at": "2026-10-06T22:05:51Z",
       "resolver_results": {
@@ -3019,11 +3016,11 @@
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
@@ -3034,18 +3031,18 @@
     },
     "baremetal-console.local.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 38,
+      "consecutive_negative_checks": 39,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "baremetal-console.local.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 38,
+      "negative_observations": 39,
       "negative_since": "2026-09-29T03:35:48Z",
       "quarantined_at": "2026-10-06T04:11:59Z",
       "resolver_results": {
@@ -3070,18 +3067,18 @@
     },
     "baremetal-console.memx.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 31,
+      "consecutive_negative_checks": 32,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "baremetal-console.memx.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 31,
+      "negative_observations": 32,
       "negative_since": "2026-09-30T21:44:05Z",
       "quarantined_at": "2026-10-07T22:30:00Z",
       "resolver_results": {
@@ -3106,18 +3103,18 @@
     },
     "baremetal-console.memy.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 38,
+      "consecutive_negative_checks": 39,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "baremetal-console.memy.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 38,
+      "negative_observations": 39,
       "negative_since": "2026-09-29T03:35:48Z",
       "quarantined_at": "2026-10-06T04:11:59Z",
       "resolver_results": {
@@ -3142,28 +3139,28 @@
     },
     "baremetal-console.pdxa.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 38,
+      "consecutive_negative_checks": 39,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "baremetal-console.pdxa.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 38,
+      "negative_observations": 39,
       "negative_since": "2026-09-29T03:35:48Z",
       "quarantined_at": "2026-10-06T04:11:59Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "9.9.9.9": {
           "ipv4": [],
@@ -3286,18 +3283,18 @@
     },
     "binaries.local.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 1,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "binaries.local.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 1,
+      "negative_observations": 2,
       "negative_since": "2026-10-09T22:05:00Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -3307,11 +3304,11 @@
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         }
       },
       "safety_reason": null,
@@ -3322,28 +3319,28 @@
     },
     "bootserv.atla.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 31,
+      "consecutive_negative_checks": 32,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-09-30T21:44:05Z",
       "hostname": "bootserv.atla.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 31,
+      "negative_observations": 32,
       "negative_since": "2026-09-30T21:44:05Z",
       "quarantined_at": "2026-10-07T22:30:00Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "9.9.9.9": {
           "ipv4": [],
@@ -3358,24 +3355,24 @@
     },
     "bootserv.local.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 85,
+      "consecutive_negative_checks": 86,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-09-17T02:47:17Z",
       "hostname": "bootserv.local.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 85,
+      "negative_observations": 86,
       "negative_since": "2026-09-17T02:47:17Z",
       "quarantined_at": "2026-09-24T10:52:43Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "8.8.8.8": {
           "ipv4": [],
@@ -3394,18 +3391,18 @@
     },
     "bootserv.memx.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 85,
+      "consecutive_negative_checks": 86,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-09-17T02:47:17Z",
       "hostname": "bootserv.memx.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 85,
+      "negative_observations": 86,
       "negative_since": "2026-09-17T02:47:17Z",
       "quarantined_at": "2026-09-24T10:52:43Z",
       "resolver_results": {
@@ -3430,24 +3427,60 @@
     },
     "bootserv.memy.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 85,
+      "consecutive_negative_checks": 86,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-09-17T02:47:17Z",
       "hostname": "bootserv.memy.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 85,
+      "negative_observations": 86,
       "negative_since": "2026-09-17T02:47:17Z",
       "quarantined_at": "2026-09-24T10:52:43Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
           "status": "NXDOMAIN"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NXDOMAIN"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "twitter-core:twitter.com"
+      ],
+      "status": "quarantine"
+    },
+    "bootserv.memz.twitter.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 86,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-09-17T02:47:17Z",
+      "hostname": "bootserv.memz.twitter.com",
+      "ipv4": [],
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 86,
+      "negative_since": "2026-09-17T02:47:17Z",
+      "quarantined_at": "2026-09-24T10:52:43Z",
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
         },
         "8.8.8.8": {
           "ipv4": [],
@@ -3464,70 +3497,34 @@
       ],
       "status": "quarantine"
     },
-    "bootserv.memz.twitter.com": {
-      "canonical_name": null,
-      "consecutive_negative_checks": 85,
-      "ever_validated": false,
-      "expired_at": null,
-      "first_seen": "2026-09-17T02:47:17Z",
-      "hostname": "bootserv.memz.twitter.com",
-      "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
-      "last_result": "NEGATIVE",
-      "last_success": null,
-      "negative_observations": 85,
-      "negative_since": "2026-09-17T02:47:17Z",
-      "quarantined_at": "2026-09-24T10:52:43Z",
-      "resolver_results": {
-        "1.1.1.1": {
-          "ipv4": [],
-          "status": "NXDOMAIN"
-        },
-        "8.8.8.8": {
-          "ipv4": [],
-          "status": "NXDOMAIN"
-        },
-        "9.9.9.9": {
-          "ipv4": [],
-          "status": "NXDOMAIN"
-        }
-      },
-      "safety_reason": null,
-      "sources": [
-        "twitter-core:twitter.com"
-      ],
-      "status": "quarantine"
-    },
     "bootserv.pdxa.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 31,
+      "consecutive_negative_checks": 32,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-09-30T21:44:05Z",
       "hostname": "bootserv.pdxa.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 31,
+      "negative_observations": 32,
       "negative_since": "2026-09-30T21:44:05Z",
       "quarantined_at": "2026-10-07T22:30:00Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
@@ -3538,18 +3535,18 @@
     },
     "bootserv.pdxx.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 31,
+      "consecutive_negative_checks": 32,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-09-30T21:44:05Z",
       "hostname": "bootserv.pdxx.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 31,
+      "negative_observations": 32,
       "negative_since": "2026-09-30T21:44:05Z",
       "quarantined_at": "2026-10-07T22:30:00Z",
       "resolver_results": {
@@ -3582,10 +3579,10 @@
       "ipv4": [
         "172.66.0.227"
       ],
-      "last_check": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-09T22:05:00Z",
+      "last_success": "2026-10-10T03:43:01Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3629,10 +3626,10 @@
         "146.75.40.159",
         "151.101.20.159"
       ],
-      "last_check": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-09T22:05:00Z",
+      "last_success": "2026-10-10T03:43:01Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3676,10 +3673,10 @@
         "162.159.140.229",
         "172.66.0.227"
       ],
-      "last_check": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-09T22:05:00Z",
+      "last_success": "2026-10-10T03:43:01Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3687,23 +3684,21 @@
         "1.1.1.1": {
           "canonical_name": "syndication.twitter.com",
           "ipv4": [
-            "162.159.140.229"
+            "172.66.0.227"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "syndication.twitter.com",
           "ipv4": [
-            "162.159.140.229",
-            "172.66.0.227"
+            "162.159.140.229"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "syndication.twitter.com",
           "ipv4": [
-            "162.159.140.229",
-            "172.66.0.227"
+            "162.159.140.229"
           ],
           "status": "OK"
         }
@@ -3824,24 +3819,24 @@
     },
     "compute-ipam-test.pdxa.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 39,
+      "consecutive_negative_checks": 40,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "compute-ipam-test.pdxa.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 39,
+      "negative_observations": 40,
       "negative_since": "2026-09-28T22:49:40Z",
       "quarantined_at": "2026-10-05T23:32:48Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "8.8.8.8": {
           "ipv4": [],
@@ -3849,7 +3844,7 @@
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
@@ -3860,18 +3855,18 @@
     },
     "compute-ipam.pdxa.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 39,
+      "consecutive_negative_checks": 40,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "compute-ipam.pdxa.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 39,
+      "negative_observations": 40,
       "negative_since": "2026-09-28T22:49:40Z",
       "quarantined_at": "2026-10-05T23:32:48Z",
       "resolver_results": {
@@ -3885,7 +3880,7 @@
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         }
       },
       "safety_reason": null,
@@ -3896,18 +3891,18 @@
     },
     "compute-prod-admiral.smf1.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 39,
+      "consecutive_negative_checks": 40,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "compute-prod-admiral.smf1.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 39,
+      "negative_observations": 40,
       "negative_since": "2026-09-28T22:49:40Z",
       "quarantined_at": "2026-10-05T23:32:48Z",
       "resolver_results": {
@@ -3932,90 +3927,18 @@
     },
     "compute-prod-anchor.pdxa.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 39,
+      "consecutive_negative_checks": 40,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "compute-prod-anchor.pdxa.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 39,
-      "negative_since": "2026-09-28T22:49:40Z",
-      "quarantined_at": "2026-10-05T23:32:48Z",
-      "resolver_results": {
-        "1.1.1.1": {
-          "ipv4": [],
-          "status": "NXDOMAIN"
-        },
-        "8.8.8.8": {
-          "ipv4": [],
-          "status": "NXDOMAIN"
-        },
-        "9.9.9.9": {
-          "ipv4": [],
-          "status": "NXDOMAIN"
-        }
-      },
-      "safety_reason": null,
-      "sources": [
-        "twitter-core:twitter.com"
-      ],
-      "status": "quarantine"
-    },
-    "compute-prod-truck.pdxa.twitter.com": {
-      "canonical_name": null,
-      "consecutive_negative_checks": 39,
-      "ever_validated": false,
-      "expired_at": null,
-      "first_seen": "2026-08-21T09:44:03Z",
-      "hostname": "compute-prod-truck.pdxa.twitter.com",
-      "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
-      "last_result": "NEGATIVE",
-      "last_success": null,
-      "negative_observations": 39,
-      "negative_since": "2026-09-28T22:49:40Z",
-      "quarantined_at": "2026-10-05T23:32:48Z",
-      "resolver_results": {
-        "1.1.1.1": {
-          "ipv4": [],
-          "status": "NXDOMAIN"
-        },
-        "8.8.8.8": {
-          "ipv4": [],
-          "status": "NXDOMAIN"
-        },
-        "9.9.9.9": {
-          "ipv4": [],
-          "status": "NXDOMAIN"
-        }
-      },
-      "safety_reason": null,
-      "sources": [
-        "twitter-core:twitter.com"
-      ],
-      "status": "quarantine"
-    },
-    "compute-prod-voyage.atla.twitter.com": {
-      "canonical_name": null,
-      "consecutive_negative_checks": 39,
-      "ever_validated": false,
-      "expired_at": null,
-      "first_seen": "2026-08-21T09:44:03Z",
-      "hostname": "compute-prod-voyage.atla.twitter.com",
-      "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
-      "last_result": "NEGATIVE",
-      "last_success": null,
-      "negative_observations": 39,
+      "negative_observations": 40,
       "negative_since": "2026-09-28T22:49:40Z",
       "quarantined_at": "2026-10-05T23:32:48Z",
       "resolver_results": {
@@ -4029,7 +3952,79 @@
         },
         "9.9.9.9": {
           "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "twitter-core:twitter.com"
+      ],
+      "status": "quarantine"
+    },
+    "compute-prod-truck.pdxa.twitter.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 40,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T09:44:03Z",
+      "hostname": "compute-prod-truck.pdxa.twitter.com",
+      "ipv4": [],
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 40,
+      "negative_since": "2026-09-28T22:49:40Z",
+      "quarantined_at": "2026-10-05T23:32:48Z",
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "twitter-core:twitter.com"
+      ],
+      "status": "quarantine"
+    },
+    "compute-prod-voyage.atla.twitter.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 40,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T09:44:03Z",
+      "hostname": "compute-prod-voyage.atla.twitter.com",
+      "ipv4": [],
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 40,
+      "negative_since": "2026-09-28T22:49:40Z",
+      "quarantined_at": "2026-10-05T23:32:48Z",
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
           "status": "NXDOMAIN"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NXDOMAIN"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
@@ -4112,32 +4107,32 @@
     },
     "compute-test-port.pdxa.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 39,
+      "consecutive_negative_checks": 40,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "compute-test-port.pdxa.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 39,
+      "negative_observations": 40,
       "negative_since": "2026-09-28T22:49:40Z",
       "quarantined_at": "2026-10-05T23:32:48Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
@@ -4184,18 +4179,18 @@
     },
     "compute-test.pdxa.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 39,
+      "consecutive_negative_checks": 40,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "compute-test.pdxa.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 39,
+      "negative_observations": 40,
       "negative_since": "2026-09-28T22:49:40Z",
       "quarantined_at": "2026-10-05T23:32:48Z",
       "resolver_results": {
@@ -4205,11 +4200,11 @@
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
@@ -4256,28 +4251,28 @@
     },
     "compute.pdxa.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 39,
+      "consecutive_negative_checks": 40,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "compute.pdxa.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 39,
+      "negative_observations": 40,
       "negative_since": "2026-09-28T22:49:40Z",
       "quarantined_at": "2026-10-05T23:32:48Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "9.9.9.9": {
           "ipv4": [],
@@ -4364,24 +4359,24 @@
     },
     "configbus.local.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 4,
+      "consecutive_negative_checks": 5,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "configbus.local.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 4,
+      "negative_observations": 5,
       "negative_since": "2026-10-08T22:43:02Z",
       "quarantined_at": null,
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "8.8.8.8": {
           "ipv4": [],
@@ -4389,7 +4384,7 @@
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         }
       },
       "safety_reason": null,
@@ -4400,18 +4395,18 @@
     },
     "ddns3.atla.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 7,
+      "consecutive_negative_checks": 8,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "ddns3.atla.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 7,
+      "negative_observations": 8,
       "negative_since": "2026-10-07T22:30:00Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -4421,7 +4416,7 @@
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "9.9.9.9": {
           "ipv4": [],
@@ -4652,24 +4647,24 @@
     },
     "docker-local.artifactory.local.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 13,
+      "consecutive_negative_checks": 14,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-22T00:48:54Z",
       "hostname": "docker-local.artifactory.local.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 13,
+      "negative_observations": 14,
       "negative_since": "2026-10-05T23:32:48Z",
       "quarantined_at": null,
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "8.8.8.8": {
           "ipv4": [],
@@ -4677,7 +4672,7 @@
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
@@ -4688,18 +4683,18 @@
     },
     "docker-public.artifactory.local.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 13,
+      "consecutive_negative_checks": 14,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-22T00:48:54Z",
       "hostname": "docker-public.artifactory.local.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 13,
+      "negative_observations": 14,
       "negative_since": "2026-10-05T23:32:48Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -4713,7 +4708,7 @@
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
@@ -4724,18 +4719,18 @@
     },
     "docker-releases-local.artifactory.local.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 13,
+      "consecutive_negative_checks": 14,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-22T00:48:54Z",
       "hostname": "docker-releases-local.artifactory.local.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 13,
+      "negative_observations": 14,
       "negative_since": "2026-10-05T23:32:48Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -4796,28 +4791,28 @@
     },
     "docker-test.pdxa.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 39,
+      "consecutive_negative_checks": 40,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "docker-test.pdxa.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 39,
+      "negative_observations": 40,
       "negative_since": "2026-09-28T22:49:40Z",
       "quarantined_at": "2026-10-05T23:32:48Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "9.9.9.9": {
           "ipv4": [],
@@ -4832,32 +4827,32 @@
     },
     "docker-virtual.artifactory.local.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 13,
+      "consecutive_negative_checks": 14,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-22T00:48:54Z",
       "hostname": "docker-virtual.artifactory.local.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 13,
+      "negative_observations": 14,
       "negative_since": "2026-10-05T23:32:48Z",
       "quarantined_at": null,
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
@@ -4904,20 +4899,92 @@
     },
     "docker.pdxa.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 39,
+      "consecutive_negative_checks": 40,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "docker.pdxa.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 39,
+      "negative_observations": 40,
       "negative_since": "2026-09-28T22:49:40Z",
       "quarantined_at": "2026-10-05T23:32:48Z",
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NXDOMAIN"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "twitter-core:twitter.com"
+      ],
+      "status": "quarantine"
+    },
+    "git.atla.twitter.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 24,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T18:26:12Z",
+      "hostname": "git.atla.twitter.com",
+      "ipv4": [],
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 24,
+      "negative_since": "2026-10-03T03:12:21Z",
+      "quarantined_at": "2026-10-10T03:43:01Z",
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NXDOMAIN"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NXDOMAIN"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "twitter-core:twitter.com"
+      ],
+      "status": "quarantine"
+    },
+    "git.local.twitter.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 24,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T18:26:12Z",
+      "hostname": "git.local.twitter.com",
+      "ipv4": [],
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 24,
+      "negative_since": "2026-10-03T03:12:21Z",
+      "quarantined_at": "2026-10-10T03:43:01Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
@@ -4938,98 +5005,26 @@
       ],
       "status": "quarantine"
     },
-    "git.atla.twitter.com": {
-      "canonical_name": null,
-      "consecutive_negative_checks": 23,
-      "ever_validated": false,
-      "expired_at": null,
-      "first_seen": "2026-08-21T18:26:12Z",
-      "hostname": "git.atla.twitter.com",
-      "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
-      "last_result": "NEGATIVE",
-      "last_success": null,
-      "negative_observations": 23,
-      "negative_since": "2026-10-03T03:12:21Z",
-      "quarantined_at": null,
-      "resolver_results": {
-        "1.1.1.1": {
-          "ipv4": [],
-          "status": "NXDOMAIN"
-        },
-        "8.8.8.8": {
-          "ipv4": [],
-          "status": "NO_A"
-        },
-        "9.9.9.9": {
-          "ipv4": [],
-          "status": "NXDOMAIN"
-        }
-      },
-      "safety_reason": null,
-      "sources": [
-        "twitter-core:twitter.com"
-      ],
-      "status": "suspect"
-    },
-    "git.local.twitter.com": {
-      "canonical_name": null,
-      "consecutive_negative_checks": 23,
-      "ever_validated": false,
-      "expired_at": null,
-      "first_seen": "2026-08-21T18:26:12Z",
-      "hostname": "git.local.twitter.com",
-      "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
-      "last_result": "NEGATIVE",
-      "last_success": null,
-      "negative_observations": 23,
-      "negative_since": "2026-10-03T03:12:21Z",
-      "quarantined_at": null,
-      "resolver_results": {
-        "1.1.1.1": {
-          "ipv4": [],
-          "status": "NXDOMAIN"
-        },
-        "8.8.8.8": {
-          "ipv4": [],
-          "status": "NO_A"
-        },
-        "9.9.9.9": {
-          "ipv4": [],
-          "status": "NXDOMAIN"
-        }
-      },
-      "safety_reason": null,
-      "sources": [
-        "twitter-core:twitter.com"
-      ],
-      "status": "suspect"
-    },
     "git.pdxa.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 23,
+      "consecutive_negative_checks": 24,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "git.pdxa.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 23,
+      "negative_observations": 24,
       "negative_since": "2026-10-03T03:12:21Z",
-      "quarantined_at": null,
+      "quarantined_at": "2026-10-10T03:43:01Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "8.8.8.8": {
           "ipv4": [],
@@ -5037,31 +5032,31 @@
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
       "sources": [
         "twitter-core:twitter.com"
       ],
-      "status": "suspect"
+      "status": "quarantine"
     },
     "git.smf1.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 23,
+      "consecutive_negative_checks": 24,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "git.smf1.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 23,
+      "negative_observations": 24,
       "negative_since": "2026-10-03T03:12:21Z",
-      "quarantined_at": null,
+      "quarantined_at": "2026-10-10T03:43:01Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
@@ -5073,31 +5068,31 @@
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
       "sources": [
         "twitter-core:twitter.com"
       ],
-      "status": "suspect"
+      "status": "quarantine"
     },
     "gitaprimary-basic.local.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 23,
+      "consecutive_negative_checks": 24,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "gitaprimary-basic.local.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 23,
+      "negative_observations": 24,
       "negative_since": "2026-10-03T03:12:21Z",
-      "quarantined_at": null,
+      "quarantined_at": "2026-10-10T03:43:01Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
@@ -5109,31 +5104,31 @@
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
       "sources": [
         "twitter-core:twitter.com"
       ],
-      "status": "suspect"
+      "status": "quarantine"
     },
     "gitaprimary.local.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 23,
+      "consecutive_negative_checks": 24,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "gitaprimary.local.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 23,
+      "negative_observations": 24,
       "negative_since": "2026-10-03T03:12:21Z",
-      "quarantined_at": null,
+      "quarantined_at": "2026-10-10T03:43:01Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
@@ -5141,7 +5136,7 @@
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "9.9.9.9": {
           "ipv4": [],
@@ -5152,24 +5147,24 @@
       "sources": [
         "twitter-core:twitter.com"
       ],
-      "status": "suspect"
+      "status": "quarantine"
     },
     "gitareplica.local.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 23,
+      "consecutive_negative_checks": 24,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "gitareplica.local.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 23,
+      "negative_observations": 24,
       "negative_since": "2026-10-03T03:12:21Z",
-      "quarantined_at": null,
+      "quarantined_at": "2026-10-10T03:43:01Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
@@ -5188,24 +5183,24 @@
       "sources": [
         "twitter-core:twitter.com"
       ],
-      "status": "suspect"
+      "status": "quarantine"
     },
     "gitasecondary.local.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 23,
+      "consecutive_negative_checks": 24,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "gitasecondary.local.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 23,
+      "negative_observations": 24,
       "negative_since": "2026-10-03T03:12:21Z",
-      "quarantined_at": null,
+      "quarantined_at": "2026-10-10T03:43:01Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
@@ -5224,60 +5219,60 @@
       "sources": [
         "twitter-core:twitter.com"
       ],
-      "status": "suspect"
+      "status": "quarantine"
     },
     "gitbprimary-basic.local.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 23,
+      "consecutive_negative_checks": 24,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "gitbprimary-basic.local.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 23,
+      "negative_observations": 24,
       "negative_since": "2026-10-03T03:12:21Z",
-      "quarantined_at": null,
+      "quarantined_at": "2026-10-10T03:43:01Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
       "sources": [
         "twitter-core:twitter.com"
       ],
-      "status": "suspect"
+      "status": "quarantine"
     },
     "gitbprimary.local.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 23,
+      "consecutive_negative_checks": 24,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "gitbprimary.local.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 23,
+      "negative_observations": 24,
       "negative_since": "2026-10-03T03:12:21Z",
-      "quarantined_at": null,
+      "quarantined_at": "2026-10-10T03:43:01Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
@@ -5285,35 +5280,35 @@
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
       "sources": [
         "twitter-core:twitter.com"
       ],
-      "status": "suspect"
+      "status": "quarantine"
     },
     "gitbreplica.local.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 23,
+      "consecutive_negative_checks": 24,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "gitbreplica.local.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 23,
+      "negative_observations": 24,
       "negative_since": "2026-10-03T03:12:21Z",
-      "quarantined_at": null,
+      "quarantined_at": "2026-10-10T03:43:01Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
@@ -5321,71 +5316,71 @@
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
       "sources": [
         "twitter-core:twitter.com"
       ],
-      "status": "suspect"
+      "status": "quarantine"
     },
     "gitbsecondary.local.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 23,
+      "consecutive_negative_checks": 24,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "gitbsecondary.local.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 23,
+      "negative_observations": 24,
       "negative_since": "2026-10-03T03:12:21Z",
-      "quarantined_at": null,
+      "quarantined_at": "2026-10-10T03:43:01Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         }
       },
       "safety_reason": null,
       "sources": [
         "twitter-core:twitter.com"
       ],
-      "status": "suspect"
+      "status": "quarantine"
     },
     "gitcprimary-basic.local.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 23,
+      "consecutive_negative_checks": 24,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "gitcprimary-basic.local.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 23,
+      "negative_observations": 24,
       "negative_since": "2026-10-03T03:12:21Z",
-      "quarantined_at": null,
+      "quarantined_at": "2026-10-10T03:43:01Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
@@ -5393,7 +5388,7 @@
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "9.9.9.9": {
           "ipv4": [],
@@ -5404,24 +5399,24 @@
       "sources": [
         "twitter-core:twitter.com"
       ],
-      "status": "suspect"
+      "status": "quarantine"
     },
     "gitcprimary.local.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 23,
+      "consecutive_negative_checks": 24,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "gitcprimary.local.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 23,
+      "negative_observations": 24,
       "negative_since": "2026-10-03T03:12:21Z",
-      "quarantined_at": null,
+      "quarantined_at": "2026-10-10T03:43:01Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
@@ -5440,24 +5435,24 @@
       "sources": [
         "twitter-core:twitter.com"
       ],
-      "status": "suspect"
+      "status": "quarantine"
     },
     "gitcreplica.local.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 23,
+      "consecutive_negative_checks": 24,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "gitcreplica.local.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 23,
+      "negative_observations": 24,
       "negative_since": "2026-10-03T03:12:21Z",
-      "quarantined_at": null,
+      "quarantined_at": "2026-10-10T03:43:01Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
@@ -5465,35 +5460,35 @@
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
       "sources": [
         "twitter-core:twitter.com"
       ],
-      "status": "suspect"
+      "status": "quarantine"
     },
     "gitcsecondary.local.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 23,
+      "consecutive_negative_checks": 24,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "gitcsecondary.local.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 23,
+      "negative_observations": 24,
       "negative_since": "2026-10-03T03:12:21Z",
-      "quarantined_at": null,
+      "quarantined_at": "2026-10-10T03:43:01Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
@@ -5501,39 +5496,39 @@
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
       "sources": [
         "twitter-core:twitter.com"
       ],
-      "status": "suspect"
+      "status": "quarantine"
     },
     "gitlfs-basic.local.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 23,
+      "consecutive_negative_checks": 24,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "gitlfs-basic.local.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 23,
+      "negative_observations": 24,
       "negative_since": "2026-10-03T03:12:21Z",
-      "quarantined_at": null,
+      "quarantined_at": "2026-10-10T03:43:01Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "8.8.8.8": {
           "ipv4": [],
@@ -5541,35 +5536,35 @@
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
       "sources": [
         "twitter-core:twitter.com"
       ],
-      "status": "suspect"
+      "status": "quarantine"
     },
     "gitlfs.local.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 23,
+      "consecutive_negative_checks": 24,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "gitlfs.local.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 23,
+      "negative_observations": 24,
       "negative_since": "2026-10-03T03:12:21Z",
-      "quarantined_at": null,
+      "quarantined_at": "2026-10-10T03:43:01Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "8.8.8.8": {
           "ipv4": [],
@@ -5577,31 +5572,31 @@
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
       "sources": [
         "twitter-core:twitter.com"
       ],
-      "status": "suspect"
+      "status": "quarantine"
     },
     "gitsprimary-basic.local.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 23,
+      "consecutive_negative_checks": 24,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "gitsprimary-basic.local.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 23,
+      "negative_observations": 24,
       "negative_since": "2026-10-03T03:12:21Z",
-      "quarantined_at": null,
+      "quarantined_at": "2026-10-10T03:43:01Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
@@ -5620,68 +5615,68 @@
       "sources": [
         "twitter-core:twitter.com"
       ],
-      "status": "suspect"
+      "status": "quarantine"
     },
     "gitsprimary.local.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 23,
+      "consecutive_negative_checks": 24,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "gitsprimary.local.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 23,
+      "negative_observations": 24,
       "negative_since": "2026-10-03T03:12:21Z",
-      "quarantined_at": null,
+      "quarantined_at": "2026-10-10T03:43:01Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
       "sources": [
         "twitter-core:twitter.com"
       ],
-      "status": "suspect"
+      "status": "quarantine"
     },
     "gitsreplica.local.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 23,
+      "consecutive_negative_checks": 24,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "gitsreplica.local.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 23,
+      "negative_observations": 24,
       "negative_since": "2026-10-03T03:12:21Z",
-      "quarantined_at": null,
+      "quarantined_at": "2026-10-10T03:43:01Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "9.9.9.9": {
           "ipv4": [],
@@ -5692,24 +5687,24 @@
       "sources": [
         "twitter-core:twitter.com"
       ],
-      "status": "suspect"
+      "status": "quarantine"
     },
     "gitssecondary.local.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 23,
+      "consecutive_negative_checks": 24,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "gitssecondary.local.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 23,
+      "negative_observations": 24,
       "negative_since": "2026-10-03T03:12:21Z",
-      "quarantined_at": null,
+      "quarantined_at": "2026-10-10T03:43:01Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
@@ -5717,18 +5712,18 @@
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         }
       },
       "safety_reason": null,
       "sources": [
         "twitter-core:twitter.com"
       ],
-      "status": "suspect"
+      "status": "quarantine"
     },
     "hadoop-backups-nn.atla.twitter.com": {
       "canonical_name": null,
@@ -5984,18 +5979,18 @@
     },
     "hadoop-mltst.qus1.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 7,
+      "consecutive_negative_checks": 8,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "hadoop-mltst.qus1.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 7,
+      "negative_observations": 8,
       "negative_since": "2026-10-07T22:30:00Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -6009,7 +6004,7 @@
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
@@ -6740,18 +6735,18 @@
     },
     "hbase-pcadmin.qus1.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 39,
+      "consecutive_negative_checks": 40,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "hbase-pcadmin.qus1.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 39,
+      "negative_observations": 40,
       "negative_since": "2026-09-28T22:49:40Z",
       "quarantined_at": "2026-10-05T23:32:48Z",
       "resolver_results": {
@@ -6765,7 +6760,7 @@
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         }
       },
       "safety_reason": null,
@@ -6776,18 +6771,18 @@
     },
     "hbase-pcadmintst.qus1.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 39,
+      "consecutive_negative_checks": 40,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "hbase-pcadmintst.qus1.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 39,
+      "negative_observations": 40,
       "negative_since": "2026-09-28T22:49:40Z",
       "quarantined_at": "2026-10-05T23:32:48Z",
       "resolver_results": {
@@ -6797,11 +6792,11 @@
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         }
       },
       "safety_reason": null,
@@ -7244,18 +7239,18 @@
     },
     "ipmi.wilson.local.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 28,
+      "consecutive_negative_checks": 29,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "ipmi.wilson.local.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 28,
+      "negative_observations": 29,
       "negative_since": "2026-10-01T22:12:08Z",
       "quarantined_at": "2026-10-08T22:43:02Z",
       "resolver_results": {
@@ -7265,11 +7260,11 @@
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
@@ -7316,24 +7311,24 @@
     },
     "ipmi.wilson.memy.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 3,
+      "consecutive_negative_checks": 4,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "ipmi.wilson.memy.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 3,
+      "negative_observations": 4,
       "negative_since": "2026-10-09T03:58:05Z",
       "quarantined_at": null,
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "8.8.8.8": {
           "ipv4": [],
@@ -7341,7 +7336,7 @@
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
@@ -7352,32 +7347,32 @@
     },
     "ipmi.wilson.pdxa.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 13,
+      "consecutive_negative_checks": 14,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "ipmi.wilson.pdxa.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 13,
+      "negative_observations": 14,
       "negative_since": "2026-10-05T23:32:48Z",
       "quarantined_at": null,
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
@@ -7388,32 +7383,32 @@
     },
     "ipmi.wilson.pdxc.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 13,
+      "consecutive_negative_checks": 14,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "ipmi.wilson.pdxc.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 13,
+      "negative_observations": 14,
       "negative_since": "2026-10-05T23:32:48Z",
       "quarantined_at": null,
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
@@ -7496,24 +7491,24 @@
     },
     "ipmi.wilson.pdxx.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 13,
+      "consecutive_negative_checks": 14,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T12:31:52Z",
       "hostname": "ipmi.wilson.pdxx.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 13,
+      "negative_observations": 14,
       "negative_since": "2026-10-05T23:32:48Z",
       "quarantined_at": null,
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "8.8.8.8": {
           "ipv4": [],
@@ -7521,7 +7516,7 @@
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
@@ -7568,24 +7563,24 @@
     },
     "isolation.atla.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 16,
+      "consecutive_negative_checks": 17,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T12:31:52Z",
       "hostname": "isolation.atla.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 16,
+      "negative_observations": 17,
       "negative_since": "2026-10-04T20:44:14Z",
       "quarantined_at": null,
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "8.8.8.8": {
           "ipv4": [],
@@ -7593,7 +7588,7 @@
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
@@ -8261,10 +8256,10 @@
         "162.159.140.229",
         "172.66.0.227"
       ],
-      "last_check": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-09T22:05:00Z",
+      "last_success": "2026-10-10T03:43:01Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -8272,6 +8267,7 @@
         "1.1.1.1": {
           "canonical_name": "mobile.twitter.com",
           "ipv4": [
+            "162.159.140.229",
             "172.66.0.227"
           ],
           "status": "OK"
@@ -8279,8 +8275,7 @@
         "8.8.8.8": {
           "canonical_name": "mobile.twitter.com",
           "ipv4": [
-            "162.159.140.229",
-            "172.66.0.227"
+            "162.159.140.229"
           ],
           "status": "OK"
         },
@@ -8309,10 +8304,10 @@
       "ipv4": [
         "199.59.148.207"
       ],
-      "last_check": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-09T22:05:00Z",
+      "last_success": "2026-10-10T03:43:01Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -8355,10 +8350,10 @@
       "ipv4": [
         "199.16.156.115"
       ],
-      "last_check": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-09T22:05:00Z",
+      "last_success": "2026-10-10T03:43:01Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -8393,18 +8388,18 @@
     },
     "nauth1.atlc.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 39,
+      "consecutive_negative_checks": 40,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "nauth1.atlc.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 39,
+      "negative_observations": 40,
       "negative_since": "2026-09-28T22:49:40Z",
       "quarantined_at": "2026-10-05T23:32:48Z",
       "resolver_results": {
@@ -8414,7 +8409,7 @@
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "9.9.9.9": {
           "ipv4": [],
@@ -8429,24 +8424,24 @@
     },
     "nauth1.smfc.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 39,
+      "consecutive_negative_checks": 40,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "nauth1.smfc.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 39,
+      "negative_observations": 40,
       "negative_since": "2026-09-28T22:49:40Z",
       "quarantined_at": "2026-10-05T23:32:48Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "8.8.8.8": {
           "ipv4": [],
@@ -8454,7 +8449,7 @@
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
@@ -8465,18 +8460,18 @@
     },
     "nauth2.atlc.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 39,
+      "consecutive_negative_checks": 40,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "nauth2.atlc.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 39,
+      "negative_observations": 40,
       "negative_since": "2026-09-28T22:49:40Z",
       "quarantined_at": "2026-10-05T23:32:48Z",
       "resolver_results": {
@@ -8501,18 +8496,18 @@
     },
     "nauth2.smfc.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 39,
+      "consecutive_negative_checks": 40,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "nauth2.smfc.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 39,
+      "negative_observations": 40,
       "negative_since": "2026-09-28T22:49:40Z",
       "quarantined_at": "2026-10-05T23:32:48Z",
       "resolver_results": {
@@ -8522,7 +8517,7 @@
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "9.9.9.9": {
           "ipv4": [],
@@ -8897,18 +8892,18 @@
     },
     "neteng.pdxa.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 28,
+      "consecutive_negative_checks": 29,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "neteng.pdxa.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 28,
+      "negative_observations": 29,
       "negative_since": "2026-10-01T22:12:08Z",
       "quarantined_at": "2026-10-08T22:43:02Z",
       "resolver_results": {
@@ -8918,7 +8913,7 @@
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "9.9.9.9": {
           "ipv4": [],
@@ -9267,10 +9262,10 @@
         "146.75.40.159",
         "172.64.150.129"
       ],
-      "last_check": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-09T22:05:00Z",
+      "last_success": "2026-10-10T03:43:01Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -9353,10 +9348,10 @@
         "146.75.40.157",
         "151.101.20.157"
       ],
-      "last_check": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-09T22:05:00Z",
+      "last_success": "2026-10-10T03:43:01Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -9436,10 +9431,10 @@
         "162.159.140.229",
         "172.66.0.227"
       ],
-      "last_check": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-09T22:05:00Z",
+      "last_success": "2026-10-10T03:43:01Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -9486,10 +9481,10 @@
         "162.159.140.229",
         "172.66.0.227"
       ],
-      "last_check": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-09T22:05:00Z",
+      "last_success": "2026-10-10T03:43:01Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -9504,7 +9499,6 @@
         "8.8.8.8": {
           "canonical_name": "wr.x.com",
           "ipv4": [
-            "162.159.140.229",
             "172.66.0.227"
           ],
           "status": "OK"
@@ -11074,18 +11068,18 @@
     },
     "pxe.local.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 3,
+      "consecutive_negative_checks": 4,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "pxe.local.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 3,
+      "negative_observations": 4,
       "negative_since": "2026-10-09T03:58:05Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -11146,18 +11140,18 @@
     },
     "pxe.memy.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 3,
+      "consecutive_negative_checks": 4,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "pxe.memy.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 3,
+      "negative_observations": 4,
       "negative_since": "2026-10-09T03:58:05Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -11333,14 +11327,13 @@
       "hostname": "r.twimg.com",
       "ipv4": [
         "104.244.42.9",
-        "104.244.42.73",
         "104.244.42.137",
         "104.244.42.201"
       ],
-      "last_check": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-09T22:05:00Z",
+      "last_success": "2026-10-10T03:43:01Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -11348,10 +11341,7 @@
         "1.1.1.1": {
           "canonical_name": "r.twimg.com",
           "ipv4": [
-            "104.244.42.9",
-            "104.244.42.73",
-            "104.244.42.137",
-            "104.244.42.201"
+            "104.244.42.9"
           ],
           "status": "OK"
         },
@@ -11378,18 +11368,18 @@
     },
     "redfish-proxy.local.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 13,
+      "consecutive_negative_checks": 14,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "redfish-proxy.local.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 13,
+      "negative_observations": 14,
       "negative_since": "2026-10-05T23:32:48Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -11450,32 +11440,32 @@
     },
     "redfish-proxy.memy.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 3,
+      "consecutive_negative_checks": 4,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "redfish-proxy.memy.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 3,
+      "negative_observations": 4,
       "negative_since": "2026-10-09T03:58:05Z",
       "quarantined_at": null,
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
@@ -11486,32 +11476,32 @@
     },
     "redfish-proxy.pdxa.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 13,
+      "consecutive_negative_checks": 14,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "redfish-proxy.pdxa.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 13,
+      "negative_observations": 14,
       "negative_since": "2026-10-05T23:32:48Z",
       "quarantined_at": null,
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         }
       },
       "safety_reason": null,
@@ -11738,18 +11728,18 @@
     },
     "registry-test.pdxa.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 39,
+      "consecutive_negative_checks": 40,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "registry-test.pdxa.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 39,
+      "negative_observations": 40,
       "negative_since": "2026-09-28T22:49:40Z",
       "quarantined_at": "2026-10-05T23:32:48Z",
       "resolver_results": {
@@ -11810,20 +11800,56 @@
     },
     "registry.pdxa.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 39,
+      "consecutive_negative_checks": 40,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "registry.pdxa.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 39,
+      "negative_observations": 40,
       "negative_since": "2026-09-28T22:49:40Z",
       "quarantined_at": "2026-10-05T23:32:48Z",
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NXDOMAIN"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NXDOMAIN"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "twitter-core:twitter.com"
+      ],
+      "status": "quarantine"
+    },
+    "rogit.atla.twitter.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 24,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T18:26:12Z",
+      "hostname": "rogit.atla.twitter.com",
+      "ipv4": [],
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 24,
+      "negative_since": "2026-10-03T03:12:21Z",
+      "quarantined_at": "2026-10-10T03:43:01Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
@@ -11844,58 +11870,22 @@
       ],
       "status": "quarantine"
     },
-    "rogit.atla.twitter.com": {
-      "canonical_name": null,
-      "consecutive_negative_checks": 23,
-      "ever_validated": false,
-      "expired_at": null,
-      "first_seen": "2026-08-21T18:26:12Z",
-      "hostname": "rogit.atla.twitter.com",
-      "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
-      "last_result": "NEGATIVE",
-      "last_success": null,
-      "negative_observations": 23,
-      "negative_since": "2026-10-03T03:12:21Z",
-      "quarantined_at": null,
-      "resolver_results": {
-        "1.1.1.1": {
-          "ipv4": [],
-          "status": "NXDOMAIN"
-        },
-        "8.8.8.8": {
-          "ipv4": [],
-          "status": "NXDOMAIN"
-        },
-        "9.9.9.9": {
-          "ipv4": [],
-          "status": "NXDOMAIN"
-        }
-      },
-      "safety_reason": null,
-      "sources": [
-        "twitter-core:twitter.com"
-      ],
-      "status": "suspect"
-    },
     "rogit.local.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 23,
+      "consecutive_negative_checks": 24,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "rogit.local.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 23,
+      "negative_observations": 24,
       "negative_since": "2026-10-03T03:12:21Z",
-      "quarantined_at": null,
+      "quarantined_at": "2026-10-10T03:43:01Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
@@ -11914,64 +11904,64 @@
       "sources": [
         "twitter-core:twitter.com"
       ],
-      "status": "suspect"
+      "status": "quarantine"
     },
     "rogit.pdxa.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 23,
+      "consecutive_negative_checks": 24,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "rogit.pdxa.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 23,
+      "negative_observations": 24,
       "negative_since": "2026-10-03T03:12:21Z",
-      "quarantined_at": null,
+      "quarantined_at": "2026-10-10T03:43:01Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
       "sources": [
         "twitter-core:twitter.com"
       ],
-      "status": "suspect"
+      "status": "quarantine"
     },
     "rogit.qus1.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 23,
+      "consecutive_negative_checks": 24,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "rogit.qus1.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 23,
+      "negative_observations": 24,
       "negative_since": "2026-10-03T03:12:21Z",
-      "quarantined_at": null,
+      "quarantined_at": "2026-10-10T03:43:01Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "8.8.8.8": {
           "ipv4": [],
@@ -11979,31 +11969,31 @@
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         }
       },
       "safety_reason": null,
       "sources": [
         "twitter-core:twitter.com"
       ],
-      "status": "suspect"
+      "status": "quarantine"
     },
     "rogit.smf1.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 23,
+      "consecutive_negative_checks": 24,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "rogit.smf1.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 23,
+      "negative_observations": 24,
       "negative_since": "2026-10-03T03:12:21Z",
-      "quarantined_at": null,
+      "quarantined_at": "2026-10-10T03:43:01Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
@@ -12015,14 +12005,14 @@
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
       "sources": [
         "twitter-core:twitter.com"
       ],
-      "status": "suspect"
+      "status": "quarantine"
     },
     "sai.twitter.com": {
       "canonical_name": null,
@@ -12062,18 +12052,18 @@
     },
     "science-binaries.local.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 1,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "science-binaries.local.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 1,
+      "negative_observations": 2,
       "negative_since": "2026-10-09T22:05:00Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -12083,7 +12073,7 @@
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "9.9.9.9": {
           "ipv4": [],
@@ -12674,18 +12664,18 @@
     },
     "stardock-canary.atla.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 13,
+      "consecutive_negative_checks": 14,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "stardock-canary.atla.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 13,
+      "negative_observations": 14,
       "negative_since": "2026-10-05T23:32:48Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -12699,7 +12689,7 @@
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
@@ -12710,18 +12700,18 @@
     },
     "stardock-canary.local.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 13,
+      "consecutive_negative_checks": 14,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "stardock-canary.local.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 13,
+      "negative_observations": 14,
       "negative_since": "2026-10-05T23:32:48Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -12731,11 +12721,11 @@
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
@@ -12746,18 +12736,18 @@
     },
     "stardock-canary.memx.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 13,
+      "consecutive_negative_checks": 14,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "stardock-canary.memx.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 13,
+      "negative_observations": 14,
       "negative_since": "2026-10-05T23:32:48Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -12782,54 +12772,18 @@
     },
     "stardock-canary.memy.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 13,
+      "consecutive_negative_checks": 14,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "stardock-canary.memy.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 13,
-      "negative_since": "2026-10-05T23:32:48Z",
-      "quarantined_at": null,
-      "resolver_results": {
-        "1.1.1.1": {
-          "ipv4": [],
-          "status": "NXDOMAIN"
-        },
-        "8.8.8.8": {
-          "ipv4": [],
-          "status": "NXDOMAIN"
-        },
-        "9.9.9.9": {
-          "ipv4": [],
-          "status": "NXDOMAIN"
-        }
-      },
-      "safety_reason": null,
-      "sources": [
-        "twitter-core:twitter.com"
-      ],
-      "status": "suspect"
-    },
-    "stardock-canary.pdxa.twitter.com": {
-      "canonical_name": null,
-      "consecutive_negative_checks": 13,
-      "ever_validated": false,
-      "expired_at": null,
-      "first_seen": "2026-08-21T18:26:12Z",
-      "hostname": "stardock-canary.pdxa.twitter.com",
-      "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
-      "last_result": "NEGATIVE",
-      "last_success": null,
-      "negative_observations": 13,
+      "negative_observations": 14,
       "negative_since": "2026-10-05T23:32:48Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -12840,6 +12794,42 @@
         "8.8.8.8": {
           "ipv4": [],
           "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "twitter-core:twitter.com"
+      ],
+      "status": "suspect"
+    },
+    "stardock-canary.pdxa.twitter.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 14,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T18:26:12Z",
+      "hostname": "stardock-canary.pdxa.twitter.com",
+      "ipv4": [],
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 14,
+      "negative_since": "2026-10-05T23:32:48Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NXDOMAIN"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NXDOMAIN"
         },
         "9.9.9.9": {
           "ipv4": [],
@@ -12854,18 +12844,18 @@
     },
     "stardock-canary.pdxx.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 13,
+      "consecutive_negative_checks": 14,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "stardock-canary.pdxx.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 13,
+      "negative_observations": 14,
       "negative_since": "2026-10-05T23:32:48Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -12879,7 +12869,7 @@
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
@@ -12890,18 +12880,18 @@
     },
     "stardock.atla.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 13,
+      "consecutive_negative_checks": 14,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "stardock.atla.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 13,
+      "negative_observations": 14,
       "negative_since": "2026-10-05T23:32:48Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -12915,7 +12905,7 @@
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
@@ -12926,18 +12916,18 @@
     },
     "stardock.local.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 13,
+      "consecutive_negative_checks": 14,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "stardock.local.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 13,
+      "negative_observations": 14,
       "negative_since": "2026-10-05T23:32:48Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -12962,18 +12952,18 @@
     },
     "stardock.memx.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 13,
+      "consecutive_negative_checks": 14,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "stardock.memx.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 13,
+      "negative_observations": 14,
       "negative_since": "2026-10-05T23:32:48Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -12998,24 +12988,24 @@
     },
     "stardock.memy.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 13,
+      "consecutive_negative_checks": 14,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "stardock.memy.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 13,
+      "negative_observations": 14,
       "negative_since": "2026-10-05T23:32:48Z",
       "quarantined_at": null,
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "8.8.8.8": {
           "ipv4": [],
@@ -13034,18 +13024,18 @@
     },
     "stardock.pdxa.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 13,
+      "consecutive_negative_checks": 14,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "stardock.pdxa.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 13,
+      "negative_observations": 14,
       "negative_since": "2026-10-05T23:32:48Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -13070,18 +13060,18 @@
     },
     "stardock.pdxx.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 13,
+      "consecutive_negative_checks": 14,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "stardock.pdxx.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 13,
+      "negative_observations": 14,
       "negative_since": "2026-10-05T23:32:48Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -13091,7 +13081,7 @@
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "9.9.9.9": {
           "ipv4": [],
@@ -13250,18 +13240,18 @@
     },
     "stats.wilson.local.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 28,
+      "consecutive_negative_checks": 29,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "stats.wilson.local.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 28,
+      "negative_observations": 29,
       "negative_since": "2026-10-01T22:12:08Z",
       "quarantined_at": "2026-10-08T22:43:02Z",
       "resolver_results": {
@@ -13322,18 +13312,18 @@
     },
     "stats.wilson.memy.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 3,
+      "consecutive_negative_checks": 4,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "stats.wilson.memy.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 3,
+      "negative_observations": 4,
       "negative_since": "2026-10-09T03:58:05Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -13347,7 +13337,7 @@
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
@@ -13358,18 +13348,18 @@
     },
     "stats.wilson.pdxa.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 13,
+      "consecutive_negative_checks": 14,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "stats.wilson.pdxa.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 13,
+      "negative_observations": 14,
       "negative_since": "2026-10-05T23:32:48Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -13383,7 +13373,7 @@
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
@@ -13394,18 +13384,18 @@
     },
     "stats.wilson.pdxc.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 13,
+      "consecutive_negative_checks": 14,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "stats.wilson.pdxc.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 13,
+      "negative_observations": 14,
       "negative_since": "2026-10-05T23:32:48Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -13415,11 +13405,11 @@
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
@@ -13502,18 +13492,18 @@
     },
     "stats.wilson.pdxx.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 13,
+      "consecutive_negative_checks": 14,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T12:31:52Z",
       "hostname": "stats.wilson.pdxx.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 13,
+      "negative_observations": 14,
       "negative_since": "2026-10-05T23:32:48Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -13527,7 +13517,7 @@
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
@@ -13574,18 +13564,18 @@
     },
     "supermon.atla.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 8,
+      "consecutive_negative_checks": 9,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "supermon.atla.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 8,
+      "negative_observations": 9,
       "negative_since": "2026-10-07T12:25:34Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -13599,7 +13589,7 @@
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
@@ -13610,18 +13600,18 @@
     },
     "supermon.memx.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 31,
+      "consecutive_negative_checks": 32,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "supermon.memx.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 31,
+      "negative_observations": 32,
       "negative_since": "2026-09-30T21:44:05Z",
       "quarantined_at": "2026-10-07T22:30:00Z",
       "resolver_results": {
@@ -13631,7 +13621,7 @@
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "9.9.9.9": {
           "ipv4": [],
@@ -13801,10 +13791,10 @@
         "104.244.42.137",
         "104.244.42.201"
       ],
-      "last_check": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-09T22:05:00Z",
+      "last_success": "2026-10-10T03:43:01Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -13848,18 +13838,18 @@
     },
     "syndication-o.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 13,
+      "consecutive_negative_checks": 14,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "syndication-o.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 13,
+      "negative_observations": 14,
       "negative_since": "2026-10-05T23:32:48Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -13869,11 +13859,11 @@
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
@@ -13895,10 +13885,10 @@
         "104.244.42.136",
         "104.244.42.200"
       ],
-      "last_check": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-09T22:05:00Z",
+      "last_success": "2026-10-10T03:43:01Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -13906,10 +13896,7 @@
         "1.1.1.1": {
           "canonical_name": "syndication.twimg.com",
           "ipv4": [
-            "104.244.42.8",
-            "104.244.42.72",
-            "104.244.42.136",
-            "104.244.42.200"
+            "104.244.42.72"
           ],
           "status": "OK"
         },
@@ -13923,7 +13910,10 @@
         "9.9.9.9": {
           "canonical_name": "syndication.twimg.com",
           "ipv4": [
-            "104.244.42.8"
+            "104.244.42.8",
+            "104.244.42.72",
+            "104.244.42.136",
+            "104.244.42.200"
           ],
           "status": "OK"
         }
@@ -13945,10 +13935,10 @@
         "162.159.140.229",
         "172.66.0.227"
       ],
-      "last_check": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-09T22:05:00Z",
+      "last_success": "2026-10-10T03:43:01Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -13956,22 +13946,20 @@
         "1.1.1.1": {
           "canonical_name": "syndication.twitter.com",
           "ipv4": [
-            "162.159.140.229",
-            "172.66.0.227"
+            "162.159.140.229"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "syndication.twitter.com",
           "ipv4": [
-            "172.66.0.227"
+            "162.159.140.229"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "syndication.twitter.com",
           "ipv4": [
-            "162.159.140.229",
             "172.66.0.227"
           ],
           "status": "OK"
@@ -13991,13 +13979,12 @@
       "first_seen": "2026-08-21T09:36:50Z",
       "hostname": "t.co",
       "ipv4": [
-        "162.159.140.229",
-        "172.66.0.227"
+        "162.159.140.229"
       ],
-      "last_check": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-09T22:05:00Z",
+      "last_success": "2026-10-10T03:43:01Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -14019,7 +14006,7 @@
         "9.9.9.9": {
           "canonical_name": "t.co",
           "ipv4": [
-            "172.66.0.227"
+            "162.159.140.229"
           ],
           "status": "OK"
         }
@@ -14042,10 +14029,10 @@
         "162.159.140.229",
         "172.66.0.227"
       ],
-      "last_check": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-09T22:05:00Z",
+      "last_success": "2026-10-10T03:43:01Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -14053,15 +14040,14 @@
         "1.1.1.1": {
           "canonical_name": "td.twitter.com",
           "ipv4": [
-            "162.159.140.229"
+            "172.66.0.227"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "td.twitter.com",
           "ipv4": [
-            "162.159.140.229",
-            "172.66.0.227"
+            "162.159.140.229"
           ],
           "status": "OK"
         },
@@ -14090,10 +14076,10 @@
         "162.159.140.229",
         "172.66.0.227"
       ],
-      "last_check": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-09T22:05:00Z",
+      "last_success": "2026-10-10T03:43:01Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -14108,7 +14094,6 @@
         "8.8.8.8": {
           "canonical_name": "td.twitter.com",
           "ipv4": [
-            "162.159.140.229",
             "172.66.0.227"
           ],
           "status": "OK"
@@ -14116,7 +14101,7 @@
         "9.9.9.9": {
           "canonical_name": "td.twitter.com",
           "ipv4": [
-            "172.66.0.227"
+            "162.159.140.229"
           ],
           "status": "OK"
         }
@@ -14138,10 +14123,10 @@
         "162.159.140.229",
         "172.66.0.227"
       ],
-      "last_check": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-09T22:05:00Z",
+      "last_success": "2026-10-10T03:43:01Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -14149,15 +14134,14 @@
         "1.1.1.1": {
           "canonical_name": "td.twitter.com",
           "ipv4": [
-            "162.159.140.229",
-            "172.66.0.227"
+            "162.159.140.229"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "td.twitter.com",
           "ipv4": [
-            "162.159.140.229"
+            "172.66.0.227"
           ],
           "status": "OK"
         },
@@ -14330,10 +14314,10 @@
         "162.159.140.229",
         "172.66.0.227"
       ],
-      "last_check": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-09T22:05:00Z",
+      "last_success": "2026-10-10T03:43:01Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -14341,7 +14325,7 @@
         "1.1.1.1": {
           "canonical_name": "ton.twitter.com",
           "ipv4": [
-            "172.66.0.227"
+            "162.159.140.229"
           ],
           "status": "OK"
         },
@@ -14355,7 +14339,7 @@
         "9.9.9.9": {
           "canonical_name": "ton.twitter.com",
           "ipv4": [
-            "162.159.140.229"
+            "172.66.0.227"
           ],
           "status": "OK"
         }
@@ -14512,28 +14496,28 @@
     },
     "tw-ton.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 13,
+      "consecutive_negative_checks": 14,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "tw-ton.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 13,
+      "negative_observations": 14,
       "negative_since": "2026-10-05T23:32:48Z",
       "quarantined_at": null,
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "9.9.9.9": {
           "ipv4": [],
@@ -14557,10 +14541,10 @@
         "162.159.140.229",
         "172.66.0.227"
       ],
-      "last_check": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-09T22:05:00Z",
+      "last_success": "2026-10-10T03:43:01Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -14568,7 +14552,6 @@
         "1.1.1.1": {
           "canonical_name": "td.twitter.com",
           "ipv4": [
-            "162.159.140.229",
             "172.66.0.227"
           ],
           "status": "OK"
@@ -14576,14 +14559,15 @@
         "8.8.8.8": {
           "canonical_name": "td.twitter.com",
           "ipv4": [
-            "162.159.140.229"
+            "162.159.140.229",
+            "172.66.0.227"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "td.twitter.com",
           "ipv4": [
-            "172.66.0.227"
+            "162.159.140.229"
           ],
           "status": "OK"
         }
@@ -14596,18 +14580,18 @@
     },
     "twimg.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 13,
+      "consecutive_negative_checks": 14,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "twimg.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 13,
+      "negative_observations": 14,
       "negative_since": "2026-10-05T23:32:48Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -14638,12 +14622,12 @@
       "first_seen": "2026-08-21T09:36:50Z",
       "hostname": "twitter.com",
       "ipv4": [
-        "162.159.140.229"
+        "172.66.0.227"
       ],
-      "last_check": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-09T22:05:00Z",
+      "last_success": "2026-10-10T03:43:01Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -14651,21 +14635,21 @@
         "1.1.1.1": {
           "canonical_name": "twitter.com",
           "ipv4": [
-            "162.159.140.229"
+            "172.66.0.227"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "twitter.com",
           "ipv4": [
-            "162.159.140.229"
+            "172.66.0.227"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "twitter.com",
           "ipv4": [
-            "162.159.140.229"
+            "172.66.0.227"
           ],
           "status": "OK"
         }
@@ -14724,10 +14708,10 @@
         "162.159.140.229",
         "172.66.0.227"
       ],
-      "last_check": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-09T22:05:00Z",
+      "last_success": "2026-10-10T03:43:01Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -14735,7 +14719,7 @@
         "1.1.1.1": {
           "canonical_name": "upload.twitter.com",
           "ipv4": [
-            "172.66.0.227"
+            "162.159.140.229"
           ],
           "status": "OK"
         },
@@ -14763,18 +14747,18 @@
     },
     "victoriametrics-a.memy.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 12,
+      "consecutive_negative_checks": 13,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "victoriametrics-a.memy.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 12,
+      "negative_observations": 13,
       "negative_since": "2026-10-06T04:11:59Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -14784,7 +14768,7 @@
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "9.9.9.9": {
           "ipv4": [],
@@ -14799,18 +14783,18 @@
     },
     "victoriametrics-b.memy.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 13,
+      "consecutive_negative_checks": 14,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "victoriametrics-b.memy.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 13,
+      "negative_observations": 14,
       "negative_since": "2026-10-05T23:32:48Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -14820,11 +14804,11 @@
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
@@ -14835,18 +14819,18 @@
     },
     "victoriametrics-c.memy.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 13,
+      "consecutive_negative_checks": 14,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "victoriametrics-c.memy.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 13,
+      "negative_observations": 14,
       "negative_since": "2026-10-05T23:32:48Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -14856,11 +14840,11 @@
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         }
       },
       "safety_reason": null,
@@ -14871,32 +14855,32 @@
     },
     "victoriametrics-d.memy.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 13,
+      "consecutive_negative_checks": 14,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "victoriametrics-d.memy.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 13,
+      "negative_observations": 14,
       "negative_since": "2026-10-05T23:32:48Z",
       "quarantined_at": null,
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
@@ -14916,10 +14900,10 @@
         "104.18.36.146",
         "172.64.151.110"
       ],
-      "last_check": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-09T22:05:00Z",
+      "last_success": "2026-10-10T03:43:01Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -14964,21 +14948,21 @@
       "hostname": "video-s.twimg.com",
       "ipv4": [
         "104.18.36.146",
+        "151.101.20.158",
         "172.64.151.110"
       ],
-      "last_check": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-09T22:05:00Z",
+      "last_success": "2026-10-10T03:43:01Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
       "resolver_results": {
         "1.1.1.1": {
-          "canonical_name": "custom-cf.video.twimg.com.cdn.cloudflare.net",
+          "canonical_name": "dualstack.video.twitter.map.fastly.net",
           "ipv4": [
-            "104.18.36.146",
-            "172.64.151.110"
+            "151.101.20.158"
           ],
           "status": "OK"
         },
@@ -15006,7 +14990,7 @@
       "status": "active"
     },
     "video.twimg.com": {
-      "canonical_name": "video.twimg.com.cdn.cloudflare.net",
+      "canonical_name": "dualstack.video.twitter.map.fastly.net",
       "consecutive_negative_checks": 0,
       "ever_validated": true,
       "expired_at": null,
@@ -15014,29 +14998,29 @@
       "hostname": "video.twimg.com",
       "ipv4": [
         "104.18.36.146",
+        "146.75.40.158",
+        "151.101.20.158",
         "172.64.151.110"
       ],
-      "last_check": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-09T22:05:00Z",
+      "last_success": "2026-10-10T03:43:01Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
       "resolver_results": {
         "1.1.1.1": {
-          "canonical_name": "video.twimg.com.cdn.cloudflare.net",
+          "canonical_name": "dualstack.video.twitter.map.fastly.net",
           "ipv4": [
-            "104.18.36.146",
-            "172.64.151.110"
+            "151.101.20.158"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
-          "canonical_name": "video.twimg.com.cdn.cloudflare.net",
+          "canonical_name": "dualstack.video.twitter.map.fastly.net",
           "ipv4": [
-            "104.18.36.146",
-            "172.64.151.110"
+            "146.75.40.158"
           ],
           "status": "OK"
         },
@@ -15310,18 +15294,18 @@
     },
     "wlm.local.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 15,
+      "consecutive_negative_checks": 16,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "wlm.local.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 15,
+      "negative_observations": 16,
       "negative_since": "2026-10-05T03:24:22Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -15331,11 +15315,11 @@
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
@@ -15382,28 +15366,28 @@
     },
     "wlm.memy.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 1,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "wlm.memy.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 1,
+      "negative_observations": 2,
       "negative_since": "2026-10-09T22:05:00Z",
       "quarantined_at": null,
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "9.9.9.9": {
           "ipv4": [],
@@ -15418,18 +15402,18 @@
     },
     "wlm.pdxa.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 15,
+      "consecutive_negative_checks": 16,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "wlm.pdxa.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 15,
+      "negative_observations": 16,
       "negative_since": "2026-10-05T03:24:22Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -15439,7 +15423,7 @@
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "9.9.9.9": {
           "ipv4": [],
@@ -15562,32 +15546,32 @@
     },
     "wlm.pdxx.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 15,
+      "consecutive_negative_checks": 16,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T12:31:52Z",
       "hostname": "wlm.pdxx.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 15,
+      "negative_observations": 16,
       "negative_since": "2026-10-05T03:24:22Z",
       "quarantined_at": null,
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
@@ -15643,10 +15627,10 @@
         "162.159.140.229",
         "172.66.0.227"
       ],
-      "last_check": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-09T22:05:00Z",
+      "last_success": "2026-10-10T03:43:01Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -15654,7 +15638,7 @@
         "1.1.1.1": {
           "canonical_name": "t.co",
           "ipv4": [
-            "162.159.140.229"
+            "172.66.0.227"
           ],
           "status": "OK"
         },
@@ -15668,7 +15652,7 @@
         "9.9.9.9": {
           "canonical_name": "t.co",
           "ipv4": [
-            "172.66.0.227"
+            "162.159.140.229"
           ],
           "status": "OK"
         }
@@ -15690,10 +15674,10 @@
         "162.159.140.229",
         "172.66.0.227"
       ],
-      "last_check": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-09T22:05:00Z",
+      "last_success": "2026-10-10T03:43:01Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -15701,7 +15685,7 @@
         "1.1.1.1": {
           "canonical_name": "twitter.com",
           "ipv4": [
-            "162.159.140.229"
+            "172.66.0.227"
           ],
           "status": "OK"
         },
@@ -15715,7 +15699,7 @@
         "9.9.9.9": {
           "canonical_name": "twitter.com",
           "ipv4": [
-            "172.66.0.227"
+            "162.159.140.229"
           ],
           "status": "OK"
         }
@@ -15734,13 +15718,14 @@
       "first_seen": "2026-08-21T09:36:50Z",
       "hostname": "www.x.com",
       "ipv4": [
+        "151.101.2.146",
         "162.159.140.229",
         "172.66.0.227"
       ],
-      "last_check": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-09T22:05:00Z",
+      "last_success": "2026-10-10T03:43:01Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -15748,21 +15733,21 @@
         "1.1.1.1": {
           "canonical_name": "x.com",
           "ipv4": [
-            "162.159.140.229"
+            "172.66.0.227"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "x.com",
           "ipv4": [
-            "172.66.0.227"
+            "162.159.140.229"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "x.com",
           "ipv4": [
-            "162.159.140.229"
+            "151.101.2.146"
           ],
           "status": "OK"
         }
@@ -15781,13 +15766,13 @@
       "first_seen": "2026-08-21T09:36:50Z",
       "hostname": "x.com",
       "ipv4": [
-        "162.159.140.229",
-        "172.66.0.227"
+        "151.101.2.146",
+        "162.159.140.229"
       ],
-      "last_check": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-09T22:05:00Z",
+      "last_success": "2026-10-10T03:43:01Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -15795,7 +15780,7 @@
         "1.1.1.1": {
           "canonical_name": "x.com",
           "ipv4": [
-            "172.66.0.227"
+            "162.159.140.229"
           ],
           "status": "OK"
         },
@@ -15809,7 +15794,7 @@
         "9.9.9.9": {
           "canonical_name": "x.com",
           "ipv4": [
-            "162.159.140.229"
+            "151.101.2.146"
           ],
           "status": "OK"
         }
@@ -16038,24 +16023,24 @@
     },
     "xai-wilson.memx.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 34,
+      "consecutive_negative_checks": 35,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T18:26:12Z",
       "hostname": "xai-wilson.memx.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 34,
+      "negative_observations": 35,
       "negative_since": "2026-09-30T03:21:44Z",
       "quarantined_at": "2026-10-07T03:38:45Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
-          "status": "NO_A"
+          "status": "NXDOMAIN"
         },
         "8.8.8.8": {
           "ipv4": [],
@@ -16074,18 +16059,18 @@
     },
     "xai-wilson.memy.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 3,
+      "consecutive_negative_checks": 4,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "xai-wilson.memy.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 3,
+      "negative_observations": 4,
       "negative_since": "2026-10-09T03:58:05Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -16099,7 +16084,7 @@
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
@@ -16362,18 +16347,18 @@
     },
     "yum.local.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 1,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "yum.local.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 1,
+      "negative_observations": 2,
       "negative_since": "2026-10-09T22:05:00Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -16383,11 +16368,11 @@
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "9.9.9.9": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         }
       },
       "safety_reason": null,
@@ -16434,18 +16419,18 @@
     },
     "yum.memy.twitter.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 1,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:44:03Z",
       "hostname": "yum.memy.twitter.com",
       "ipv4": [],
-      "last_check": "2026-10-09T22:05:00Z",
-      "last_failure": "2026-10-09T22:05:00Z",
-      "last_negative": "2026-10-09T22:05:00Z",
+      "last_check": "2026-10-10T03:43:01Z",
+      "last_failure": "2026-10-10T03:43:01Z",
+      "last_negative": "2026-10-10T03:43:01Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 1,
+      "negative_observations": 2,
       "negative_since": "2026-10-09T22:05:00Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -16455,7 +16440,7 @@
         },
         "8.8.8.8": {
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "NO_A"
         },
         "9.9.9.9": {
           "ipv4": [],
@@ -16613,6 +16598,6 @@
       "status": "expired"
     }
   },
-  "updated_at": "2026-10-09T22:05:00Z",
+  "updated_at": "2026-10-10T03:43:01Z",
   "version": 2
 }

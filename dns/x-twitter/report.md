@@ -1,17 +1,17 @@
 # X-Twitter DNS Maintenance Report
 
-Generated: `2026-10-09T22:05:00Z`
+Generated: `2026-10-10T03:43:01Z`
 
 ## DNS lifecycle
 
 | State | Hosts |
 |---|---:|
 | Active | 32 |
-| Pending | 18 |
-| Suspect | 65 |
-| Quarantine | 50 |
+| Pending | 19 |
+| Suspect | 38 |
+| Quarantine | 77 |
 | Excluded | 0 |
-| Expired | 285 |
+| Expired | 284 |
 
 ## HTTPS/TLS observation
 
@@ -40,16 +40,16 @@ Average stability: **81.2%**
 
 | Hostname | State | Since | Observations | Last error | IPv4 | Stability | Samples |
 |---|---|---|---:|---|---|---:|---:|
-| `mx3.twitter.com` | dead | `2026-08-21T12:31:52Z` | 189 | TIMEOUT | 199.59.148.207 | 0.0 | 49 |
-| `mx4.twitter.com` | dead | `2026-08-21T12:31:52Z` | 189 | TIMEOUT | 199.16.156.115 | 0.0 | 49 |
-| `r.twimg.com` | dead | `2026-08-21T09:44:03Z` | 190 | TIMEOUT | 104.244.42.137, 104.244.42.201, 104.244.42.73 | 0.0 | 49 |
-| `syndication-o.twimg.com` | dead | `2026-08-21T09:44:03Z` | 190 | TIMEOUT | 104.244.42.137, 104.244.42.201, 104.244.42.73 | 0.0 | 49 |
-| `syndication.twimg.com` | dead | `2026-08-21T09:44:03Z` | 190 | TIMEOUT | 104.244.42.136, 104.244.42.200, 104.244.42.72 | 0.0 | 49 |
-| `www.t.co` | dead | `2026-08-21T09:44:03Z` | 190 | TLS_ERROR | 162.159.140.229, 172.66.0.227 | 0.0 | 49 |
+| `mx3.twitter.com` | dead | `2026-08-21T12:31:52Z` | 190 | TIMEOUT | 199.59.148.207 | 0.0 | 49 |
+| `mx4.twitter.com` | dead | `2026-08-21T12:31:52Z` | 190 | TIMEOUT | 199.16.156.115 | 0.0 | 49 |
+| `r.twimg.com` | dead | `2026-08-21T09:44:03Z` | 191 | TIMEOUT | 104.244.42.137, 104.244.42.201, 104.244.42.9 | 0.0 | 49 |
+| `syndication-o.twimg.com` | dead | `2026-08-21T09:44:03Z` | 191 | TIMEOUT | 104.244.42.137, 104.244.42.201, 104.244.42.73 | 0.0 | 49 |
+| `syndication.twimg.com` | dead | `2026-08-21T09:44:03Z` | 191 | TIMEOUT | 104.244.42.136, 104.244.42.200, 104.244.42.72 | 0.0 | 49 |
+| `www.t.co` | dead | `2026-08-21T09:44:03Z` | 191 | TLS_ERROR | 162.159.140.229, 172.66.0.227 | 0.0 | 49 |
 
 ## Discovery
 
-Discovery state updated: `2026-10-09T22:05:00Z`
+Discovery state updated: `2026-10-10T03:43:01Z`
 
 ## Notes
 
