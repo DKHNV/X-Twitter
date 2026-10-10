@@ -1,7 +1,6 @@
 api.wilson.memy.twitter.com
 audubon.atlb.twitter.com
 audubon.atlc.twitter.com
-audubon.pdxa.twitter.com
 binaries.local.twitter.com
 configbus.local.twitter.com
 ddns3.atla.twitter.com
@@ -12,7 +11,6 @@ pxe.memy.twitter.com
 redfish-proxy.memy.twitter.com
 science-binaries.local.twitter.com
 stats.wilson.memy.twitter.com
-supermon.atla.twitter.com
 wlm.memy.twitter.com
 xai-wilson.memy.twitter.com
 yum.local.twitter.com
