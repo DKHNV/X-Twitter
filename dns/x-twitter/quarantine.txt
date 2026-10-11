@@ -60,6 +60,7 @@ gitssecondary.local.twitter.com
 hbase-pcadmin.qus1.twitter.com
 hbase-pcadmintst.qus1.twitter.com
 ipmi.wilson.local.twitter.com
+isolation.atla.twitter.com
 nauth1.atlc.twitter.com
 nauth1.smfc.twitter.com
 nauth2.atlc.twitter.com
