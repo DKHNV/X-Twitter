@@ -75,4 +75,7 @@ rogit.qus1.twitter.com
 rogit.smf1.twitter.com
 stats.wilson.local.twitter.com
 supermon.memx.twitter.com
+wlm.local.twitter.com
+wlm.pdxa.twitter.com
+wlm.pdxx.twitter.com
 xai-wilson.memx.twitter.com

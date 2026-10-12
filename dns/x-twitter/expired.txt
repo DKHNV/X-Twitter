@@ -67,7 +67,6 @@ compute-test.atla.twitter.com
 compute.atla.twitter.com
 compute.qua2.twitter.com
 compute.qud1.twitter.com
-dev.cftls.t.co
 dnsmgr.atla.twitter.com
 dnsmgr.atls.twitter.com
 dnsmgr.local.twitter.com
