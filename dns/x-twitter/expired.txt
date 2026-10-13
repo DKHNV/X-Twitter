@@ -241,7 +241,6 @@ supermon.memy.twitter.com
 svn.atla.twitter.com
 svn.local.twitter.com
 svn.pdxa.twitter.com
-test.cftls.t.co
 thermos-proxy.atla.twitter.com
 thermos-proxy.local.twitter.com
 thermos-proxy.pdxa.twitter.com
@@ -253,16 +252,11 @@ uauth.ise.twitter.com
 wekas3.atla.twitter.com
 wilson-stats.memy.twitter.com
 wilson.local.twitter.com
-wlm.atla.twitter.com
 wlm.atlc.twitter.com
-wlm.atls.twitter.com
-wlm.atlv.twitter.com
-wlm.memx.twitter.com
 wlm.pdxc.twitter.com
 wlm.pdxs.twitter.com
 wlm.pdxv.twitter.com
 wlm.sfo2.twitter.com
-xai-audubon.memx.twitter.com
 xai-audubon.memy.twitter.com
 xai-ndb.memx.twitter.com
 xai-rds.memx.twitter.com

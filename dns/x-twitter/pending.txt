@@ -1,8 +1,9 @@
 audubon.atlb.twitter.com
 audubon.memy.twitter.com
-binaries.local.twitter.com
 dev.cftls.t.co
-science-binaries.local.twitter.com
-wlm.memy.twitter.com
-yum.local.twitter.com
-yum.memy.twitter.com
+test.cftls.t.co
+wlm.atla.twitter.com
+wlm.atls.twitter.com
+wlm.atlv.twitter.com
+wlm.memx.twitter.com
+xai-audubon.memx.twitter.com
