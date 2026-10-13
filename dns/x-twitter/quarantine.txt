@@ -105,6 +105,7 @@ supermon.memx.twitter.com
 syndication-o.twitter.com
 tw-ton.twitter.com
 twimg.com
+victoriametrics-a.memy.twitter.com
 victoriametrics-b.memy.twitter.com
 victoriametrics-c.memy.twitter.com
 victoriametrics-d.memy.twitter.com
