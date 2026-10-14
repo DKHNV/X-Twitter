@@ -6,8 +6,6 @@ atl1.twitter.com
 audubon.ams1.twitter.com
 audubon.atl2.twitter.com
 audubon.atl4.twitter.com
-audubon.atls.twitter.com
-audubon.atlv.twitter.com
 audubon.chi1.twitter.com
 audubon.dfw1.twitter.com
 audubon.dxb1.twitter.com
@@ -37,8 +35,6 @@ audubon.nyc2.twitter.com
 audubon.pao1.twitter.com
 audubon.par1.twitter.com
 audubon.pdxc.twitter.com
-audubon.pdxs.twitter.com
-audubon.pdxv.twitter.com
 audubon.pdxx.twitter.com
 audubon.sao1.twitter.com
 audubon.sea2.twitter.com
@@ -112,18 +108,14 @@ ipmi.wilson.sfo2.twitter.com
 kf.qus1.twitter.com
 ldap.atla.twitter.com
 ldap.atlc.twitter.com
-ldap.local.twitter.com
 ldap.pdxa.twitter.com
 ldap.pdxc.twitter.com
-ldap.qus1.twitter.com
 ldap.sfo2.twitter.com
 ldapmaster.local.twitter.com
 ldapsync.atla.twitter.com
 ldapsync.atlc.twitter.com
-ldapsync.local.twitter.com
 ldapsync.pdxa.twitter.com
 ldapsync.pdxc.twitter.com
-ldapsync.qus1.twitter.com
 ldapsync.sfo2.twitter.com
 looker-devel.qus1.twitter.com
 looker-staging.qus1.twitter.com
