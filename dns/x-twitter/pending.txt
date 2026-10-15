@@ -2,8 +2,10 @@ api.wilson.atla.twitter.com
 api.wilson.atls.twitter.com
 api.wilson.atlv.twitter.com
 api.wilson.memx.twitter.com
+api.wilson.sfo2.twitter.com
 audubon.atls.twitter.com
 audubon.atlv.twitter.com
+audubon.pdxc.twitter.com
 audubon.pdxs.twitter.com
 audubon.pdxv.twitter.com
 compute-test.atla.twitter.com
@@ -14,6 +16,7 @@ ipmi.wilson.atla.twitter.com
 ipmi.wilson.atls.twitter.com
 ipmi.wilson.atlv.twitter.com
 ipmi.wilson.memx.twitter.com
+ipmi.wilson.sfo2.twitter.com
 ldap.local.twitter.com
 ldap.qus1.twitter.com
 ldapsync.local.twitter.com
@@ -21,6 +24,7 @@ ldapsync.qus1.twitter.com
 neteng.atla.twitter.com
 new.wilson-stats.memy.twitter.com
 postmaster.local.twitter.com
+pxe.atla.twitter.com
 registry-rw-test.atla.twitter.com
 registry-rw.atla.twitter.com
 registry-test.atla.twitter.com
@@ -29,6 +33,8 @@ stats.wilson.atla.twitter.com
 stats.wilson.atls.twitter.com
 stats.wilson.atlv.twitter.com
 stats.wilson.memx.twitter.com
+stats.wilson.sfo2.twitter.com
+supermon.memy.twitter.com
 svn.local.twitter.com
 test.cftls.t.co
 wilson-stats.memy.twitter.com
@@ -37,3 +43,4 @@ wlm.atls.twitter.com
 wlm.atlv.twitter.com
 wlm.memx.twitter.com
 xai-audubon.memx.twitter.com
+xai-audubon.memy.twitter.com
