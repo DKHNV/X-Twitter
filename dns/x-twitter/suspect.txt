@@ -4,6 +4,7 @@ audubon.atlc.twitter.com
 audubon.memy.twitter.com
 binaries.local.twitter.com
 configbus.local.twitter.com
+dev.cftls.t.co
 ipmi.wilson.memy.twitter.com
 pxe.local.twitter.com
 pxe.memy.twitter.com
