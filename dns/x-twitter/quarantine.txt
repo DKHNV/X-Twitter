@@ -37,6 +37,7 @@ compute-prod-voyage.atla.twitter.com
 compute-test-port.pdxa.twitter.com
 compute-test.pdxa.twitter.com
 compute.pdxa.twitter.com
+ddns3.atla.twitter.com
 docker-local.artifactory.local.twitter.com
 docker-public.artifactory.local.twitter.com
 docker-releases-local.artifactory.local.twitter.com
@@ -65,6 +66,7 @@ gitsprimary-basic.local.twitter.com
 gitsprimary.local.twitter.com
 gitsreplica.local.twitter.com
 gitssecondary.local.twitter.com
+hadoop-mltst.qus1.twitter.com
 hbase-pcadmin.qus1.twitter.com
 hbase-pcadmintst.qus1.twitter.com
 ipmi.wilson.local.twitter.com
