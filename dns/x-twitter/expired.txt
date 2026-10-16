@@ -126,9 +126,6 @@ neteng.sfo2.twitter.com
 o2-staging.atla.twitter.com
 o2-staging.local.twitter.com
 o2-staging.pdxa.twitter.com
-o2.atla.twitter.com
-o2.local.twitter.com
-o2.pdxa.twitter.com
 pdx1.twitter.com
 puppetserver.atla.twitter.com
 puppetserver.atlb.twitter.com
@@ -174,13 +171,10 @@ puppetserver3.tyo3.twitter.com
 pxe.atlc.twitter.com
 pxe.memx.twitter.com
 pxe.pdxa.twitter.com
-pxe.pdxc.twitter.com
 pxe.pdxx.twitter.com
 pxe.sfo2.twitter.com
 redfish-proxy.memx.twitter.com
 redfish-proxy.pdxx.twitter.com
-registry-rw-test.pdxa.twitter.com
-registry-rw.pdxa.twitter.com
 sai.twitter.com
 service-proxy.qua2.twitter.com
 service-proxy.qud1.twitter.com

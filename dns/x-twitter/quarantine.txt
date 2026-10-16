@@ -37,6 +37,7 @@ compute-prod-voyage.atla.twitter.com
 compute-test-port.pdxa.twitter.com
 compute-test.pdxa.twitter.com
 compute.pdxa.twitter.com
+configbus.local.twitter.com
 ddns3.atla.twitter.com
 docker-local.artifactory.local.twitter.com
 docker-public.artifactory.local.twitter.com

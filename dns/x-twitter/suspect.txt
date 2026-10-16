@@ -3,7 +3,6 @@ audubon.atlb.twitter.com
 audubon.atlc.twitter.com
 audubon.memy.twitter.com
 binaries.local.twitter.com
-configbus.local.twitter.com
 dev.cftls.t.co
 ipmi.wilson.memy.twitter.com
 pxe.local.twitter.com
@@ -11,7 +10,13 @@ pxe.memy.twitter.com
 redfish-proxy.memy.twitter.com
 science-binaries.local.twitter.com
 stats.wilson.memy.twitter.com
+test.cftls.t.co
+wlm.atla.twitter.com
+wlm.atls.twitter.com
+wlm.atlv.twitter.com
+wlm.memx.twitter.com
 wlm.memy.twitter.com
+xai-audubon.memx.twitter.com
 xai-wilson.memy.twitter.com
 yum.local.twitter.com
 yum.memy.twitter.com
