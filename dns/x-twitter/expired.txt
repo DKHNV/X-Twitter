@@ -119,10 +119,8 @@ nessus2.atla.twitter.com
 nessus3.atla.twitter.com
 nessus4.atla.twitter.com
 neteng.atlc.twitter.com
-neteng.local.twitter.com
 neteng.memx.twitter.com
 neteng.pdxc.twitter.com
-neteng.sfo2.twitter.com
 o2-staging.atla.twitter.com
 o2-staging.local.twitter.com
 o2-staging.pdxa.twitter.com
@@ -188,10 +186,7 @@ servitor.pdxc.twitter.com
 servitor.sfo2.twitter.com
 staging.ipmi.wilson.atla.twitter.com
 staging.ipmi.wilson.atlc.twitter.com
-staging.ipmi.wilson.local.twitter.com
-staging.ipmi.wilson.pdxa.twitter.com
 staging.ipmi.wilson.pdxc.twitter.com
-staging.ipmi.wilson.sfo2.twitter.com
 stats.wilson.atlc.twitter.com
 stats.wilson.pdxs.twitter.com
 stats.wilson.pdxv.twitter.com
@@ -206,7 +201,6 @@ trivy.local.twitter.com
 trivy.pdxa.twitter.com
 uauth.ise.twitter.com
 wekas3.atla.twitter.com
-wilson.local.twitter.com
 wlm.atlc.twitter.com
 wlm.pdxc.twitter.com
 wlm.pdxs.twitter.com
