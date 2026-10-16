@@ -121,9 +121,6 @@ nessus4.atla.twitter.com
 neteng.atlc.twitter.com
 neteng.memx.twitter.com
 neteng.pdxc.twitter.com
-o2-staging.atla.twitter.com
-o2-staging.local.twitter.com
-o2-staging.pdxa.twitter.com
 pdx1.twitter.com
 puppetserver.atla.twitter.com
 puppetserver.atlb.twitter.com
@@ -202,10 +199,8 @@ trivy.pdxa.twitter.com
 uauth.ise.twitter.com
 wekas3.atla.twitter.com
 wlm.atlc.twitter.com
-wlm.pdxc.twitter.com
 wlm.pdxs.twitter.com
 wlm.pdxv.twitter.com
-wlm.sfo2.twitter.com
 xai-ndb.memx.twitter.com
 xai-rds.memx.twitter.com
 xai-repairhub.memx.twitter.com

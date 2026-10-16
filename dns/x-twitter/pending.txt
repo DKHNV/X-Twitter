@@ -16,6 +16,9 @@ ldapsync.qus1.twitter.com
 neteng.atla.twitter.com
 neteng.local.twitter.com
 neteng.sfo2.twitter.com
+o2-staging.atla.twitter.com
+o2-staging.local.twitter.com
+o2-staging.pdxa.twitter.com
 o2.atla.twitter.com
 o2.local.twitter.com
 o2.pdxa.twitter.com
@@ -35,4 +38,6 @@ stats.wilson.sfo2.twitter.com
 supermon.memy.twitter.com
 svn.local.twitter.com
 wilson.local.twitter.com
+wlm.pdxc.twitter.com
+wlm.sfo2.twitter.com
 xai-audubon.memy.twitter.com
