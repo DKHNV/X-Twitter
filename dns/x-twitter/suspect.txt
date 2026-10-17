@@ -4,14 +4,12 @@ api.wilson.atlv.twitter.com
 api.wilson.memx.twitter.com
 audubon.atlb.twitter.com
 audubon.memy.twitter.com
-binaries.local.twitter.com
 dev.cftls.t.co
 ipmi.wilson.atla.twitter.com
 ipmi.wilson.atls.twitter.com
 ipmi.wilson.atlv.twitter.com
 ipmi.wilson.memx.twitter.com
 new.wilson-stats.memy.twitter.com
-science-binaries.local.twitter.com
 stats.wilson.atla.twitter.com
 stats.wilson.atls.twitter.com
 stats.wilson.atlv.twitter.com
@@ -22,7 +20,4 @@ wlm.atla.twitter.com
 wlm.atls.twitter.com
 wlm.atlv.twitter.com
 wlm.memx.twitter.com
-wlm.memy.twitter.com
 xai-audubon.memx.twitter.com
-yum.local.twitter.com
-yum.memy.twitter.com

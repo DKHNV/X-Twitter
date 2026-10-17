@@ -23,6 +23,7 @@ baremetal-console.local.twitter.com
 baremetal-console.memx.twitter.com
 baremetal-console.memy.twitter.com
 baremetal-console.pdxa.twitter.com
+binaries.local.twitter.com
 bootserv.atla.twitter.com
 bootserv.local.twitter.com
 bootserv.memx.twitter.com
@@ -95,6 +96,7 @@ rogit.local.twitter.com
 rogit.pdxa.twitter.com
 rogit.qus1.twitter.com
 rogit.smf1.twitter.com
+science-binaries.local.twitter.com
 stardock-canary.atla.twitter.com
 stardock-canary.local.twitter.com
 stardock-canary.memx.twitter.com
@@ -122,7 +124,10 @@ victoriametrics-b.memy.twitter.com
 victoriametrics-c.memy.twitter.com
 victoriametrics-d.memy.twitter.com
 wlm.local.twitter.com
+wlm.memy.twitter.com
 wlm.pdxa.twitter.com
 wlm.pdxx.twitter.com
 xai-wilson.memx.twitter.com
 xai-wilson.memy.twitter.com
+yum.local.twitter.com
+yum.memy.twitter.com
