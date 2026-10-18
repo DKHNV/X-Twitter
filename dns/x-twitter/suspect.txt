@@ -4,7 +4,6 @@ api.wilson.atlv.twitter.com
 api.wilson.memx.twitter.com
 audubon.atls.twitter.com
 audubon.atlv.twitter.com
-audubon.memy.twitter.com
 audubon.pdxs.twitter.com
 audubon.pdxv.twitter.com
 dev.cftls.t.co
