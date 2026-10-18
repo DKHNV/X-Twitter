@@ -89,11 +89,9 @@ hadoop-tst-nn.atla.twitter.com
 hadoop-tst-rm.atla.twitter.com
 ipmi-proxy.atla.twitter.com
 ipmi-proxy.atlc.twitter.com
-ipmi-proxy.local.twitter.com
 ipmi-proxy.memx.twitter.com
 ipmi-proxy.memy.twitter.com
 ipmi-proxy.pdxa.twitter.com
-ipmi-proxy.pdxc.twitter.com
 ipmi-proxy.pdxx.twitter.com
 ipmi.wilson.atlc.twitter.com
 ipmi.wilson.pdxs.twitter.com

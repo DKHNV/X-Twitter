@@ -1,5 +1,7 @@
 api.wilson.sfo2.twitter.com
 audubon.pdxc.twitter.com
+ipmi-proxy.local.twitter.com
+ipmi-proxy.pdxc.twitter.com
 ipmi.wilson.sfo2.twitter.com
 neteng.local.twitter.com
 neteng.sfo2.twitter.com
