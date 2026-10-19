@@ -85,8 +85,6 @@ hadoop-rt2-rm.atla.twitter.com
 hadoop-rt2-rm.pdxa.twitter.com
 hadoop-tst-nn.atla.twitter.com
 hadoop-tst-rm.atla.twitter.com
-ipmi-proxy.atla.twitter.com
-ipmi.wilson.atlc.twitter.com
 ipmi.wilson.pdxs.twitter.com
 ipmi.wilson.pdxv.twitter.com
 kf.qus1.twitter.com
@@ -158,7 +156,6 @@ servitor.pdxa.twitter.com
 servitor.pdxc.twitter.com
 servitor.sfo2.twitter.com
 staging.ipmi.wilson.atla.twitter.com
-staging.ipmi.wilson.atlc.twitter.com
 stats.wilson.atlc.twitter.com
 stats.wilson.pdxs.twitter.com
 stats.wilson.pdxv.twitter.com
