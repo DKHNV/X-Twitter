@@ -44,6 +44,7 @@ compute-test.pdxa.twitter.com
 compute.pdxa.twitter.com
 configbus.local.twitter.com
 ddns3.atla.twitter.com
+dev.cftls.t.co
 docker-local.artifactory.local.twitter.com
 docker-public.artifactory.local.twitter.com
 docker-releases-local.artifactory.local.twitter.com
