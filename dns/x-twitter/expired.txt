@@ -161,6 +161,5 @@ xai-repairhub.memx.twitter.com
 xai-twippy.memx.twitter.com
 xai-wlm.memx.twitter.com
 yum.memx.twitter.com
-yum.pdxa.twitter.com
 yum.pdxc.twitter.com
 yum.pdxx.twitter.com
