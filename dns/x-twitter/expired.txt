@@ -142,7 +142,6 @@ puppetserver3.syd2.twitter.com
 puppetserver3.tyo3.twitter.com
 pxe.memx.twitter.com
 pxe.pdxx.twitter.com
-redfish-proxy.memx.twitter.com
 redfish-proxy.pdxx.twitter.com
 sai.twitter.com
 service-proxy.qus1.twitter.com

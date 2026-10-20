@@ -24,6 +24,7 @@ neteng.atlc.twitter.com
 pxe.atlc.twitter.com
 pxe.pdxa.twitter.com
 pxe.sfo2.twitter.com
+redfish-proxy.memx.twitter.com
 service-proxy.qua2.twitter.com
 service-proxy.qud1.twitter.com
 service.qus1.twitter.com

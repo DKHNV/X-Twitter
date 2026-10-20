@@ -1,4 +1,8 @@
+api.wilson.atla.twitter.com
+api.wilson.atls.twitter.com
+api.wilson.atlv.twitter.com
 api.wilson.local.twitter.com
+api.wilson.memx.twitter.com
 api.wilson.memy.twitter.com
 api.wilson.pdxa.twitter.com
 api.wilson.pdxc.twitter.com
@@ -76,7 +80,11 @@ gitssecondary.local.twitter.com
 hadoop-mltst.qus1.twitter.com
 hbase-pcadmin.qus1.twitter.com
 hbase-pcadmintst.qus1.twitter.com
+ipmi.wilson.atla.twitter.com
+ipmi.wilson.atls.twitter.com
+ipmi.wilson.atlv.twitter.com
 ipmi.wilson.local.twitter.com
+ipmi.wilson.memx.twitter.com
 ipmi.wilson.memy.twitter.com
 ipmi.wilson.pdxa.twitter.com
 ipmi.wilson.pdxc.twitter.com
@@ -87,6 +95,7 @@ nauth1.smfc.twitter.com
 nauth2.atlc.twitter.com
 nauth2.smfc.twitter.com
 neteng.pdxa.twitter.com
+new.wilson-stats.memy.twitter.com
 pxe.local.twitter.com
 pxe.memy.twitter.com
 redfish-proxy.local.twitter.com
@@ -112,7 +121,11 @@ stardock.memx.twitter.com
 stardock.memy.twitter.com
 stardock.pdxa.twitter.com
 stardock.pdxx.twitter.com
+stats.wilson.atla.twitter.com
+stats.wilson.atls.twitter.com
+stats.wilson.atlv.twitter.com
 stats.wilson.local.twitter.com
+stats.wilson.memx.twitter.com
 stats.wilson.memy.twitter.com
 stats.wilson.pdxa.twitter.com
 stats.wilson.pdxc.twitter.com
@@ -127,6 +140,7 @@ victoriametrics-a.memy.twitter.com
 victoriametrics-b.memy.twitter.com
 victoriametrics-c.memy.twitter.com
 victoriametrics-d.memy.twitter.com
+wilson-stats.memy.twitter.com
 wlm.atla.twitter.com
 wlm.atls.twitter.com
 wlm.atlv.twitter.com
