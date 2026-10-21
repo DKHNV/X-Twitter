@@ -45,9 +45,6 @@ audubon.tyo3.twitter.com
 baremetal-tenancy-broker.local.twitter.com
 baremetal-tenancy-broker.memx.twitter.com
 baremetal-tenancy-broker.memy.twitter.com
-cgit.atla.twitter.com
-cgit.local.twitter.com
-cgit.pdxa.twitter.com
 compute-qus1-c3.twitter.com
 compute-qus1-c4.twitter.com
 compute.qua2.twitter.com
@@ -97,7 +94,6 @@ nessus2.atla.twitter.com
 nessus3.atla.twitter.com
 nessus4.atla.twitter.com
 neteng.memx.twitter.com
-neteng.pdxc.twitter.com
 pdx1.twitter.com
 puppetserver.atla.twitter.com
 puppetserver.atlb.twitter.com

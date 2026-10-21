@@ -1,6 +1,9 @@
 api.wilson.atlc.twitter.com
 audubon.local.memz.twitter.com
 audubon.memz.twitter.com
+cgit.atla.twitter.com
+cgit.local.twitter.com
+cgit.pdxa.twitter.com
 ipmi-proxy.atla.twitter.com
 ipmi-proxy.atlc.twitter.com
 ipmi-proxy.local.twitter.com
@@ -21,6 +24,7 @@ ldapsync.pdxa.twitter.com
 ldapsync.pdxc.twitter.com
 ldapsync.sfo2.twitter.com
 neteng.atlc.twitter.com
+neteng.pdxc.twitter.com
 pxe.atlc.twitter.com
 pxe.pdxa.twitter.com
 pxe.sfo2.twitter.com
