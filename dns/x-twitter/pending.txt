@@ -38,6 +38,7 @@ servitor.local.twitter.com
 servitor.pdxa.twitter.com
 servitor.pdxc.twitter.com
 servitor.sfo2.twitter.com
+staging.ipmi.wilson.atla.twitter.com
 staging.ipmi.wilson.atlc.twitter.com
 staging.ipmi.wilson.pdxc.twitter.com
 stats.wilson.atlc.twitter.com
@@ -48,6 +49,7 @@ trivy.atla.twitter.com
 trivy.local.twitter.com
 trivy.pdxa.twitter.com
 wlm.atlc.twitter.com
+xai-rds.memx.twitter.com
 xray-staging.local.twitter.com
 xray.atla.twitter.com
 xray.local.twitter.com

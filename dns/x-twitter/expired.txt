@@ -141,7 +141,6 @@ pxe.pdxx.twitter.com
 redfish-proxy.pdxx.twitter.com
 sai.twitter.com
 service-proxy.qus1.twitter.com
-staging.ipmi.wilson.atla.twitter.com
 stats.wilson.pdxs.twitter.com
 stats.wilson.pdxv.twitter.com
 thermos-proxy.atla.twitter.com
@@ -152,7 +151,6 @@ wekas3.atla.twitter.com
 wlm.pdxs.twitter.com
 wlm.pdxv.twitter.com
 xai-ndb.memx.twitter.com
-xai-rds.memx.twitter.com
 xai-repairhub.memx.twitter.com
 xai-twippy.memx.twitter.com
 xai-wlm.memx.twitter.com
