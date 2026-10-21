@@ -4,6 +4,8 @@ compute-test.atla.twitter.com
 compute.atla.twitter.com
 docker-test.atla.twitter.com
 docker.atla.twitter.com
+ipmi-proxy.local.twitter.com
+ipmi-proxy.pdxc.twitter.com
 ipmi.wilson.sfo2.twitter.com
 neteng.atla.twitter.com
 neteng.local.twitter.com
