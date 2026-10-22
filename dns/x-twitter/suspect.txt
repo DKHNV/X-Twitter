@@ -4,10 +4,20 @@ compute-test.atla.twitter.com
 compute.atla.twitter.com
 docker-test.atla.twitter.com
 docker.atla.twitter.com
+ipmi-proxy.atlc.twitter.com
 ipmi-proxy.local.twitter.com
+ipmi-proxy.memx.twitter.com
+ipmi-proxy.memy.twitter.com
 ipmi-proxy.pdxc.twitter.com
 ipmi.wilson.sfo2.twitter.com
+ldap.atla.twitter.com
+ldap.pdxa.twitter.com
+ldap.sfo2.twitter.com
+ldapsync.atla.twitter.com
+ldapsync.pdxa.twitter.com
+ldapsync.sfo2.twitter.com
 neteng.atla.twitter.com
+neteng.atlc.twitter.com
 neteng.local.twitter.com
 neteng.sfo2.twitter.com
 o2-staging.atla.twitter.com
@@ -18,6 +28,7 @@ o2.local.twitter.com
 o2.pdxa.twitter.com
 postmaster.local.twitter.com
 pxe.atla.twitter.com
+pxe.pdxa.twitter.com
 pxe.pdxc.twitter.com
 registry-rw-test.atla.twitter.com
 registry-rw-test.pdxa.twitter.com
@@ -25,6 +36,7 @@ registry-rw.atla.twitter.com
 registry-rw.pdxa.twitter.com
 registry-test.atla.twitter.com
 registry.atla.twitter.com
+service.qus1.twitter.com
 staging.ipmi.wilson.local.twitter.com
 staging.ipmi.wilson.pdxa.twitter.com
 staging.ipmi.wilson.sfo2.twitter.com
@@ -32,6 +44,9 @@ stats.wilson.sfo2.twitter.com
 supermon.memy.twitter.com
 svn.local.twitter.com
 wilson.local.twitter.com
+wlm.atlc.twitter.com
 wlm.pdxc.twitter.com
 wlm.sfo2.twitter.com
 xai-audubon.memy.twitter.com
+yum.atla.twitter.com
+yum.atlc.twitter.com

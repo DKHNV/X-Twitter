@@ -4,25 +4,25 @@
       "t.co": {
         "after": 17894520620,
         "caught_up": true,
-        "last_poll": "2026-10-21T21:05:11Z"
+        "last_poll": "2026-10-22T02:46:04Z"
       },
       "twimg.com": {
         "after": 17894520620,
         "caught_up": true,
-        "last_poll": "2026-10-21T21:05:11Z"
+        "last_poll": "2026-10-22T02:46:04Z"
       },
       "twitter.com": {
-        "after": 17910966458,
+        "after": 17915459545,
         "caught_up": false,
-        "last_poll": "2026-10-21T21:05:11Z"
+        "last_poll": "2026-10-22T02:46:04Z"
       },
       "x.com": {
         "after": null,
         "caught_up": false,
-        "last_poll": "2026-10-21T21:05:11Z"
+        "last_poll": "2026-10-22T02:46:04Z"
       }
     }
   },
-  "updated_at": "2026-10-21T21:05:11Z",
+  "updated_at": "2026-10-22T02:46:04Z",
   "version": 2
 }

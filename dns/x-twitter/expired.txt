@@ -135,7 +135,6 @@ puppetserver3.smfc.twitter.com
 puppetserver3.smfv.twitter.com
 puppetserver3.syd2.twitter.com
 puppetserver3.tyo3.twitter.com
-pxe.memx.twitter.com
 pxe.pdxx.twitter.com
 redfish-proxy.pdxx.twitter.com
 sai.twitter.com
