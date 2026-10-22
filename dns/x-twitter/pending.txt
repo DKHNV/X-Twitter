@@ -16,6 +16,7 @@ ldapsync.pdxc.twitter.com
 neteng.pdxc.twitter.com
 pxe.atlc.twitter.com
 pxe.memx.twitter.com
+pxe.pdxx.twitter.com
 pxe.sfo2.twitter.com
 redfish-proxy.memx.twitter.com
 service-proxy.qua2.twitter.com
@@ -37,10 +38,12 @@ trivy-staging.local.twitter.com
 trivy.atla.twitter.com
 trivy.local.twitter.com
 trivy.pdxa.twitter.com
+uauth.ise.twitter.com
 xai-rds.memx.twitter.com
 xray-staging.local.twitter.com
 xray.atla.twitter.com
 xray.local.twitter.com
 xray.pdxa.twitter.com
 yum.pdxa.twitter.com
+yum.pdxx.twitter.com
 yum.sfo2.twitter.com

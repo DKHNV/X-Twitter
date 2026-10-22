@@ -135,7 +135,6 @@ puppetserver3.smfc.twitter.com
 puppetserver3.smfv.twitter.com
 puppetserver3.syd2.twitter.com
 puppetserver3.tyo3.twitter.com
-pxe.pdxx.twitter.com
 redfish-proxy.pdxx.twitter.com
 sai.twitter.com
 stats.wilson.pdxs.twitter.com
@@ -143,7 +142,6 @@ stats.wilson.pdxv.twitter.com
 thermos-proxy.atla.twitter.com
 thermos-proxy.local.twitter.com
 thermos-proxy.pdxa.twitter.com
-uauth.ise.twitter.com
 wekas3.atla.twitter.com
 wlm.pdxs.twitter.com
 wlm.pdxv.twitter.com
@@ -153,4 +151,3 @@ xai-twippy.memx.twitter.com
 xai-wlm.memx.twitter.com
 yum.memx.twitter.com
 yum.pdxc.twitter.com
-yum.pdxx.twitter.com
