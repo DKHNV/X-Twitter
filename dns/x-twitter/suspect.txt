@@ -1,7 +1,6 @@
-api.wilson.sfo2.twitter.com
 audubon.local.memz.twitter.com
 audubon.memz.twitter.com
-audubon.pdxc.twitter.com
+ipmi-proxy.atla.twitter.com
 ipmi-proxy.atlc.twitter.com
 ipmi-proxy.local.twitter.com
 ipmi-proxy.memx.twitter.com
@@ -9,7 +8,7 @@ ipmi-proxy.memy.twitter.com
 ipmi-proxy.pdxa.twitter.com
 ipmi-proxy.pdxc.twitter.com
 ipmi-proxy.pdxx.twitter.com
-ipmi.wilson.sfo2.twitter.com
+ipmi.wilson.atlc.twitter.com
 ldap.atla.twitter.com
 ldap.pdxa.twitter.com
 ldap.pdxc.twitter.com
@@ -27,7 +26,6 @@ o2-staging.pdxa.twitter.com
 o2.atla.twitter.com
 o2.local.twitter.com
 o2.pdxa.twitter.com
-pxe.atla.twitter.com
 pxe.atlc.twitter.com
 pxe.pdxa.twitter.com
 pxe.pdxc.twitter.com
@@ -37,18 +35,16 @@ service-proxy.qud1.twitter.com
 service.qus1.twitter.com
 servitor.atlc.twitter.com
 servitor.local.twitter.com
+staging.ipmi.wilson.atlc.twitter.com
 staging.ipmi.wilson.local.twitter.com
 staging.ipmi.wilson.pdxa.twitter.com
 staging.ipmi.wilson.pdxc.twitter.com
 staging.ipmi.wilson.sfo2.twitter.com
-stats.wilson.sfo2.twitter.com
-supermon.memy.twitter.com
 svn.atla.twitter.com
 wilson.local.twitter.com
 wlm.atlc.twitter.com
 wlm.pdxc.twitter.com
 wlm.sfo2.twitter.com
-xai-audubon.memy.twitter.com
 yum.atla.twitter.com
 yum.atlc.twitter.com
 yum.sfo2.twitter.com
