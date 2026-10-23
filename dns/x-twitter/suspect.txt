@@ -23,14 +23,8 @@ neteng.sfo2.twitter.com
 o2-staging.atla.twitter.com
 o2-staging.local.twitter.com
 o2-staging.pdxa.twitter.com
-o2.atla.twitter.com
-o2.local.twitter.com
-o2.pdxa.twitter.com
 pxe.atlc.twitter.com
 pxe.pdxa.twitter.com
-pxe.pdxc.twitter.com
-registry-rw-test.pdxa.twitter.com
-registry-rw.pdxa.twitter.com
 service-proxy.qud1.twitter.com
 service.qus1.twitter.com
 servitor.atlc.twitter.com

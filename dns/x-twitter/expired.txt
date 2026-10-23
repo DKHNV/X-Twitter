@@ -83,7 +83,6 @@ hadoop-tst-rm.atla.twitter.com
 ipmi.wilson.pdxs.twitter.com
 ipmi.wilson.pdxv.twitter.com
 kf.qus1.twitter.com
-ldapmaster.local.twitter.com
 looker-devel.qus1.twitter.com
 looker-staging.qus1.twitter.com
 nessus1.atla.twitter.com
