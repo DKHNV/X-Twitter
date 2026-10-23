@@ -110,7 +110,9 @@ nauth1.smfc.twitter.com
 nauth2.atlc.twitter.com
 nauth2.smfc.twitter.com
 neteng.atla.twitter.com
+neteng.local.twitter.com
 neteng.pdxa.twitter.com
+neteng.sfo2.twitter.com
 new.wilson-stats.memy.twitter.com
 o2.atla.twitter.com
 o2.local.twitter.com
@@ -137,6 +139,9 @@ rogit.pdxa.twitter.com
 rogit.qus1.twitter.com
 rogit.smf1.twitter.com
 science-binaries.local.twitter.com
+staging.ipmi.wilson.local.twitter.com
+staging.ipmi.wilson.pdxa.twitter.com
+staging.ipmi.wilson.sfo2.twitter.com
 stardock-canary.atla.twitter.com
 stardock-canary.local.twitter.com
 stardock-canary.memx.twitter.com
@@ -172,6 +177,7 @@ victoriametrics-b.memy.twitter.com
 victoriametrics-c.memy.twitter.com
 victoriametrics-d.memy.twitter.com
 wilson-stats.memy.twitter.com
+wilson.local.twitter.com
 wlm.atla.twitter.com
 wlm.atls.twitter.com
 wlm.atlv.twitter.com
