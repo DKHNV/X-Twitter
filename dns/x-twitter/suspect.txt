@@ -21,9 +21,6 @@ ldapsync.pdxa.twitter.com
 ldapsync.pdxc.twitter.com
 ldapsync.sfo2.twitter.com
 neteng.atlc.twitter.com
-o2-staging.atla.twitter.com
-o2-staging.local.twitter.com
-o2-staging.pdxa.twitter.com
 pxe.atlc.twitter.com
 pxe.pdxa.twitter.com
 pxe.sfo2.twitter.com
@@ -47,8 +44,6 @@ trivy.atla.twitter.com
 trivy.local.twitter.com
 trivy.pdxa.twitter.com
 wlm.atlc.twitter.com
-wlm.pdxc.twitter.com
-wlm.sfo2.twitter.com
 xray-staging.local.twitter.com
 xray.atla.twitter.com
 xray.local.twitter.com

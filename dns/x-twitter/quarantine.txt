@@ -114,6 +114,9 @@ neteng.local.twitter.com
 neteng.pdxa.twitter.com
 neteng.sfo2.twitter.com
 new.wilson-stats.memy.twitter.com
+o2-staging.atla.twitter.com
+o2-staging.local.twitter.com
+o2-staging.pdxa.twitter.com
 o2.atla.twitter.com
 o2.local.twitter.com
 o2.pdxa.twitter.com
@@ -185,7 +188,9 @@ wlm.local.twitter.com
 wlm.memx.twitter.com
 wlm.memy.twitter.com
 wlm.pdxa.twitter.com
+wlm.pdxc.twitter.com
 wlm.pdxx.twitter.com
+wlm.sfo2.twitter.com
 xai-audubon.memx.twitter.com
 xai-audubon.memy.twitter.com
 xai-wilson.memx.twitter.com
