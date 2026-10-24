@@ -37,10 +37,6 @@ baremetal-console.memy.twitter.com
 baremetal-console.pdxa.twitter.com
 binaries.local.twitter.com
 bootserv.atla.twitter.com
-bootserv.local.twitter.com
-bootserv.memx.twitter.com
-bootserv.memy.twitter.com
-bootserv.memz.twitter.com
 bootserv.pdxa.twitter.com
 bootserv.pdxx.twitter.com
 compute-ipam-test.pdxa.twitter.com

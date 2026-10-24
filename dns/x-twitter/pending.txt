@@ -47,7 +47,5 @@ puppetserver.pdxv.twitter.com
 pxe.memx.twitter.com
 pxe.pdxx.twitter.com
 service-proxy.qus1.twitter.com
-staging.ipmi.wilson.atla.twitter.com
 uauth.ise.twitter.com
-xai-rds.memx.twitter.com
 yum.pdxx.twitter.com
