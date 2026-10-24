@@ -43,11 +43,15 @@ cgit.local.twitter.com
 cgit.pdxa.twitter.com
 ldapmaster.local.twitter.com
 neteng.pdxc.twitter.com
+puppetserver.atls.twitter.com
+puppetserver.atlv.twitter.com
+puppetserver.local.twitter.com
+puppetserver.pdxs.twitter.com
+puppetserver.pdxv.twitter.com
 pxe.memx.twitter.com
 pxe.pdxx.twitter.com
 service-proxy.qus1.twitter.com
 staging.ipmi.wilson.atla.twitter.com
 uauth.ise.twitter.com
 xai-rds.memx.twitter.com
-yum.pdxa.twitter.com
 yum.pdxx.twitter.com

@@ -50,4 +50,5 @@ xray.local.twitter.com
 xray.pdxa.twitter.com
 yum.atla.twitter.com
 yum.atlc.twitter.com
+yum.pdxa.twitter.com
 yum.sfo2.twitter.com

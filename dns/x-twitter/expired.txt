@@ -57,16 +57,11 @@ pdx1.twitter.com
 puppetserver.atla.twitter.com
 puppetserver.atlb.twitter.com
 puppetserver.atlc.twitter.com
-puppetserver.atls.twitter.com
-puppetserver.atlv.twitter.com
 puppetserver.dxb2.twitter.com
 puppetserver.fra2.twitter.com
-puppetserver.local.twitter.com
 puppetserver.lon3.twitter.com
 puppetserver.mia1.twitter.com
 puppetserver.pdxa.twitter.com
-puppetserver.pdxs.twitter.com
-puppetserver.pdxv.twitter.com
 puppetserver.sao1.twitter.com
 puppetserver.sfo2.twitter.com
 puppetserver.sfo3.twitter.com
