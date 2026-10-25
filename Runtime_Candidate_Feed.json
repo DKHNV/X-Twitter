@@ -61,7 +61,7 @@
       "active_cycles": 5,
       "candidate_id": "6a4e66e2b48ff07ad9f5e9cf302282bd3df50e1061cb21eedcc5f0ae2a241562",
       "current_presence": false,
-      "current_routing_status": "expired",
+      "current_routing_status": "absent",
       "first_observed": "2026-10-23T22:48:43Z",
       "hostname": "platform.twitter.com",
       "id_version": 1,
@@ -115,8 +115,8 @@
       "suffix": "x.com"
     }
   ],
-  "content_hash": "aa7cc54795be3427b63d94d2ed426e90fefc51e11f2a81eba9eb91ac142e498f",
-  "generated_at": "2026-10-24T08:59:38Z",
+  "content_hash": "a301d486e3c5fde4db6a1f8f20b37de7c28949fcc487552ba6a3dd79193dea15",
+  "generated_at": "2026-10-25T09:55:40Z",
   "hash_algorithm": "sha256",
   "history_scope": "since_analytics_start",
   "observer_id": "76e41c45-c36a-471f-9aa1-7db362959514",
