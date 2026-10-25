@@ -19,7 +19,6 @@ audubon.lon2.twitter.com
 audubon.lon3.twitter.com
 audubon.lyn1.twitter.com
 audubon.mad2.twitter.com
-audubon.memx.twitter.com
 audubon.mia1.twitter.com
 audubon.mil1.twitter.com
 audubon.mrs1.twitter.com
@@ -46,6 +45,5 @@ puppetserver.pdxs.twitter.com
 puppetserver.pdxv.twitter.com
 pxe.memx.twitter.com
 pxe.pdxx.twitter.com
-service-proxy.qus1.twitter.com
 uauth.ise.twitter.com
 yum.pdxx.twitter.com

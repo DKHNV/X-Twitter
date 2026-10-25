@@ -1,5 +1,6 @@
 api.wilson.atlc.twitter.com
 audubon.local.memz.twitter.com
+audubon.memx.twitter.com
 audubon.memz.twitter.com
 cgit.atla.twitter.com
 cgit.local.twitter.com
@@ -31,6 +32,7 @@ pxe.sfo2.twitter.com
 redfish-proxy.memx.twitter.com
 service-proxy.qua2.twitter.com
 service-proxy.qud1.twitter.com
+service-proxy.qus1.twitter.com
 service.qus1.twitter.com
 servitor.atla.twitter.com
 servitor.atlc.twitter.com
