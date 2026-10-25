@@ -86,6 +86,8 @@ gitssecondary.local.twitter.com
 hadoop-mltst.qus1.twitter.com
 hbase-pcadmin.qus1.twitter.com
 hbase-pcadmintst.qus1.twitter.com
+ipmi-proxy.local.twitter.com
+ipmi-proxy.pdxc.twitter.com
 ipmi.wilson.atla.twitter.com
 ipmi.wilson.atls.twitter.com
 ipmi.wilson.atlv.twitter.com
