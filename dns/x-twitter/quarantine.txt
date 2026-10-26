@@ -86,7 +86,10 @@ gitssecondary.local.twitter.com
 hadoop-mltst.qus1.twitter.com
 hbase-pcadmin.qus1.twitter.com
 hbase-pcadmintst.qus1.twitter.com
+ipmi-proxy.atlc.twitter.com
 ipmi-proxy.local.twitter.com
+ipmi-proxy.memx.twitter.com
+ipmi-proxy.memy.twitter.com
 ipmi-proxy.pdxc.twitter.com
 ipmi.wilson.atla.twitter.com
 ipmi.wilson.atls.twitter.com
@@ -99,15 +102,22 @@ ipmi.wilson.pdxc.twitter.com
 ipmi.wilson.pdxx.twitter.com
 ipmi.wilson.sfo2.twitter.com
 isolation.atla.twitter.com
+ldap.atla.twitter.com
 ldap.local.twitter.com
+ldap.pdxa.twitter.com
 ldap.qus1.twitter.com
+ldap.sfo2.twitter.com
+ldapsync.atla.twitter.com
 ldapsync.local.twitter.com
+ldapsync.pdxa.twitter.com
 ldapsync.qus1.twitter.com
+ldapsync.sfo2.twitter.com
 nauth1.atlc.twitter.com
 nauth1.smfc.twitter.com
 nauth2.atlc.twitter.com
 nauth2.smfc.twitter.com
 neteng.atla.twitter.com
+neteng.atlc.twitter.com
 neteng.local.twitter.com
 neteng.pdxa.twitter.com
 neteng.sfo2.twitter.com
@@ -122,6 +132,7 @@ postmaster.local.twitter.com
 pxe.atla.twitter.com
 pxe.local.twitter.com
 pxe.memy.twitter.com
+pxe.pdxa.twitter.com
 pxe.pdxc.twitter.com
 redfish-proxy.local.twitter.com
 redfish-proxy.memy.twitter.com
@@ -140,6 +151,7 @@ rogit.pdxa.twitter.com
 rogit.qus1.twitter.com
 rogit.smf1.twitter.com
 science-binaries.local.twitter.com
+service.qus1.twitter.com
 staging.ipmi.wilson.local.twitter.com
 staging.ipmi.wilson.pdxa.twitter.com
 staging.ipmi.wilson.sfo2.twitter.com
@@ -180,6 +192,7 @@ victoriametrics-d.memy.twitter.com
 wilson-stats.memy.twitter.com
 wilson.local.twitter.com
 wlm.atla.twitter.com
+wlm.atlc.twitter.com
 wlm.atls.twitter.com
 wlm.atlv.twitter.com
 wlm.local.twitter.com
@@ -193,5 +206,7 @@ xai-audubon.memx.twitter.com
 xai-audubon.memy.twitter.com
 xai-wilson.memx.twitter.com
 xai-wilson.memy.twitter.com
+yum.atla.twitter.com
+yum.atlc.twitter.com
 yum.local.twitter.com
 yum.memy.twitter.com
