@@ -20,11 +20,13 @@ audubon.atlc.twitter.com
 audubon.atlm.twitter.com
 audubon.atls.twitter.com
 audubon.atlv.twitter.com
+audubon.local.memz.twitter.com
 audubon.local.twitter.com
 audubon.memo.twitter.com
 audubon.memp.twitter.com
 audubon.memw.twitter.com
 audubon.memy.twitter.com
+audubon.memz.twitter.com
 audubon.pdxa.twitter.com
 audubon.pdxc.twitter.com
 audubon.pdxm.twitter.com
@@ -90,7 +92,9 @@ ipmi-proxy.atlc.twitter.com
 ipmi-proxy.local.twitter.com
 ipmi-proxy.memx.twitter.com
 ipmi-proxy.memy.twitter.com
+ipmi-proxy.pdxa.twitter.com
 ipmi-proxy.pdxc.twitter.com
+ipmi-proxy.pdxx.twitter.com
 ipmi.wilson.atla.twitter.com
 ipmi.wilson.atls.twitter.com
 ipmi.wilson.atlv.twitter.com
@@ -105,11 +109,13 @@ isolation.atla.twitter.com
 ldap.atla.twitter.com
 ldap.local.twitter.com
 ldap.pdxa.twitter.com
+ldap.pdxc.twitter.com
 ldap.qus1.twitter.com
 ldap.sfo2.twitter.com
 ldapsync.atla.twitter.com
 ldapsync.local.twitter.com
 ldapsync.pdxa.twitter.com
+ldapsync.pdxc.twitter.com
 ldapsync.qus1.twitter.com
 ldapsync.sfo2.twitter.com
 nauth1.atlc.twitter.com
@@ -130,6 +136,7 @@ o2.local.twitter.com
 o2.pdxa.twitter.com
 postmaster.local.twitter.com
 pxe.atla.twitter.com
+pxe.atlc.twitter.com
 pxe.local.twitter.com
 pxe.memy.twitter.com
 pxe.pdxa.twitter.com
@@ -151,9 +158,13 @@ rogit.pdxa.twitter.com
 rogit.qus1.twitter.com
 rogit.smf1.twitter.com
 science-binaries.local.twitter.com
+service-proxy.qud1.twitter.com
 service.qus1.twitter.com
+servitor.atlc.twitter.com
+servitor.local.twitter.com
 staging.ipmi.wilson.local.twitter.com
 staging.ipmi.wilson.pdxa.twitter.com
+staging.ipmi.wilson.pdxc.twitter.com
 staging.ipmi.wilson.sfo2.twitter.com
 stardock-canary.atla.twitter.com
 stardock-canary.local.twitter.com
@@ -180,6 +191,7 @@ stats.wilson.sfo2.twitter.com
 supermon.atla.twitter.com
 supermon.memx.twitter.com
 supermon.memy.twitter.com
+svn.atla.twitter.com
 svn.local.twitter.com
 syndication-o.twitter.com
 test.cftls.t.co
@@ -210,3 +222,4 @@ yum.atla.twitter.com
 yum.atlc.twitter.com
 yum.local.twitter.com
 yum.memy.twitter.com
+yum.sfo2.twitter.com
