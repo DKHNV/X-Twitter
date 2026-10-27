@@ -50,7 +50,6 @@ puppetserver.pdxs.twitter.com
 puppetserver.pdxv.twitter.com
 pxe.memx.twitter.com
 pxe.pdxx.twitter.com
-redfish-proxy.memx.twitter.com
 service-proxy.qus1.twitter.com
 staging.ipmi.wilson.atla.twitter.com
 uauth.ise.twitter.com

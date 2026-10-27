@@ -148,6 +148,7 @@ pxe.pdxa.twitter.com
 pxe.pdxc.twitter.com
 pxe.sfo2.twitter.com
 redfish-proxy.local.twitter.com
+redfish-proxy.memx.twitter.com
 redfish-proxy.memy.twitter.com
 redfish-proxy.pdxa.twitter.com
 registry-rw-test.atla.twitter.com
