@@ -245,4 +245,5 @@ yum.atla.twitter.com
 yum.atlc.twitter.com
 yum.local.twitter.com
 yum.memy.twitter.com
+yum.pdxa.twitter.com
 yum.sfo2.twitter.com

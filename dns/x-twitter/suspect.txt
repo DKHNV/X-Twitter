@@ -54,5 +54,4 @@ service-proxy.qus1.twitter.com
 staging.ipmi.wilson.atla.twitter.com
 uauth.ise.twitter.com
 xai-rds.memx.twitter.com
-yum.pdxa.twitter.com
 yum.pdxx.twitter.com

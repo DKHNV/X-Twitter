@@ -1,5 +1,6 @@
 api.wilson.pdxs.twitter.com
 api.wilson.pdxv.twitter.com
+atl1.twitter.com
 audubon.pdxx.twitter.com
 dnsmgr.atls.twitter.com
 dnsmgr.pdxs.twitter.com
