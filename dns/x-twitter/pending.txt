@@ -1,14 +1,11 @@
 api.wilson.pdxs.twitter.com
 api.wilson.pdxv.twitter.com
 audubon.pdxx.twitter.com
+dnsmgr.atls.twitter.com
+dnsmgr.pdxs.twitter.com
 ipmi.wilson.pdxs.twitter.com
 ipmi.wilson.pdxv.twitter.com
 neteng.memx.twitter.com
-puppetserver.atls.twitter.com
-puppetserver.atlv.twitter.com
-puppetserver.local.twitter.com
-puppetserver.pdxs.twitter.com
-puppetserver.pdxv.twitter.com
 stats.wilson.pdxs.twitter.com
 stats.wilson.pdxv.twitter.com
 wlm.pdxs.twitter.com

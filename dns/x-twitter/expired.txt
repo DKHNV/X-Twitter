@@ -11,10 +11,8 @@ compute-qus1-c4.twitter.com
 compute.qua2.twitter.com
 compute.qud1.twitter.com
 dnsmgr.atla.twitter.com
-dnsmgr.atls.twitter.com
 dnsmgr.local.twitter.com
 dnsmgr.pdxa.twitter.com
-dnsmgr.pdxs.twitter.com
 hadoop-backups-nn.atla.twitter.com
 hadoop-backups-rm.atla.twitter.com
 hadoop-bluebird.qus1.twitter.com
