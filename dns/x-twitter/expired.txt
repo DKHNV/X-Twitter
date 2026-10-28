@@ -90,8 +90,6 @@ sai.twitter.com
 thermos-proxy.atla.twitter.com
 thermos-proxy.local.twitter.com
 thermos-proxy.pdxa.twitter.com
-wekas3.atla.twitter.com
 xai-repairhub.memx.twitter.com
 xai-wlm.memx.twitter.com
-yum.memx.twitter.com
 yum.pdxc.twitter.com
