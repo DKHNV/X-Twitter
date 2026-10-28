@@ -26,6 +26,7 @@ audubon.local.twitter.com
 audubon.memo.twitter.com
 audubon.memp.twitter.com
 audubon.memw.twitter.com
+audubon.memx.twitter.com
 audubon.memy.twitter.com
 audubon.memz.twitter.com
 audubon.pdxa.twitter.com
@@ -171,6 +172,7 @@ rogit.smf1.twitter.com
 science-binaries.local.twitter.com
 service-proxy.qua2.twitter.com
 service-proxy.qud1.twitter.com
+service-proxy.qus1.twitter.com
 service.qus1.twitter.com
 servitor.atla.twitter.com
 servitor.atlc.twitter.com

@@ -48,7 +48,6 @@ nessus1.atls.twitter.com
 nessus2.atla.twitter.com
 nessus3.atla.twitter.com
 nessus4.atla.twitter.com
-pdx1.twitter.com
 puppetserver.atla.twitter.com
 puppetserver.atlb.twitter.com
 puppetserver.atlc.twitter.com
