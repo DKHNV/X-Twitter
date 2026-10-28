@@ -1,17 +1,8 @@
-api.wilson.pdxs.twitter.com
-api.wilson.pdxv.twitter.com
 atl1.twitter.com
-audubon.pdxx.twitter.com
 dnsmgr.atls.twitter.com
 dnsmgr.pdxs.twitter.com
-ipmi.wilson.pdxs.twitter.com
-ipmi.wilson.pdxv.twitter.com
 neteng.memx.twitter.com
-stats.wilson.pdxs.twitter.com
-stats.wilson.pdxv.twitter.com
 wekas3.atla.twitter.com
-wlm.pdxs.twitter.com
-wlm.pdxv.twitter.com
 xai-ndb.memx.twitter.com
 xai-twippy.memx.twitter.com
 yum.memx.twitter.com

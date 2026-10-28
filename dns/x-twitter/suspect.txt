@@ -1,3 +1,5 @@
+api.wilson.pdxs.twitter.com
+api.wilson.pdxv.twitter.com
 audubon.ams1.twitter.com
 audubon.atl2.twitter.com
 audubon.atl4.twitter.com
@@ -27,6 +29,7 @@ audubon.nyc1.twitter.com
 audubon.nyc2.twitter.com
 audubon.pao1.twitter.com
 audubon.par1.twitter.com
+audubon.pdxx.twitter.com
 audubon.sao1.twitter.com
 audubon.sea2.twitter.com
 audubon.sfd1.twitter.com
@@ -38,6 +41,8 @@ audubon.syd1.twitter.com
 audubon.syd2.twitter.com
 audubon.tyo1.twitter.com
 audubon.tyo3.twitter.com
+ipmi.wilson.pdxs.twitter.com
+ipmi.wilson.pdxv.twitter.com
 ldapmaster.local.twitter.com
 puppetserver.atls.twitter.com
 puppetserver.atlv.twitter.com
@@ -47,7 +52,9 @@ puppetserver.pdxv.twitter.com
 pxe.memx.twitter.com
 pxe.pdxx.twitter.com
 service-proxy.qus1.twitter.com
-staging.ipmi.wilson.atla.twitter.com
+stats.wilson.pdxs.twitter.com
+stats.wilson.pdxv.twitter.com
 uauth.ise.twitter.com
-xai-rds.memx.twitter.com
+wlm.pdxs.twitter.com
+wlm.pdxv.twitter.com
 yum.pdxx.twitter.com
