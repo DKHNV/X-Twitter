@@ -3,5 +3,6 @@ dnsmgr.atls.twitter.com
 dnsmgr.pdxs.twitter.com
 neteng.memx.twitter.com
 pdx1.twitter.com
+redfish-proxy.pdxx.twitter.com
 wekas3.atla.twitter.com
 yum.memx.twitter.com

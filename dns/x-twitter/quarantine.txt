@@ -148,6 +148,7 @@ postmaster.local.twitter.com
 pxe.atla.twitter.com
 pxe.atlc.twitter.com
 pxe.local.twitter.com
+pxe.memx.twitter.com
 pxe.memy.twitter.com
 pxe.pdxa.twitter.com
 pxe.pdxc.twitter.com

@@ -48,7 +48,6 @@ puppetserver.atlv.twitter.com
 puppetserver.local.twitter.com
 puppetserver.pdxs.twitter.com
 puppetserver.pdxv.twitter.com
-pxe.memx.twitter.com
 pxe.pdxx.twitter.com
 stats.wilson.pdxs.twitter.com
 stats.wilson.pdxv.twitter.com
