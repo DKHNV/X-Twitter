@@ -152,6 +152,7 @@ pxe.memx.twitter.com
 pxe.memy.twitter.com
 pxe.pdxa.twitter.com
 pxe.pdxc.twitter.com
+pxe.pdxx.twitter.com
 pxe.sfo2.twitter.com
 redfish-proxy.local.twitter.com
 redfish-proxy.memx.twitter.com
@@ -224,6 +225,7 @@ trivy.local.twitter.com
 trivy.pdxa.twitter.com
 tw-ton.twitter.com
 twimg.com
+uauth.ise.twitter.com
 victoriametrics-a.memy.twitter.com
 victoriametrics-b.memy.twitter.com
 victoriametrics-c.memy.twitter.com
@@ -255,4 +257,5 @@ yum.atlc.twitter.com
 yum.local.twitter.com
 yum.memy.twitter.com
 yum.pdxa.twitter.com
+yum.pdxx.twitter.com
 yum.sfo2.twitter.com
