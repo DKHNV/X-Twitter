@@ -43,6 +43,7 @@ audubon.tyo3.twitter.com
 ipmi.wilson.pdxs.twitter.com
 ipmi.wilson.pdxv.twitter.com
 ldapmaster.local.twitter.com
+neteng.memx.twitter.com
 puppetserver.atls.twitter.com
 puppetserver.atlv.twitter.com
 puppetserver.local.twitter.com
