@@ -120,6 +120,7 @@ ldap.pdxa.twitter.com
 ldap.pdxc.twitter.com
 ldap.qus1.twitter.com
 ldap.sfo2.twitter.com
+ldapmaster.local.twitter.com
 ldapsync.atla.twitter.com
 ldapsync.atlc.twitter.com
 ldapsync.local.twitter.com
