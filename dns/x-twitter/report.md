@@ -1,6 +1,6 @@
 # X-Twitter DNS Maintenance Report
 
-Generated: `2026-10-30T13:44:36Z`
+Generated: `2026-10-30T22:44:35Z`
 
 ## DNS lifecycle
 
@@ -8,8 +8,8 @@ Generated: `2026-10-30T13:44:36Z`
 |---|---:|
 | Active | 32 |
 | Pending | 5 |
-| Suspect | 58 |
-| Quarantine | 262 |
+| Suspect | 19 |
+| Quarantine | 301 |
 | Excluded | 0 |
 | Expired | 93 |
 
@@ -40,16 +40,16 @@ Average stability: **81.2%**
 
 | Hostname | State | Since | Observations | Last error | IPv4 | Stability | Samples |
 |---|---|---|---:|---|---|---:|---:|
-| `mx3.twitter.com` | dead | `2026-08-21T12:31:52Z` | 264 | TIMEOUT | 199.59.148.207 | 0.0 | 52 |
-| `mx4.twitter.com` | dead | `2026-08-21T12:31:52Z` | 264 | TIMEOUT | 199.16.156.115 | 0.0 | 52 |
-| `r.twimg.com` | dead | `2026-08-21T09:44:03Z` | 265 | TIMEOUT | 104.244.42.137, 104.244.42.201, 104.244.42.73 | 0.0 | 52 |
-| `syndication-o.twimg.com` | dead | `2026-08-21T09:44:03Z` | 265 | TIMEOUT | 104.244.42.137, 104.244.42.201, 104.244.42.73 | 0.0 | 52 |
-| `syndication.twimg.com` | dead | `2026-08-21T09:44:03Z` | 265 | TIMEOUT | 104.244.42.136, 104.244.42.200, 104.244.42.8 | 0.0 | 52 |
-| `www.t.co` | dead | `2026-08-21T09:44:03Z` | 265 | TLS_ERROR | 162.159.140.229, 172.66.0.227 | 0.0 | 52 |
+| `mx3.twitter.com` | dead | `2026-08-21T12:31:52Z` | 265 | TIMEOUT | 199.59.148.207 | 0.0 | 51 |
+| `mx4.twitter.com` | dead | `2026-08-21T12:31:52Z` | 265 | TIMEOUT | 199.16.156.115 | 0.0 | 51 |
+| `r.twimg.com` | dead | `2026-08-21T09:44:03Z` | 266 | TIMEOUT | 104.244.42.201, 104.244.42.73, 104.244.42.9 | 0.0 | 51 |
+| `syndication-o.twimg.com` | dead | `2026-08-21T09:44:03Z` | 266 | TIMEOUT | 104.244.42.137, 104.244.42.201, 104.244.42.73 | 0.0 | 51 |
+| `syndication.twimg.com` | dead | `2026-08-21T09:44:03Z` | 266 | TIMEOUT | 104.244.42.136, 104.244.42.200, 104.244.42.8 | 0.0 | 51 |
+| `www.t.co` | dead | `2026-08-21T09:44:03Z` | 266 | TLS_ERROR | 172.66.0.227 | 0.0 | 51 |
 
 ## Discovery
 
-Discovery state updated: `2026-10-30T13:44:36Z`
+Discovery state updated: `2026-10-30T22:44:35Z`
 
 ## Notes
 
