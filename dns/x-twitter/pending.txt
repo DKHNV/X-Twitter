@@ -1,4 +1,5 @@
 baremetal-tenancy-broker.local.twitter.com
+baremetal-tenancy-broker.memx.twitter.com
 baremetal-tenancy-broker.memy.twitter.com
 pdx1.twitter.com
 redfish-proxy.pdxx.twitter.com
