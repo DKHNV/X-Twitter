@@ -1,6 +1,4 @@
-baremetal-tenancy-broker.local.twitter.com
 baremetal-tenancy-broker.memx.twitter.com
-baremetal-tenancy-broker.memy.twitter.com
 bootserv.local.twitter.com
 bootserv.memx.twitter.com
 bootserv.memy.twitter.com

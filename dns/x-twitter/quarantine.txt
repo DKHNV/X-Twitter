@@ -185,6 +185,11 @@ o2.atla.twitter.com
 o2.local.twitter.com
 o2.pdxa.twitter.com
 postmaster.local.twitter.com
+puppetserver.atls.twitter.com
+puppetserver.atlv.twitter.com
+puppetserver.local.twitter.com
+puppetserver.pdxs.twitter.com
+puppetserver.pdxv.twitter.com
 pxe.atla.twitter.com
 pxe.atlc.twitter.com
 pxe.local.twitter.com
