@@ -5,6 +5,4 @@ neteng.memx.twitter.com
 pdx1.twitter.com
 redfish-proxy.pdxx.twitter.com
 wekas3.atla.twitter.com
-xai-ndb.memx.twitter.com
-xai-twippy.memx.twitter.com
 yum.memx.twitter.com

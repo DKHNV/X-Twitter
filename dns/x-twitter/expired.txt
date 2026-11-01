@@ -2,9 +2,6 @@ compute-qus1-c3.twitter.com
 compute-qus1-c4.twitter.com
 compute.qua2.twitter.com
 compute.qud1.twitter.com
-dnsmgr.atla.twitter.com
-dnsmgr.local.twitter.com
-dnsmgr.pdxa.twitter.com
 hadoop-backups-nn.atla.twitter.com
 hadoop-backups-rm.atla.twitter.com
 hadoop-bluebird.qus1.twitter.com
@@ -77,7 +74,6 @@ puppetserver3.smfc.twitter.com
 puppetserver3.smfv.twitter.com
 puppetserver3.syd2.twitter.com
 puppetserver3.tyo3.twitter.com
-sai.twitter.com
 thermos-proxy.atla.twitter.com
 thermos-proxy.local.twitter.com
 thermos-proxy.pdxa.twitter.com
