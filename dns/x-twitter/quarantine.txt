@@ -7,6 +7,8 @@ api.wilson.memx.twitter.com
 api.wilson.memy.twitter.com
 api.wilson.pdxa.twitter.com
 api.wilson.pdxc.twitter.com
+api.wilson.pdxs.twitter.com
+api.wilson.pdxv.twitter.com
 api.wilson.pdxx.twitter.com
 api.wilson.sfo2.twitter.com
 artifactory-ci-krb.local.twitter.com
@@ -62,6 +64,7 @@ audubon.pdxc.twitter.com
 audubon.pdxm.twitter.com
 audubon.pdxs.twitter.com
 audubon.pdxv.twitter.com
+audubon.pdxx.twitter.com
 audubon.sao1.twitter.com
 audubon.sea2.twitter.com
 audubon.sfd1.twitter.com
@@ -149,6 +152,8 @@ ipmi.wilson.memx.twitter.com
 ipmi.wilson.memy.twitter.com
 ipmi.wilson.pdxa.twitter.com
 ipmi.wilson.pdxc.twitter.com
+ipmi.wilson.pdxs.twitter.com
+ipmi.wilson.pdxv.twitter.com
 ipmi.wilson.pdxx.twitter.com
 ipmi.wilson.sfo2.twitter.com
 isolation.atla.twitter.com
@@ -254,6 +259,8 @@ stats.wilson.memx.twitter.com
 stats.wilson.memy.twitter.com
 stats.wilson.pdxa.twitter.com
 stats.wilson.pdxc.twitter.com
+stats.wilson.pdxs.twitter.com
+stats.wilson.pdxv.twitter.com
 stats.wilson.pdxx.twitter.com
 stats.wilson.sfo2.twitter.com
 supermon.atla.twitter.com
@@ -286,6 +293,8 @@ wlm.memx.twitter.com
 wlm.memy.twitter.com
 wlm.pdxa.twitter.com
 wlm.pdxc.twitter.com
+wlm.pdxs.twitter.com
+wlm.pdxv.twitter.com
 wlm.pdxx.twitter.com
 wlm.sfo2.twitter.com
 xai-audubon.memx.twitter.com
