@@ -7,6 +7,8 @@ dnsmgr.pdxs.twitter.com
 ipmi.wilson.pdxs.twitter.com
 ipmi.wilson.pdxv.twitter.com
 neteng.memx.twitter.com
+pdx1.twitter.com
+redfish-proxy.pdxx.twitter.com
 stats.wilson.pdxs.twitter.com
 stats.wilson.pdxv.twitter.com
 wekas3.atla.twitter.com
