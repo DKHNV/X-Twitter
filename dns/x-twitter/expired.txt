@@ -1,3 +1,6 @@
+audubon.memo.twitter.com
+audubon.memp.twitter.com
+audubon.memw.twitter.com
 compute-qus1-c3.twitter.com
 compute-qus1-c4.twitter.com
 compute.qua2.twitter.com
