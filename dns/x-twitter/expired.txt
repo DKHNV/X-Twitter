@@ -82,4 +82,3 @@ thermos-proxy.local.twitter.com
 thermos-proxy.pdxa.twitter.com
 xai-repairhub.memx.twitter.com
 xai-wlm.memx.twitter.com
-yum.pdxc.twitter.com

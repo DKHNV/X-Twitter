@@ -1,17 +1,17 @@
 # X-Twitter DNS Maintenance Report
 
-Generated: `2026-11-03T07:26:21Z`
+Generated: `2026-11-03T19:55:15Z`
 
 ## DNS lifecycle
 
 | State | Hosts |
 |---|---:|
 | Active | 32 |
-| Pending | 9 |
+| Pending | 10 |
 | Suspect | 7 |
 | Quarantine | 317 |
 | Excluded | 0 |
-| Expired | 85 |
+| Expired | 84 |
 
 ## HTTPS/TLS observation
 
@@ -40,16 +40,16 @@ Average stability: **81.2%**
 
 | Hostname | State | Since | Observations | Last error | IPv4 | Stability | Samples |
 |---|---|---|---:|---|---|---:|---:|
-| `mx3.twitter.com` | dead | `2026-08-21T12:31:52Z` | 274 | TIMEOUT | 199.59.148.207 | 0.0 | 48 |
-| `mx4.twitter.com` | dead | `2026-08-21T12:31:52Z` | 274 | TIMEOUT | 199.16.156.115 | 0.0 | 48 |
-| `r.twimg.com` | dead | `2026-08-21T09:44:03Z` | 275 | TIMEOUT | 104.244.42.137, 104.244.42.201, 104.244.42.73 | 0.0 | 48 |
-| `syndication-o.twimg.com` | dead | `2026-08-21T09:44:03Z` | 275 | TIMEOUT | 104.244.42.137, 104.244.42.201, 104.244.42.73 | 0.0 | 48 |
-| `syndication.twimg.com` | dead | `2026-08-21T09:44:03Z` | 275 | TIMEOUT | 104.244.42.200, 104.244.42.72, 104.244.42.8 | 0.0 | 48 |
-| `www.t.co` | dead | `2026-08-21T09:44:03Z` | 275 | TLS_ERROR | 162.159.140.229, 172.66.0.227 | 0.0 | 48 |
+| `mx3.twitter.com` | dead | `2026-08-21T12:31:52Z` | 275 | TIMEOUT | 199.59.148.207 | 0.0 | 47 |
+| `mx4.twitter.com` | dead | `2026-08-21T12:31:52Z` | 275 | TIMEOUT | 199.16.156.115 | 0.0 | 47 |
+| `r.twimg.com` | dead | `2026-08-21T09:44:03Z` | 276 | TIMEOUT | 104.244.42.137, 104.244.42.201, 104.244.42.73 | 0.0 | 47 |
+| `syndication-o.twimg.com` | dead | `2026-08-21T09:44:03Z` | 276 | TIMEOUT | 104.244.42.137, 104.244.42.201, 104.244.42.73 | 0.0 | 47 |
+| `syndication.twimg.com` | dead | `2026-08-21T09:44:03Z` | 276 | TIMEOUT | 104.244.42.136, 104.244.42.200, 104.244.42.72 | 0.0 | 47 |
+| `www.t.co` | dead | `2026-08-21T09:44:03Z` | 276 | TLS_ERROR | 162.159.140.229, 172.66.0.227 | 0.0 | 47 |
 
 ## Discovery
 
-Discovery state updated: `2026-11-03T07:26:21Z`
+Discovery state updated: `2026-11-03T19:55:15Z`
 
 ## Notes
 
