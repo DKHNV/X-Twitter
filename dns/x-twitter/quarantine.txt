@@ -99,6 +99,8 @@ compute.pdxa.twitter.com
 configbus.local.twitter.com
 ddns3.atla.twitter.com
 dev.cftls.t.co
+dnsmgr.atls.twitter.com
+dnsmgr.pdxs.twitter.com
 docker-local.artifactory.local.twitter.com
 docker-public.artifactory.local.twitter.com
 docker-releases-local.artifactory.local.twitter.com
@@ -176,6 +178,7 @@ nauth2.smfc.twitter.com
 neteng.atla.twitter.com
 neteng.atlc.twitter.com
 neteng.local.twitter.com
+neteng.memx.twitter.com
 neteng.pdxa.twitter.com
 neteng.pdxc.twitter.com
 neteng.sfo2.twitter.com
