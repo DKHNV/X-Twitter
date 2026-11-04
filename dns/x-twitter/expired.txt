@@ -76,8 +76,6 @@ puppetserver3.smfc.twitter.com
 puppetserver3.smfv.twitter.com
 puppetserver3.syd2.twitter.com
 puppetserver3.tyo3.twitter.com
-thermos-proxy.atla.twitter.com
-thermos-proxy.local.twitter.com
 thermos-proxy.pdxa.twitter.com
 xai-repairhub.memx.twitter.com
 xai-wlm.memx.twitter.com

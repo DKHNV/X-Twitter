@@ -5,4 +5,6 @@ dnsmgr.atla.twitter.com
 dnsmgr.local.twitter.com
 dnsmgr.pdxa.twitter.com
 sai.twitter.com
+thermos-proxy.atla.twitter.com
+thermos-proxy.local.twitter.com
 yum.pdxc.twitter.com
