@@ -17,6 +17,7 @@ artifactory-krb.local.twitter.com
 artifactory-staging-krb.local.twitter.com
 artifactory-staging.local.twitter.com
 artifactory.local.twitter.com
+atl1.twitter.com
 audubon.ams1.twitter.com
 audubon.atl2.twitter.com
 audubon.atl4.twitter.com
@@ -282,6 +283,7 @@ victoriametrics-a.memy.twitter.com
 victoriametrics-b.memy.twitter.com
 victoriametrics-c.memy.twitter.com
 victoriametrics-d.memy.twitter.com
+wekas3.atla.twitter.com
 wilson-stats.memy.twitter.com
 wilson.local.twitter.com
 wlm.atla.twitter.com
@@ -311,6 +313,7 @@ xray.pdxa.twitter.com
 yum.atla.twitter.com
 yum.atlc.twitter.com
 yum.local.twitter.com
+yum.memx.twitter.com
 yum.memy.twitter.com
 yum.pdxa.twitter.com
 yum.pdxx.twitter.com
