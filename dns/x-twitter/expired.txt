@@ -1,3 +1,5 @@
+artifactory-staging-krb.local.twitter.com
+artifactory-staging.local.twitter.com
 audubon.atla.twitter.com
 audubon.local.twitter.com
 audubon.memo.twitter.com
@@ -12,7 +14,6 @@ compute-prod-admiral.smf1.twitter.com
 compute-prod-anchor.pdxa.twitter.com
 compute-prod-truck.pdxa.twitter.com
 compute-prod-voyage.atla.twitter.com
-compute-qus1-c3.twitter.com
 compute-test-port.pdxa.twitter.com
 compute-test.pdxa.twitter.com
 compute.pdxa.twitter.com
@@ -55,12 +56,6 @@ nauth1.atlc.twitter.com
 nauth1.smfc.twitter.com
 nauth2.atlc.twitter.com
 nauth2.smfc.twitter.com
-nessus1.atla.twitter.com
-nessus1.atlc.twitter.com
-nessus1.atls.twitter.com
-nessus2.atla.twitter.com
-nessus3.atla.twitter.com
-nessus4.atla.twitter.com
 puppetserver.atla.twitter.com
 puppetserver.atlb.twitter.com
 puppetserver.atlc.twitter.com
@@ -99,6 +94,5 @@ puppetserver3.syd2.twitter.com
 puppetserver3.tyo3.twitter.com
 registry-test.pdxa.twitter.com
 registry.pdxa.twitter.com
-thermos-proxy.pdxa.twitter.com
 xai-repairhub.memx.twitter.com
 xai-wlm.memx.twitter.com
