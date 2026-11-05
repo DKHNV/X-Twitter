@@ -1,10 +1,7 @@
 audubon.aust.twitter.com
 audubon.hhry.twitter.com
 compute-qus1-c4.twitter.com
-dnsmgr.atla.twitter.com
-dnsmgr.local.twitter.com
-dnsmgr.pdxa.twitter.com
-sai.twitter.com
+kf.qus1.twitter.com
 thermos-proxy.atla.twitter.com
 thermos-proxy.local.twitter.com
 yum.pdxc.twitter.com
