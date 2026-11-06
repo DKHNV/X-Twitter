@@ -70,7 +70,6 @@ audubon.syd1.twitter.com
 audubon.syd2.twitter.com
 audubon.tyo1.twitter.com
 audubon.tyo3.twitter.com
-baremetal-console.atla.twitter.com
 baremetal-console.memx.twitter.com
 binaries.local.twitter.com
 bootserv.atla.twitter.com
@@ -280,7 +279,6 @@ xai-audubon.memy.twitter.com
 xai-ndb.memx.twitter.com
 xai-rds.memx.twitter.com
 xai-twippy.memx.twitter.com
-xai-wilson.memx.twitter.com
 xai-wilson.memy.twitter.com
 xray-staging.local.twitter.com
 xray.atla.twitter.com

@@ -5,6 +5,7 @@ audubon.local.twitter.com
 audubon.memo.twitter.com
 audubon.memp.twitter.com
 audubon.memw.twitter.com
+baremetal-console.atla.twitter.com
 baremetal-console.local.twitter.com
 baremetal-console.memy.twitter.com
 baremetal-console.pdxa.twitter.com
@@ -95,4 +96,5 @@ puppetserver3.tyo3.twitter.com
 registry-test.pdxa.twitter.com
 registry.pdxa.twitter.com
 xai-repairhub.memx.twitter.com
+xai-wilson.memx.twitter.com
 xai-wlm.memx.twitter.com
