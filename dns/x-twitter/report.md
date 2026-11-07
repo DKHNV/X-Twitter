@@ -1,15 +1,15 @@
 # X-Twitter DNS Maintenance Report
 
-Generated: `2026-11-07T13:41:24Z`
+Generated: `2026-11-07T22:26:48Z`
 
 ## DNS lifecycle
 
 | State | Hosts |
 |---|---:|
 | Active | 32 |
-| Pending | 17 |
-| Suspect | 13 |
-| Quarantine | 290 |
+| Pending | 15 |
+| Suspect | 14 |
+| Quarantine | 291 |
 | Excluded | 0 |
 | Expired | 106 |
 
@@ -40,16 +40,16 @@ Average stability: **81.2%**
 
 | Hostname | State | Since | Observations | Last error | IPv4 | Stability | Samples |
 |---|---|---|---:|---|---|---:|---:|
-| `mx3.twitter.com` | dead | `2026-08-21T12:31:52Z` | 283 | TIMEOUT | 199.59.148.207 | 0.0 | 40 |
-| `mx4.twitter.com` | dead | `2026-08-21T12:31:52Z` | 283 | TIMEOUT | 199.16.156.115 | 0.0 | 40 |
-| `r.twimg.com` | dead | `2026-08-21T09:44:03Z` | 284 | TIMEOUT | 104.244.42.137, 104.244.42.201, 104.244.42.73 | 0.0 | 40 |
-| `syndication-o.twimg.com` | dead | `2026-08-21T09:44:03Z` | 284 | TIMEOUT | 104.244.42.137, 104.244.42.201, 104.244.42.73 | 0.0 | 40 |
-| `syndication.twimg.com` | dead | `2026-08-21T09:44:03Z` | 284 | TIMEOUT | 104.244.42.136, 104.244.42.72, 104.244.42.8 | 0.0 | 40 |
-| `www.t.co` | dead | `2026-08-21T09:44:03Z` | 284 | TLS_ERROR | 162.159.140.229 | 0.0 | 40 |
+| `mx3.twitter.com` | dead | `2026-08-21T12:31:52Z` | 284 | TIMEOUT | 199.59.148.207 | 0.0 | 39 |
+| `mx4.twitter.com` | dead | `2026-08-21T12:31:52Z` | 284 | TIMEOUT | 199.16.156.115 | 0.0 | 39 |
+| `r.twimg.com` | dead | `2026-08-21T09:44:03Z` | 285 | TIMEOUT | 104.244.42.137, 104.244.42.201, 104.244.42.9 | 0.0 | 39 |
+| `syndication-o.twimg.com` | dead | `2026-08-21T09:44:03Z` | 285 | TIMEOUT | 104.244.42.137, 104.244.42.201, 104.244.42.73 | 0.0 | 39 |
+| `syndication.twimg.com` | dead | `2026-08-21T09:44:03Z` | 285 | TIMEOUT | 104.244.42.200, 104.244.42.72, 104.244.42.8 | 0.0 | 39 |
+| `www.t.co` | dead | `2026-08-21T09:44:03Z` | 285 | TLS_ERROR | 162.159.140.229, 172.66.0.227 | 0.0 | 39 |
 
 ## Discovery
 
-Discovery state updated: `2026-11-07T13:41:24Z`
+Discovery state updated: `2026-11-07T22:26:48Z`
 
 ## Notes
 
