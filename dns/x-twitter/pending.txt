@@ -1,5 +1,3 @@
-audubon.aust.twitter.com
-audubon.hhry.twitter.com
 baremetal-console.atlc.twitter.com
 baremetal-console.aust.twitter.com
 baremetal-console.memw.twitter.com
@@ -7,7 +5,6 @@ baremetal-console.memz.twitter.com
 baremetal-console.pdxc.twitter.com
 baremetal-console.pdxx.twitter.com
 compute-qus1-c3.twitter.com
-compute-qus1-c4.twitter.com
 kf.qus1.twitter.com
 nessus1.atla.twitter.com
 nessus1.atlc.twitter.com

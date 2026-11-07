@@ -1,8 +1,11 @@
+audubon.aust.twitter.com
+audubon.hhry.twitter.com
 baremetal-tenancy-broker.memx.twitter.com
 bootserv.local.twitter.com
 bootserv.memx.twitter.com
 bootserv.memy.twitter.com
 bootserv.memz.twitter.com
+compute-qus1-c4.twitter.com
 dnsmgr.atla.twitter.com
 dnsmgr.local.twitter.com
 dnsmgr.pdxa.twitter.com
