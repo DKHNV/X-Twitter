@@ -21,7 +21,6 @@ audubon.atl2.twitter.com
 audubon.atl4.twitter.com
 audubon.atlb.twitter.com
 audubon.atlc.twitter.com
-audubon.atlm.twitter.com
 audubon.atls.twitter.com
 audubon.atlv.twitter.com
 audubon.chi1.twitter.com
@@ -70,11 +69,9 @@ audubon.syd1.twitter.com
 audubon.syd2.twitter.com
 audubon.tyo1.twitter.com
 audubon.tyo3.twitter.com
-baremetal-console.memx.twitter.com
+baremetal-tenancy-broker.local.twitter.com
+baremetal-tenancy-broker.memy.twitter.com
 binaries.local.twitter.com
-bootserv.atla.twitter.com
-bootserv.pdxa.twitter.com
-bootserv.pdxx.twitter.com
 cgit.atla.twitter.com
 cgit.local.twitter.com
 cgit.pdxa.twitter.com
@@ -240,7 +237,6 @@ stats.wilson.pdxv.twitter.com
 stats.wilson.pdxx.twitter.com
 stats.wilson.sfo2.twitter.com
 supermon.atla.twitter.com
-supermon.memx.twitter.com
 supermon.memy.twitter.com
 svn.atla.twitter.com
 svn.local.twitter.com
