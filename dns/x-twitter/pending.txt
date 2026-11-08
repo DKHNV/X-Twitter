@@ -5,7 +5,6 @@ baremetal-console.memz.twitter.com
 baremetal-console.pdxc.twitter.com
 baremetal-console.pdxx.twitter.com
 compute-qus1-c3.twitter.com
-kf.qus1.twitter.com
 nessus1.atla.twitter.com
 nessus1.atlc.twitter.com
 nessus1.atls.twitter.com
