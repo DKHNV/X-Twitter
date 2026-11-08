@@ -79,7 +79,10 @@ compute.atla.twitter.com
 configbus.local.twitter.com
 ddns3.atla.twitter.com
 dev.cftls.t.co
+dnsmgr.atla.twitter.com
 dnsmgr.atls.twitter.com
+dnsmgr.local.twitter.com
+dnsmgr.pdxa.twitter.com
 dnsmgr.pdxs.twitter.com
 docker-local.artifactory.local.twitter.com
 docker-public.artifactory.local.twitter.com
@@ -191,6 +194,7 @@ rogit.local.twitter.com
 rogit.pdxa.twitter.com
 rogit.qus1.twitter.com
 rogit.smf1.twitter.com
+sai.twitter.com
 science-binaries.local.twitter.com
 service-proxy.qua2.twitter.com
 service-proxy.qud1.twitter.com
