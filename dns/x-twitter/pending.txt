@@ -1,6 +1,0 @@
-baremetal-console.atlc.twitter.com
-baremetal-console.aust.twitter.com
-baremetal-console.memw.twitter.com
-baremetal-console.memz.twitter.com
-baremetal-console.pdxc.twitter.com
-baremetal-console.pdxx.twitter.com
