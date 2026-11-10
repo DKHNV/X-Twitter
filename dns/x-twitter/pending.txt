@@ -1,0 +1,5 @@
+audubon.local.twitter.com
+audubon.memo.twitter.com
+audubon.memp.twitter.com
+audubon.memu.twitter.com
+audubon.memw.twitter.com
