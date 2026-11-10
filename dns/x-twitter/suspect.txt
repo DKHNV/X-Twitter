@@ -18,4 +18,3 @@ nessus4.atla.twitter.com
 thermos-proxy.atla.twitter.com
 thermos-proxy.local.twitter.com
 thermos-proxy.pdxa.twitter.com
-yum.pdxc.twitter.com

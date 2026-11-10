@@ -259,5 +259,6 @@ yum.local.twitter.com
 yum.memx.twitter.com
 yum.memy.twitter.com
 yum.pdxa.twitter.com
+yum.pdxc.twitter.com
 yum.pdxx.twitter.com
 yum.sfo2.twitter.com
