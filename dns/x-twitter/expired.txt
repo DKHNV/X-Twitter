@@ -81,6 +81,7 @@ hadoop-tst-rm.atla.twitter.com
 hbase-pcadmin.qus1.twitter.com
 hbase-pcadmintst.qus1.twitter.com
 ipmi.wilson.local.twitter.com
+isolation.atla.twitter.com
 looker-devel.qus1.twitter.com
 looker-staging.qus1.twitter.com
 nauth1.atlc.twitter.com
@@ -133,6 +134,9 @@ rogit.qus1.twitter.com
 rogit.smf1.twitter.com
 stats.wilson.local.twitter.com
 supermon.memx.twitter.com
+wlm.local.twitter.com
+wlm.pdxa.twitter.com
+wlm.pdxx.twitter.com
 xai-repairhub.memx.twitter.com
 xai-wilson.memx.twitter.com
 xai-wlm.memx.twitter.com
