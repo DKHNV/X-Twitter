@@ -73,6 +73,7 @@ bootserv.memz.twitter.com
 cgit.atla.twitter.com
 cgit.local.twitter.com
 cgit.pdxa.twitter.com
+compute-qus1-c3.twitter.com
 compute-qus1-c4.twitter.com
 compute-test.atla.twitter.com
 compute.atla.twitter.com
@@ -120,6 +121,12 @@ ldapsync.pdxa.twitter.com
 ldapsync.pdxc.twitter.com
 ldapsync.qus1.twitter.com
 ldapsync.sfo2.twitter.com
+nessus1.atla.twitter.com
+nessus1.atlc.twitter.com
+nessus1.atls.twitter.com
+nessus2.atla.twitter.com
+nessus3.atla.twitter.com
+nessus4.atla.twitter.com
 neteng.atla.twitter.com
 neteng.atlc.twitter.com
 neteng.local.twitter.com
@@ -193,6 +200,7 @@ svn.pdxa.twitter.com
 test.cftls.t.co
 thermos-proxy.atla.twitter.com
 thermos-proxy.local.twitter.com
+thermos-proxy.pdxa.twitter.com
 trivy-staging.local.twitter.com
 trivy.atla.twitter.com
 trivy.local.twitter.com
