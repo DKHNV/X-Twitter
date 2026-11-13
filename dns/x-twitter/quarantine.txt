@@ -46,7 +46,6 @@ audubon.nyc1.twitter.com
 audubon.nyc2.twitter.com
 audubon.pao1.twitter.com
 audubon.par1.twitter.com
-audubon.pdxa.twitter.com
 audubon.pdxc.twitter.com
 audubon.pdxs.twitter.com
 audubon.pdxv.twitter.com
@@ -62,6 +61,12 @@ audubon.syd1.twitter.com
 audubon.syd2.twitter.com
 audubon.tyo1.twitter.com
 audubon.tyo3.twitter.com
+baremetal-console.atlc.twitter.com
+baremetal-console.aust.twitter.com
+baremetal-console.memw.twitter.com
+baremetal-console.memz.twitter.com
+baremetal-console.pdxc.twitter.com
+baremetal-console.pdxx.twitter.com
 baremetal-tenancy-broker.local.twitter.com
 baremetal-tenancy-broker.memx.twitter.com
 baremetal-tenancy-broker.memy.twitter.com
@@ -192,7 +197,6 @@ stats.wilson.memy.twitter.com
 stats.wilson.pdxs.twitter.com
 stats.wilson.pdxv.twitter.com
 stats.wilson.sfo2.twitter.com
-supermon.atla.twitter.com
 supermon.memy.twitter.com
 svn.atla.twitter.com
 svn.local.twitter.com

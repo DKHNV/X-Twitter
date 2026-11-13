@@ -5,8 +5,8 @@ api.wilson.pdxx.twitter.com
 artifactory-ci-krb.local.twitter.com
 artifactory-krb.local.twitter.com
 audubon.atlm.twitter.com
+audubon.pdxa.twitter.com
 audubon.pdxm.twitter.com
-baremetal-console.atla.twitter.com
 baremetal-console.memx.twitter.com
 bootserv.atla.twitter.com
 bootserv.pdxa.twitter.com
@@ -102,6 +102,7 @@ stats.wilson.local.twitter.com
 stats.wilson.pdxa.twitter.com
 stats.wilson.pdxc.twitter.com
 stats.wilson.pdxx.twitter.com
+supermon.atla.twitter.com
 supermon.memx.twitter.com
 syndication-o.twitter.com
 tw-ton.twitter.com
