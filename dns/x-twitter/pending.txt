@@ -58,4 +58,5 @@ nauth2.smfc.twitter.com
 registry-test.pdxa.twitter.com
 registry.pdxa.twitter.com
 xai-repairhub.memx.twitter.com
+xai-wilson.memx.twitter.com
 xai-wlm.memx.twitter.com

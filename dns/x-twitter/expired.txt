@@ -11,6 +11,7 @@ baremetal-console.memx.twitter.com
 bootserv.atla.twitter.com
 bootserv.pdxa.twitter.com
 bootserv.pdxx.twitter.com
+ddns3.atla.twitter.com
 docker-local.artifactory.local.twitter.com
 docker-public.artifactory.local.twitter.com
 docker-releases-local.artifactory.local.twitter.com
@@ -37,6 +38,7 @@ gitsprimary-basic.local.twitter.com
 gitsprimary.local.twitter.com
 gitsreplica.local.twitter.com
 gitssecondary.local.twitter.com
+hadoop-mltst.qus1.twitter.com
 ipmi.wilson.local.twitter.com
 ipmi.wilson.pdxa.twitter.com
 ipmi.wilson.pdxc.twitter.com
@@ -114,4 +116,3 @@ victoriametrics-d.memy.twitter.com
 wlm.local.twitter.com
 wlm.pdxa.twitter.com
 wlm.pdxx.twitter.com
-xai-wilson.memx.twitter.com

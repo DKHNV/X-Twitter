@@ -83,7 +83,6 @@ compute-qus1-c4.twitter.com
 compute-test.atla.twitter.com
 compute.atla.twitter.com
 configbus.local.twitter.com
-ddns3.atla.twitter.com
 dev.cftls.t.co
 dnsmgr.atla.twitter.com
 dnsmgr.atls.twitter.com
@@ -92,7 +91,6 @@ dnsmgr.pdxa.twitter.com
 dnsmgr.pdxs.twitter.com
 docker-test.atla.twitter.com
 docker.atla.twitter.com
-hadoop-mltst.qus1.twitter.com
 ipmi-proxy.atla.twitter.com
 ipmi-proxy.atlc.twitter.com
 ipmi-proxy.local.twitter.com
