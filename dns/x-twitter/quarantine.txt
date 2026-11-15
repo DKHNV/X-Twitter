@@ -82,7 +82,6 @@ compute-qus1-c3.twitter.com
 compute-qus1-c4.twitter.com
 compute-test.atla.twitter.com
 compute.atla.twitter.com
-configbus.local.twitter.com
 dev.cftls.t.co
 dnsmgr.atla.twitter.com
 dnsmgr.atls.twitter.com
