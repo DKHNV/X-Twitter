@@ -60,6 +60,7 @@ nauth1.atlc.twitter.com
 nauth1.smfc.twitter.com
 nauth2.atlc.twitter.com
 nauth2.smfc.twitter.com
+neteng.pdxa.twitter.com
 registry-test.pdxa.twitter.com
 registry.pdxa.twitter.com
 supermon.memx.twitter.com
