@@ -1,13 +1,10 @@
-api.wilson.local.twitter.com
 api.wilson.memy.twitter.com
 api.wilson.pdxa.twitter.com
 api.wilson.pdxc.twitter.com
 api.wilson.pdxx.twitter.com
-artifactory-ci-krb.local.twitter.com
-artifactory-krb.local.twitter.com
 audubon.atlc.twitter.com
 audubon.pdxa.twitter.com
-audubon.pdxm.twitter.com
+binaries.local.twitter.com
 configbus.local.twitter.com
 ddns3.atla.twitter.com
 docker-local.artifactory.local.twitter.com
@@ -37,7 +34,6 @@ gitsprimary.local.twitter.com
 gitsreplica.local.twitter.com
 gitssecondary.local.twitter.com
 hadoop-mltst.qus1.twitter.com
-ipmi.wilson.local.twitter.com
 ipmi.wilson.memy.twitter.com
 ipmi.wilson.pdxa.twitter.com
 ipmi.wilson.pdxc.twitter.com
@@ -89,6 +85,7 @@ rogit.local.twitter.com
 rogit.pdxa.twitter.com
 rogit.qus1.twitter.com
 rogit.smf1.twitter.com
+science-binaries.local.twitter.com
 stardock-canary.atla.twitter.com
 stardock-canary.local.twitter.com
 stardock-canary.memx.twitter.com
@@ -101,7 +98,6 @@ stardock.memx.twitter.com
 stardock.memy.twitter.com
 stardock.pdxa.twitter.com
 stardock.pdxx.twitter.com
-stats.wilson.local.twitter.com
 stats.wilson.memy.twitter.com
 stats.wilson.pdxa.twitter.com
 stats.wilson.pdxc.twitter.com
@@ -115,6 +111,9 @@ victoriametrics-b.memy.twitter.com
 victoriametrics-c.memy.twitter.com
 victoriametrics-d.memy.twitter.com
 wlm.local.twitter.com
+wlm.memy.twitter.com
 wlm.pdxa.twitter.com
 wlm.pdxx.twitter.com
 xai-wilson.memy.twitter.com
+yum.local.twitter.com
+yum.memy.twitter.com
