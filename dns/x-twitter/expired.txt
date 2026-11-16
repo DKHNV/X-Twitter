@@ -2,6 +2,7 @@ api.wilson.memy.twitter.com
 api.wilson.pdxa.twitter.com
 api.wilson.pdxc.twitter.com
 api.wilson.pdxx.twitter.com
+audubon.atlb.twitter.com
 audubon.atlc.twitter.com
 audubon.pdxa.twitter.com
 binaries.local.twitter.com
