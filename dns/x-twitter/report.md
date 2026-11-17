@@ -1,17 +1,17 @@
 # X-Twitter DNS Maintenance Report
 
-Generated: `2026-11-16T22:41:03Z`
+Generated: `2026-11-17T08:42:45Z`
 
 ## DNS lifecycle
 
 | State | Hosts |
 |---|---:|
 | Active | 32 |
-| Pending | 14 |
-| Suspect | 66 |
-| Quarantine | 227 |
+| Pending | 40 |
+| Suspect | 62 |
+| Quarantine | 231 |
 | Excluded | 0 |
-| Expired | 120 |
+| Expired | 94 |
 
 ## HTTPS/TLS observation
 
@@ -40,16 +40,16 @@ Average stability: **81.2%**
 
 | Hostname | State | Since | Observations | Last error | IPv4 | Stability | Samples |
 |---|---|---|---:|---|---|---:|---:|
-| `mx3.twitter.com` | dead | `2026-08-21T12:31:52Z` | 304 | TIMEOUT | 199.59.148.207 | 0.0 | 31 |
-| `mx4.twitter.com` | dead | `2026-08-21T12:31:52Z` | 304 | TIMEOUT | 199.16.156.115 | 0.0 | 31 |
-| `r.twimg.com` | dead | `2026-08-21T09:44:03Z` | 305 | TIMEOUT | 104.244.42.137, 104.244.42.201, 104.244.42.73 | 0.0 | 31 |
-| `syndication-o.twimg.com` | dead | `2026-08-21T09:44:03Z` | 305 | TIMEOUT | 104.244.42.137, 104.244.42.201, 104.244.42.73 | 0.0 | 31 |
-| `syndication.twimg.com` | dead | `2026-08-21T09:44:03Z` | 305 | TIMEOUT | 104.244.42.136, 104.244.42.200, 104.244.42.72 | 0.0 | 31 |
-| `www.t.co` | dead | `2026-08-21T09:44:03Z` | 305 | TLS_ERROR | 162.159.140.229, 172.66.0.227 | 0.0 | 31 |
+| `mx3.twitter.com` | dead | `2026-08-21T12:31:52Z` | 305 | TIMEOUT | 199.59.148.207 | 0.0 | 31 |
+| `mx4.twitter.com` | dead | `2026-08-21T12:31:52Z` | 305 | TIMEOUT | 199.16.156.115 | 0.0 | 31 |
+| `r.twimg.com` | dead | `2026-08-21T09:44:03Z` | 306 | TIMEOUT | 104.244.42.137, 104.244.42.201 | 0.0 | 31 |
+| `syndication-o.twimg.com` | dead | `2026-08-21T09:44:03Z` | 306 | TIMEOUT | 104.244.42.137, 104.244.42.201, 104.244.42.73 | 0.0 | 31 |
+| `syndication.twimg.com` | dead | `2026-08-21T09:44:03Z` | 306 | TIMEOUT | 104.244.42.136, 104.244.42.200, 104.244.42.72 | 0.0 | 31 |
+| `www.t.co` | dead | `2026-08-21T09:44:03Z` | 306 | TLS_ERROR | 162.159.140.229, 172.66.0.227 | 0.0 | 31 |
 
 ## Discovery
 
-Discovery state updated: `2026-11-16T22:41:03Z`
+Discovery state updated: `2026-11-17T08:42:45Z`
 
 ## Notes
 
