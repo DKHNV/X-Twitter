@@ -9,6 +9,7 @@ audubon.pdxa.twitter.com
 binaries.local.twitter.com
 configbus.local.twitter.com
 ddns3.atla.twitter.com
+dev.cftls.t.co
 docker-local.artifactory.local.twitter.com
 docker-public.artifactory.local.twitter.com
 docker-releases-local.artifactory.local.twitter.com
@@ -18,7 +19,6 @@ ipmi.wilson.memy.twitter.com
 ipmi.wilson.pdxa.twitter.com
 ipmi.wilson.pdxc.twitter.com
 ipmi.wilson.pdxx.twitter.com
-isolation.atla.twitter.com
 puppetserver.atla.twitter.com
 puppetserver.atlb.twitter.com
 puppetserver.atlc.twitter.com
