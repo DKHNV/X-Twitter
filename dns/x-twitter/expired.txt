@@ -65,9 +65,6 @@ stats.wilson.memx.twitter.com
 stats.wilson.memy.twitter.com
 supermon.atla.twitter.com
 test.cftls.t.co
-victoriametrics-a.memy.twitter.com
-victoriametrics-b.memy.twitter.com
-victoriametrics-d.memy.twitter.com
 wilson-stats.memy.twitter.com
 wlm.atla.twitter.com
 wlm.atls.twitter.com
