@@ -5,8 +5,12 @@ api.wilson.memx.twitter.com
 api.wilson.memy.twitter.com
 audubon.atlb.twitter.com
 audubon.atlc.twitter.com
+audubon.atls.twitter.com
+audubon.atlv.twitter.com
 audubon.memy.twitter.com
 audubon.pdxa.twitter.com
+audubon.pdxs.twitter.com
+audubon.pdxv.twitter.com
 binaries.local.twitter.com
 configbus.local.twitter.com
 ddns3.atla.twitter.com
@@ -17,6 +21,10 @@ ipmi.wilson.atls.twitter.com
 ipmi.wilson.atlv.twitter.com
 ipmi.wilson.memx.twitter.com
 ipmi.wilson.memy.twitter.com
+ldap.local.twitter.com
+ldap.qus1.twitter.com
+ldapsync.local.twitter.com
+ldapsync.qus1.twitter.com
 new.wilson-stats.memy.twitter.com
 puppetserver.atla.twitter.com
 puppetserver.atlb.twitter.com
