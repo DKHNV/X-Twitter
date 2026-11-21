@@ -88,9 +88,7 @@ compute-prod-voyage.atla.twitter.com
 compute-qus1-c3.twitter.com
 compute-qus1-c4.twitter.com
 compute-test-port.pdxa.twitter.com
-compute-test.atla.twitter.com
 compute-test.pdxa.twitter.com
-compute.atla.twitter.com
 compute.pdxa.twitter.com
 compute.qua2.twitter.com
 compute.qud1.twitter.com
@@ -99,9 +97,7 @@ dnsmgr.atls.twitter.com
 dnsmgr.local.twitter.com
 dnsmgr.pdxa.twitter.com
 dnsmgr.pdxs.twitter.com
-docker-test.atla.twitter.com
 docker-test.pdxa.twitter.com
-docker.atla.twitter.com
 docker.pdxa.twitter.com
 hadoop-backups-nn.atla.twitter.com
 hadoop-backups-rm.atla.twitter.com
@@ -168,7 +164,6 @@ nessus1.atls.twitter.com
 nessus2.atla.twitter.com
 nessus3.atla.twitter.com
 nessus4.atla.twitter.com
-neteng.atla.twitter.com
 neteng.atlc.twitter.com
 neteng.local.twitter.com
 neteng.memx.twitter.com
@@ -181,7 +176,6 @@ o2.atla.twitter.com
 o2.local.twitter.com
 o2.pdxa.twitter.com
 pdx1.twitter.com
-postmaster.local.twitter.com
 puppetserver.atls.twitter.com
 puppetserver.atlv.twitter.com
 puppetserver.local.twitter.com
@@ -196,13 +190,9 @@ pxe.pdxx.twitter.com
 pxe.sfo2.twitter.com
 redfish-proxy.memx.twitter.com
 redfish-proxy.pdxx.twitter.com
-registry-rw-test.atla.twitter.com
 registry-rw-test.pdxa.twitter.com
-registry-rw.atla.twitter.com
 registry-rw.pdxa.twitter.com
-registry-test.atla.twitter.com
 registry-test.pdxa.twitter.com
-registry.atla.twitter.com
 registry.pdxa.twitter.com
 sai.twitter.com
 service-proxy.qua2.twitter.com
@@ -227,7 +217,6 @@ stats.wilson.pdxv.twitter.com
 stats.wilson.sfo2.twitter.com
 supermon.memy.twitter.com
 svn.atla.twitter.com
-svn.local.twitter.com
 svn.pdxa.twitter.com
 thermos-proxy.atla.twitter.com
 thermos-proxy.local.twitter.com
