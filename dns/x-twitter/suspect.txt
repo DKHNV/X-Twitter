@@ -26,10 +26,12 @@ gitsreplica.local.twitter.com
 gitssecondary.local.twitter.com
 ipmi.wilson.local.twitter.com
 isolation.atla.twitter.com
-neteng.pdxa.twitter.com
 rogit.atla.twitter.com
 rogit.local.twitter.com
 rogit.pdxa.twitter.com
 rogit.qus1.twitter.com
 rogit.smf1.twitter.com
 stats.wilson.local.twitter.com
+wlm.local.twitter.com
+wlm.pdxa.twitter.com
+wlm.pdxx.twitter.com

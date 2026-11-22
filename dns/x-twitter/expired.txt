@@ -15,7 +15,6 @@ audubon.pdxv.twitter.com
 binaries.local.twitter.com
 compute-test.atla.twitter.com
 compute.atla.twitter.com
-configbus.local.twitter.com
 dev.cftls.t.co
 docker-test.atla.twitter.com
 docker.atla.twitter.com
@@ -30,6 +29,8 @@ ldap.qus1.twitter.com
 ldapsync.local.twitter.com
 ldapsync.qus1.twitter.com
 neteng.atla.twitter.com
+neteng.local.twitter.com
+neteng.sfo2.twitter.com
 new.wilson-stats.memy.twitter.com
 o2.atla.twitter.com
 o2.local.twitter.com
@@ -83,6 +84,9 @@ registry-rw.pdxa.twitter.com
 registry-test.atla.twitter.com
 registry.atla.twitter.com
 science-binaries.local.twitter.com
+staging.ipmi.wilson.local.twitter.com
+staging.ipmi.wilson.pdxa.twitter.com
+staging.ipmi.wilson.sfo2.twitter.com
 stats.wilson.atla.twitter.com
 stats.wilson.atls.twitter.com
 stats.wilson.atlv.twitter.com
@@ -93,6 +97,7 @@ supermon.memy.twitter.com
 svn.local.twitter.com
 test.cftls.t.co
 wilson-stats.memy.twitter.com
+wilson.local.twitter.com
 wlm.atla.twitter.com
 wlm.atls.twitter.com
 wlm.atlv.twitter.com
