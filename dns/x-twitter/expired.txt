@@ -3,14 +3,12 @@ api.wilson.atls.twitter.com
 api.wilson.atlv.twitter.com
 api.wilson.memx.twitter.com
 api.wilson.sfo2.twitter.com
-audubon.atlb.twitter.com
 audubon.atls.twitter.com
 audubon.atlv.twitter.com
 audubon.memy.twitter.com
 audubon.pdxc.twitter.com
 audubon.pdxs.twitter.com
 audubon.pdxv.twitter.com
-binaries.local.twitter.com
 compute-test.atla.twitter.com
 compute.atla.twitter.com
 dev.cftls.t.co
@@ -80,7 +78,6 @@ registry-rw.atla.twitter.com
 registry-rw.pdxa.twitter.com
 registry-test.atla.twitter.com
 registry.atla.twitter.com
-science-binaries.local.twitter.com
 staging.ipmi.wilson.local.twitter.com
 staging.ipmi.wilson.pdxa.twitter.com
 staging.ipmi.wilson.sfo2.twitter.com
@@ -98,10 +95,7 @@ wlm.atla.twitter.com
 wlm.atls.twitter.com
 wlm.atlv.twitter.com
 wlm.memx.twitter.com
-wlm.memy.twitter.com
 wlm.pdxc.twitter.com
 wlm.sfo2.twitter.com
 xai-audubon.memx.twitter.com
 xai-audubon.memy.twitter.com
-yum.local.twitter.com
-yum.memy.twitter.com
