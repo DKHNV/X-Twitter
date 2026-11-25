@@ -158,9 +158,6 @@ hadoop-tst-rm.atla.twitter.com
 hbase-pcadmin.qus1.twitter.com
 hbase-pcadmintst.qus1.twitter.com
 ipmi-proxy.atla.twitter.com
-ipmi-proxy.atlc.twitter.com
-ipmi-proxy.memx.twitter.com
-ipmi-proxy.memy.twitter.com
 ipmi-proxy.pdxa.twitter.com
 ipmi-proxy.pdxx.twitter.com
 ipmi.wilson.atlc.twitter.com
@@ -168,17 +165,11 @@ ipmi.wilson.local.twitter.com
 ipmi.wilson.pdxs.twitter.com
 ipmi.wilson.pdxv.twitter.com
 kf.qus1.twitter.com
-ldap.atla.twitter.com
 ldap.atlc.twitter.com
-ldap.pdxa.twitter.com
 ldap.pdxc.twitter.com
-ldap.sfo2.twitter.com
 ldapmaster.local.twitter.com
-ldapsync.atla.twitter.com
 ldapsync.atlc.twitter.com
-ldapsync.pdxa.twitter.com
 ldapsync.pdxc.twitter.com
-ldapsync.sfo2.twitter.com
 looker-devel.qus1.twitter.com
 looker-staging.qus1.twitter.com
 nauth1.atlc.twitter.com
@@ -191,7 +182,6 @@ nessus1.atls.twitter.com
 nessus2.atla.twitter.com
 nessus3.atla.twitter.com
 nessus4.atla.twitter.com
-neteng.atlc.twitter.com
 neteng.memx.twitter.com
 neteng.pdxa.twitter.com
 neteng.pdxc.twitter.com
@@ -203,7 +193,6 @@ puppetserver.pdxs.twitter.com
 puppetserver.pdxv.twitter.com
 pxe.atlc.twitter.com
 pxe.memx.twitter.com
-pxe.pdxa.twitter.com
 pxe.pdxx.twitter.com
 pxe.sfo2.twitter.com
 redfish-proxy.memx.twitter.com
@@ -219,7 +208,6 @@ sai.twitter.com
 service-proxy.qua2.twitter.com
 service-proxy.qud1.twitter.com
 service-proxy.qus1.twitter.com
-service.qus1.twitter.com
 servitor.atla.twitter.com
 servitor.atlc.twitter.com
 servitor.local.twitter.com
@@ -245,7 +233,6 @@ trivy.local.twitter.com
 trivy.pdxa.twitter.com
 uauth.ise.twitter.com
 wekas3.atla.twitter.com
-wlm.atlc.twitter.com
 wlm.pdxs.twitter.com
 wlm.pdxv.twitter.com
 xai-ndb.memx.twitter.com
@@ -258,8 +245,6 @@ xray-staging.local.twitter.com
 xray.atla.twitter.com
 xray.local.twitter.com
 xray.pdxa.twitter.com
-yum.atla.twitter.com
-yum.atlc.twitter.com
 yum.memx.twitter.com
 yum.pdxa.twitter.com
 yum.pdxc.twitter.com
