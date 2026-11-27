@@ -83,9 +83,6 @@ bootserv.memy.twitter.com
 bootserv.memz.twitter.com
 bootserv.pdxa.twitter.com
 bootserv.pdxx.twitter.com
-cgit.atla.twitter.com
-cgit.local.twitter.com
-cgit.pdxa.twitter.com
 compute-ipam-test.pdxa.twitter.com
 compute-ipam.pdxa.twitter.com
 compute-prod-admiral.smf1.twitter.com
@@ -184,7 +181,6 @@ nessus3.atla.twitter.com
 nessus4.atla.twitter.com
 neteng.memx.twitter.com
 neteng.pdxa.twitter.com
-neteng.pdxc.twitter.com
 pdx1.twitter.com
 puppetserver.atls.twitter.com
 puppetserver.atlv.twitter.com
@@ -232,7 +228,10 @@ thermos-proxy.pdxa.twitter.com
 tw-ton.twitter.com
 twimg.com
 uauth.ise.twitter.com
+victoriametrics-a.memy.twitter.com
+victoriametrics-b.memy.twitter.com
 victoriametrics-c.memy.twitter.com
+victoriametrics-d.memy.twitter.com
 wekas3.atla.twitter.com
 wlm.local.twitter.com
 wlm.pdxa.twitter.com
@@ -246,6 +245,5 @@ xai-twippy.memx.twitter.com
 xai-wilson.memx.twitter.com
 xai-wlm.memx.twitter.com
 yum.memx.twitter.com
-yum.pdxa.twitter.com
 yum.pdxc.twitter.com
 yum.pdxx.twitter.com
