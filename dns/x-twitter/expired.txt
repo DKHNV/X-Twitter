@@ -107,6 +107,7 @@ servitor.local.twitter.com
 servitor.pdxa.twitter.com
 servitor.pdxc.twitter.com
 servitor.sfo2.twitter.com
+staging.ipmi.wilson.atla.twitter.com
 staging.ipmi.wilson.atlc.twitter.com
 staging.ipmi.wilson.local.twitter.com
 staging.ipmi.wilson.pdxa.twitter.com
@@ -127,6 +128,7 @@ wlm.atlc.twitter.com
 wlm.pdxc.twitter.com
 wlm.sfo2.twitter.com
 xai-audubon.memy.twitter.com
+xai-rds.memx.twitter.com
 xray-staging.local.twitter.com
 xray.atla.twitter.com
 xray.local.twitter.com
