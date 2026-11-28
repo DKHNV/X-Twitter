@@ -1,6 +1,7 @@
 api.wilson.memy.twitter.com
 audubon.atlb.twitter.com
 audubon.atlc.twitter.com
+audubon.memy.twitter.com
 audubon.pdxa.twitter.com
 binaries.local.twitter.com
 configbus.local.twitter.com

@@ -41,7 +41,6 @@ audubon.memo.twitter.com
 audubon.memp.twitter.com
 audubon.memu.twitter.com
 audubon.memw.twitter.com
-audubon.memx.twitter.com
 audubon.mia1.twitter.com
 audubon.mil1.twitter.com
 audubon.mrs1.twitter.com
@@ -187,7 +186,6 @@ puppetserver.atlv.twitter.com
 puppetserver.local.twitter.com
 puppetserver.pdxs.twitter.com
 puppetserver.pdxv.twitter.com
-pxe.memx.twitter.com
 pxe.pdxx.twitter.com
 redfish-proxy.local.twitter.com
 redfish-proxy.pdxa.twitter.com
@@ -200,7 +198,6 @@ rogit.pdxa.twitter.com
 rogit.qus1.twitter.com
 rogit.smf1.twitter.com
 sai.twitter.com
-service-proxy.qus1.twitter.com
 stardock-canary.atla.twitter.com
 stardock-canary.local.twitter.com
 stardock-canary.memx.twitter.com
